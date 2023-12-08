@@ -1,0 +1,2920 @@
+recipe_name,prep,cooking,food type,Calories, Carbohydrates, Protein, Fat, Saturated Fat, Polyunsaturated Fat, Sodium, Potassium, Fiber, Sugar, Vitamin A, Vitamin C, Calcium, Iron,Serving, Cholesterol, Trans Fat,url,ingredients,tokenized_ingredients,cleaned_tokenized_ingredients
+Garlic Mushroom,"5
+minutes","15
+minutes",Appetizer, 617kcal (31%, 26g (9%, 10g (20%, 49g (75%, 24g (120%, 3g Monounsaturated Fat, 628mg (26%, 1039mg (30%, 5g (20%, 10g (11%, 1165IU (23%, 21mg (25%, 87mg (9%, 2mg (11%,,,,https://panlasangpinoy.com/garlic-mushroom/,"▢
+8 ounces mushrooms
+▢
+1 teaspoon Knorr Liquid Seasoning
+▢
+5 cloves garlic
+▢
+1 teaspoon thyme
+▢
+2 teaspoons parsley chopped
+▢
+3 ounces dry white wine
+▢
+3 tablespoons butter
+▢
+1 tablespoon olive oil
+▢
+1 onion minced
+▢
+Salt and ground black pepper to taste","[[], ['8', 'ounces', 'mushrooms'], [], ['1', 'teaspoon', 'Knorr', 'Liquid', 'Seasoning'], [], ['5', 'cloves', 'garlic'], [], ['1', 'teaspoon', 'thyme'], [], ['2', 'teaspoons', 'parsley', 'chopped'], [], ['3', 'ounces', 'dry', 'white', 'wine'], [], ['3', 'tablespoons', 'butter'], [], ['1', 'tablespoon', 'olive', 'oil'], [], ['1', 'onion', 'minced'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['mushrooms', 'knorr', 'liquid', 'seasoning', 'garlic', 'thyme', 'parsley', 'dry', 'white', 'wine', 'butter', 'olive', 'oil', 'onion', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Stir Fried Chicken Franks,"5
+minutes","10
+minutes",Appetizer, 294kcal (15%, 22g (7%, 10g (20%, 19g (29%, 5g (25%, 3g Monounsaturated Fat, 797mg (33%, 198mg (6%, 0.5g (2%, 3g (3%, 47IU (1%, 3mg (4%, 32mg (3%, 2mg (11%,,,,https://panlasangpinoy.com/stir-fried-chicken-franks/,"▢
+10 CDO Chicken Franks sliced in half
+▢
+3 cloves garlic minced
+▢
+1 onion sliced into rings
+▢
+3 tablespoons banana ketchup
+▢
+1 tablespoon oyster sauce
+▢
+2 tablespoons cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['10', 'CDO', 'Chicken', 'Franks', 'sliced', 'in', 'half'], [], ['3', 'cloves', 'garlic', 'minced'], [], ['1', 'onion', 'sliced', 'into', 'rings'], [], ['3', 'tablespoons', 'banana', 'ketchup'], [], ['1', 'tablespoon', 'oyster', 'sauce'], [], ['2', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['cdo', 'chicken', 'franks', 'in', 'garlic', 'onion', 'into', 'rings', 'banana', 'ketchup', 'oyster', 'sauce', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Asian Chicken Lettuce Wrap,"5
+minutes","15
+minutes",Appetizer, 139kcal (7%, 10g (3%, 19g (38%, 2g (3%, 0.5g (3%, 1g Monounsaturated Fat, 470mg (20%, 370mg (11%, 3g (12%, 4g (4%, 2306IU (46%, 10mg (12%, 48mg (5%, 2mg (11%,,,,https://panlasangpinoy.com/asian-chicken-lettuce-wrap/,"▢
+1 head lettuce
+▢
+450 grams CDO Homestyle Chicken Flakes in Oil
+▢
+½ cup green onion chopped
+▢
+1 onion minced
+▢
+¼ cup carrot minced
+▢
+1 cup jicama diced (singkamas)
+▢
+2 teaspoons soy sauce
+▢
+½ teaspoon white vinegar
+▢
+1 ½ teaspoon sesame oil
+▢
+2 ½ tablespoons hoisin sauce
+▢
+Salt and ground black pepper to taste","[[], ['1', 'head', 'lettuce'], [], ['450', 'grams', 'CDO', 'Homestyle', 'Chicken', 'Flakes', 'in', 'Oil'], [], ['½', 'cup', 'green', 'onion', 'chopped'], [], ['1', 'onion', 'minced'], [], ['¼', 'cup', 'carrot', 'minced'], [], ['1', 'cup', 'jicama', 'diced', 'singkamas'], [], ['2', 'teaspoons', 'soy', 'sauce'], [], ['½', 'teaspoon', 'white', 'vinegar'], [], ['1', '½', 'teaspoon', 'sesame', 'oil'], [], ['2', '½', 'tablespoons', 'hoisin', 'sauce'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['head', 'lettuce', 'cdo', 'homestyle', 'chicken', 'flakes', 'in', 'oil', 'green', 'onion', 'onion', 'carrot', 'jicama', 'singkamas', 'soy', 'sauce', 'white', 'vinegar', 'sesame', 'oil', 'hoisin', 'sauce', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Loaded Nachos Recipe,"5
+minutes","15
+minutes",Appetizer, 729kcal (36%, 68g (23%, 20g (40%, 43g (66%, 11g (55%, 12g Monounsaturated Fat, 1614mg (67%, 510mg (15%, 6g (24%, 4g (4%, 633IU (13%, 21mg (25%, 288mg (29%, 3mg (17%,,,,https://panlasangpinoy.com/loaded-nachos-with-corned-beef/,"▢
+260 grams CDO Home Style Corned Beef in Pasta Sauce
+▢
+16 oz. tortilla chips
+▢
+1 onion chopped
+▢
+1 ½ teaspoons taco seasoning
+▢
+2 tablespoons cooking oil","[[], ['260', 'grams', 'CDO', 'Home', 'Style', 'Corned', 'Beef', 'in', 'Pasta', 'Sauce'], [], ['16', 'oz', 'tortilla', 'chips'], [], ['1', 'onion', 'chopped'], [], ['1', '½', 'teaspoons', 'taco', 'seasoning'], [], ['2', 'tablespoons', 'cooking', 'oil']]","['cdo', 'home', 'style', 'corned', 'beef', 'in', 'pasta', 'sauce', 'tortilla', 'chips', 'onion', 'taco', 'seasoning', 'cooking', 'oil']"
+Betamax Recipe,"30
+minutes","10
+minutes",Appetizer, 352kcal (18%, 6g (2%, 34g (68%, 20g (31%, 4g (20%, 4g Monounsaturated Fat, 1563mg (65%, 531mg (15%, 1g (4%, 2g (2%, 20137IU (403%, 42mg (51%, 37mg (4%, 17mg (94%,,,,https://panlasangpinoy.com/betamax-recipe/,"▢
+2 lbs. coagulated chicken blood
+▢
+1 Knorr Chicken cube
+▢
+1 teaspoon garlic powder
+▢
+¼ teaspoon ground black pepper
+▢
+1/4 cup soy sauce
+▢
+1/4 cup white vinegar
+▢
+3/4 cup water
+▢
+¼ cup garlic oil","[[], ['2', 'lbs', 'coagulated', 'chicken', 'blood'], [], ['1', 'Knorr', 'Chicken', 'cube'], [], ['1', 'teaspoon', 'garlic', 'powder'], [], ['¼', 'teaspoon', 'ground', 'black', 'pepper'], [], ['14', 'cup', 'soy', 'sauce'], [], ['14', 'cup', 'white', 'vinegar'], [], ['34', 'cup', 'water'], [], ['¼', 'cup', 'garlic', 'oil']]","['coagulated', 'chicken', 'blood', 'knorr', 'chicken', 'cube', 'garlic', 'powder', 'ground', 'black', 'pepper', 'soy', 'sauce', 'white', 'vinegar', 'water', 'garlic', 'oil']"
+Coconut Shrimp,"10
+minutes","7
+minutes",Appetizer, 902kcal (45%, 82g (27%, 11g (22%, 60g (92%, 15g (75%, 14g Monounsaturated Fat, 444mg (19%, 344mg (10%, 5g (20%, 35g (39%, 139IU (3%, 2mg (2%, 151mg (15%, 4mg (22%,,,,https://panlasangpinoy.com/coconut-shrimp/,"▢
+1 lb. large shrimp cleaned and shell removed
+▢
+1 cup bread crumbs
+▢
+1 cup sweetened desiccated coconut
+▢
+Salt and ground black pepper to taste
+▢
+½ cup all-purpose flour
+▢
+1 cup cooking oil","[[], ['1', 'lb', 'large', 'shrimp', 'cleaned', 'and', 'shell', 'removed'], [], ['1', 'cup', 'bread', 'crumbs'], [], ['1', 'cup', 'sweetened', 'desiccated', 'coconut'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste'], [], ['½', 'cup', 'allpurpose', 'flour'], [], ['1', 'cup', 'cooking', 'oil']]","['shrimp', 'cleaned', 'and', 'shell', 'removed', 'bread', 'crumbs', 'sweetened', 'desiccated', 'coconut', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste', 'all', 'purpose', 'flour', 'cooking', 'oil']"
+Original Buffalo Wings,,"29
+minutes",Appetizer, 530kcal (27%, 1g Protein,, 45g (69%, 19g (95%, 6g Monounsaturated Fat, 1348mg (56%, 260mg (7%,, 1g (1%, 823IU (16%, 1mg (1%, 25mg (3%, 2mg (11%,,,,https://panlasangpinoy.com/original-buffalo-chicken-wings/,"▢
+2 lbs chicken wings
+▢
+5 Tablespoons unsalted butter
+▢
+1/2 cup Frank's RedHot sauce","[[], ['2', 'lbs', 'chicken', 'wings'], [], ['5', 'Tablespoons', 'unsalted', 'butter'], [], ['12', 'cup', 'Franks', 'RedHot', 'sauce']]","['chicken', 'wings', 'unsalted', 'butter', 'frank', 's', 'redhot', 'sauce']"
+Vegetable Okoy,"10
+minutes",,Appetizer, 746kcal (37%, 48g (16%, 8g (16%, 58g (89%, 5g (25%, 16g Monounsaturated Fat, 793mg (33%, 464mg (13%, 3g (12%, 3g (3%, 3414IU (68%, 108mg (131%, 241mg (24%, 2mg (11%,,,,https://panlasangpinoy.com/vegetable-okoy/,"▢
+8 ounces kalabasa
+▢
+1 piece carrot
+▢
+½ piece onion
+▢
+3/4 cup malunggay leaves
+▢
+1 cup cooking oil","[[], ['8', 'ounces', 'kalabasa'], [], ['1', 'piece', 'carrot'], [], ['½', 'piece', 'onion'], [], ['34', 'cup', 'malunggay', 'leaves'], [], ['1', 'cup', 'cooking', 'oil']]","['kalabasa', 'carrot', 'onion', 'malunggay', 'leaves', 'cooking', 'oil']"
+Cheesy Onion Rings,"15
+minutes","7
+minutes",Appetizer, 1388kcal (69%, 43g (14%, 21g (42%, 128g (197%, 17g (85%, 32g Monounsaturated Fat, 1176mg (49%, 300mg (9%, 2g (8%, 5g (6%, 167IU (3%, 2mg (2%, 197mg (20%, 3mg (17%,,,,https://panlasangpinoy.com/cheesy-onion-rings/,"▢
+1 piece onion large sliced into thick rings
+▢
+8 Mozzarella cheese sticks
+▢
+1 cup milk
+▢
+1 egg beaten
+▢
+1 cup Panko bread crumbs
+▢
+2 cups cooking oil","[[], ['1', 'piece', 'onion', 'large', 'sliced', 'into', 'thick', 'rings'], [], ['8', 'Mozzarella', 'cheese', 'sticks'], [], ['1', 'cup', 'milk'], [], ['1', 'egg', 'beaten'], [], ['1', 'cup', 'Panko', 'bread', 'crumbs'], [], ['2', 'cups', 'cooking', 'oil']]","['onion', 'into', 'thick', 'rings', 'mozzarella', 'cheese', 'sticks', 'milk', 'egg', 'panko', 'bread', 'crumbs', 'cooking', 'oil']"
+Filipino Chicken Macaroni Salad Recipe,"10
+minutes","35
+minutes",Appetizer,, 75g (25%, 25g (50%, 36g (55%, 7g (35%,, 1392mg (58%, 671mg (19%, 4g (16%, 15g (17%, 3085IU (62%, 21.3mg (26%, 191mg (19%, 1.9mg (11%, 8g Calories, 58mg (19%,,https://panlasangpinoy.com/filipino-chicken-macaroni-salad-recipe/,"▢
+1 lb. boneless chicken breast
+▢
+1 lb elbow macaroni
+▢
+1 1/2 cups Lady’s Choice Mayonnaise
+▢
+1 can pineapple chunks 20 oz
+▢
+1 1/2 cups shredded cheddar cheese
+▢
+1 bottle pimiento 6.5 oz chopped
+▢
+1 cup carrot chopped
+▢
+1 piece green bell pepper chopped
+▢
+1 cup raisins
+▢
+1/4 cup sweet relish
+▢
+1/2 teaspoon garlic powder
+▢
+3 teaspoons salt this will be used when boiling chicken and macaroni, and as a seasoning
+▢
+1/4 teaspoon ground black pepper
+▢
+Water for boiling","[[], ['1', 'lb', 'boneless', 'chicken', 'breast'], [], ['1', 'lb', 'elbow', 'macaroni'], [], ['1', '12', 'cups', 'Ladys', 'Choice', 'Mayonnaise'], [], ['1', 'can', 'pineapple', 'chunks', '20', 'oz'], [], ['1', '12', 'cups', 'shredded', 'cheddar', 'cheese'], [], ['1', 'bottle', 'pimiento', '65', 'oz', 'chopped'], [], ['1', 'cup', 'carrot', 'chopped'], [], ['1', 'piece', 'green', 'bell', 'pepper', 'chopped'], [], ['1', 'cup', 'raisins'], [], ['14', 'cup', 'sweet', 'relish'], [], ['12', 'teaspoon', 'garlic', 'powder'], [], ['3', 'teaspoons', 'salt', 'this', 'will', 'be', 'used', 'when', 'boiling', 'chicken', 'and', 'macaroni', 'and', 'as', 'a', 'seasoning'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['Water', 'for', 'boiling']]","['boneless', 'chicken', 'breast', 'elbow', 'macaroni', 'lady', 's', 'choice', 'mayonnaise', 'pineapple', 'chunks', 'cheddar', 'cheese', 'pimiento', 'carrot', 'green', 'bell', 'pepper', 'raisins', 'sweet', 'relish', 'garlic', 'powder', 'salt', 'this', 'will', 'be', 'used', 'when', 'boiling', 'chicken', 'and', 'macaroni', 'and', 'as', 'a', 'seasoning', 'ground', 'black', 'pepper', 'water', 'for', 'boiling']"
+Pork Siomai,"15
+minutes","20
+minutes",Appetizer, 574kcal (29%, 10g (3%, 34g (68%, 43g (66%, 15g (75%, 5g Monounsaturated Fat, 163mg (7%, 723mg (21%, 2g (8%, 3g (3%, 3715IU (74%, 11mg (13%, 58mg (6%, 2mg (11%,,,,https://panlasangpinoy.com/pork-siomai-recipe/,"▢
+2 1/2 lbs ground pork
+▢
+1 cup shrimp minced
+▢
+2 sachets Knorr SavorRich Pork Seasoning 44g each
+▢
+1 cup jicama minced
+▢
+1 tablespoon sesame oil
+▢
+1/4 teaspoon ground black pepper
+▢
+1 cup onion minced
+▢
+1 cup carrots minced
+▢
+1 piece raw egg
+▢
+1/2 cup scallions minced
+▢
+30 pieces wonton wrapper
+▢
+Water for steaming","[[], ['2', '12', 'lbs', 'ground', 'pork'], [], ['1', 'cup', 'shrimp', 'minced'], [], ['2', 'sachets', 'Knorr', 'SavorRich', 'Pork', 'Seasoning', '44g', 'each'], [], ['1', 'cup', 'jicama', 'minced'], [], ['1', 'tablespoon', 'sesame', 'oil'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'cup', 'onion', 'minced'], [], ['1', 'cup', 'carrots', 'minced'], [], ['1', 'piece', 'raw', 'egg'], [], ['12', 'cup', 'scallions', 'minced'], [], ['30', 'pieces', 'wonton', 'wrapper'], [], ['Water', 'for', 'steaming']]","['ground', 'pork', 'shrimp', 'sachets', 'knorr', 'savorrich', 'pork', 'seasoning', '44g', 'each', 'jicama', 'sesame', 'oil', 'ground', 'black', 'pepper', 'onion', 'carrots', 'raw', 'egg', 'scallions', 'wonton', 'wrapper', 'water', 'for', 'steaming']"
+Longanisa Lumpiang Shanghai,"15
+minutes","12
+minutes",Appetizer, 450kcal (23%, 17g (6%, 21g (42%, 33g (51%, 10g (50%,, 918mg (38%, 473mg (14%, 2g (8%, 11g (12%, 1895IU (38%, 9mg (11%, 39mg (4%, 2mg (11%,, 110mg (37%,,https://panlasangpinoy.com/longanisa-lumpiang-shanghai/,"▢
+1 ½ lb. ground pork
+▢
+2 pieces longanisa
+▢
+1 piece Knorr Pork Cube
+▢
+1 piece carrot minced
+▢
+¾ cup green onion chopped
+▢
+¾ cup singkamas minced
+▢
+1 piece onion minced
+▢
+¼ teaspoon garlic powder
+▢
+1 piece egg
+▢
+1 ½ teaspoons salt
+▢
+½ teaspoon ground black pepper
+▢
+20 pieces lumpia wrapper
+▢
+2 cups cooking oil","[[], ['1', '½', 'lb', 'ground', 'pork'], [], ['2', 'pieces', 'longanisa'], [], ['1', 'piece', 'Knorr', 'Pork', 'Cube'], [], ['1', 'piece', 'carrot', 'minced'], [], ['¾', 'cup', 'green', 'onion', 'chopped'], [], ['¾', 'cup', 'singkamas', 'minced'], [], ['1', 'piece', 'onion', 'minced'], [], ['¼', 'teaspoon', 'garlic', 'powder'], [], ['1', 'piece', 'egg'], [], ['1', '½', 'teaspoons', 'salt'], [], ['½', 'teaspoon', 'ground', 'black', 'pepper'], [], ['20', 'pieces', 'lumpia', 'wrapper'], [], ['2', 'cups', 'cooking', 'oil']]","['ground', 'pork', 'longanisa', 'knorr', 'pork', 'cube', 'carrot', 'green', 'onion', 'singkamas', 'onion', 'garlic', 'powder', 'egg', 'salt', 'ground', 'black', 'pepper', 'lumpia', 'wrapper', 'cooking', 'oil']"
+Eggplant Meatballs Talong Bola Bola Recipe,"10
+minutes","15
+minutes",Appetizer, 2354kcal (118%, 160g (53%, 58g (116%, 163g (251%, 32g (160%,, 5553mg (231%, 1193mg (34%, 9g (36%, 25g (28%, 618IU (12%, 12mg (15%, 266mg (27%, 11mg (61%,, 333mg (111%,,https://panlasangpinoy.com/talong-bola-bola/,"▢
+2 pieces Chinese eggplant
+▢
+6 ounces ground pork
+▢
+3/4 cup bread crumbs
+▢
+3/4 cup all-purpose flour
+▢
+1 piece onion minced
+▢
+1 teaspoon garlic powder
+▢
+1 piece egg
+▢
+1 1/2 teaspoons salt
+▢
+1/2 teaspoon ground black pepper
+▢
+1 1/2 cups cooking oil
+▢
+4 cups water for boiling","[[], ['2', 'pieces', 'Chinese', 'eggplant'], [], ['6', 'ounces', 'ground', 'pork'], [], ['34', 'cup', 'bread', 'crumbs'], [], ['34', 'cup', 'allpurpose', 'flour'], [], ['1', 'piece', 'onion', 'minced'], [], ['1', 'teaspoon', 'garlic', 'powder'], [], ['1', 'piece', 'egg'], [], ['1', '12', 'teaspoons', 'salt'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', '12', 'cups', 'cooking', 'oil'], [], ['4', 'cups', 'water', 'for', 'boiling']]","['chinese', 'eggplant', 'ground', 'pork', 'bread', 'crumbs', 'all', 'purpose', 'flour', 'onion', 'garlic', 'powder', 'egg', 'salt', 'ground', 'black', 'pepper', 'cooking', 'oil', 'water', 'for', 'boiling']"
+Kilawing Labanos Recipe,"15
+minutes","25
+minutes",Appetizer, 260kcal (13%, 9g (3%, 12g (24%, 19g (29%, 4g (20%,, 3547mg (148%, 404mg (12%, 2g (8%, 5g (6%, 4603IU (92%, 27mg (33%, 42mg (4%, 6mg (33%,, 90mg (30%,,https://panlasangpinoy.com/kilawing-labanos/,"▢
+1 piece daikon radish
+▢
+5 ounces pork minced
+▢
+3 ounces pork liver minced
+▢
+3/4 cup white vinegar
+▢
+1 1/2 teaspoons sugar
+▢
+1 piece onion sliced
+▢
+4 cloves garlic minced
+▢
+3 tablespoons cooking oil
+▢
+2 tablespoons salt for prep
+▢
+Salt and pepper to taste","[[], ['1', 'piece', 'daikon', 'radish'], [], ['5', 'ounces', 'pork', 'minced'], [], ['3', 'ounces', 'pork', 'liver', 'minced'], [], ['34', 'cup', 'white', 'vinegar'], [], ['1', '12', 'teaspoons', 'sugar'], [], ['1', 'piece', 'onion', 'sliced'], [], ['4', 'cloves', 'garlic', 'minced'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['2', 'tablespoons', 'salt', 'for', 'prep'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['daikon', 'radish', 'pork', 'pork', 'liver', 'white', 'vinegar', 'sugar', 'onion', 'garlic', 'cooking', 'oil', 'salt', 'for', 'prep', 'salt', 'and', 'pepper', 'to', 'taste']"
+Fried Ham and Cheese Roll,"10
+minutes","7
+minutes",Appetizer,, 18g (6%, 10g (20%, 23g (35%, 5g (25%,, 511mg (21%, 122mg (3%, 2g (8%, 3g (3%, 275IU (6%, 5.1mg (6%, 126mg (13%, 1.6mg (9%, 8g Calories, 27mg (9%,,https://panlasangpinoy.com/fried-ham-and-cheese-roll/,"▢
+8 slices bread
+▢
+4 ounces ham sliced into thick strips
+▢
+3 ounces cheese sliced into thick strips
+▢
+1/4 cup pimento optional
+▢
+3/4 cup Panko bread crumbs
+▢
+2 pieces eggs beaten
+▢
+2 cups cooking oil
+▢
+1/2 cup mayonnaise","[[], ['8', 'slices', 'bread'], [], ['4', 'ounces', 'ham', 'sliced', 'into', 'thick', 'strips'], [], ['3', 'ounces', 'cheese', 'sliced', 'into', 'thick', 'strips'], [], ['14', 'cup', 'pimento', 'optional'], [], ['34', 'cup', 'Panko', 'bread', 'crumbs'], [], ['2', 'pieces', 'eggs', 'beaten'], [], ['2', 'cups', 'cooking', 'oil'], [], ['12', 'cup', 'mayonnaise']]","['bread', 'ham', 'into', 'thick', 'strips', 'cheese', 'into', 'thick', 'strips', 'pimento', 'optional', 'panko', 'bread', 'crumbs', 'eggs', 'cooking', 'oil', 'mayonnaise']"
+Dynamite Lumpia,"8
+minutes","20
+minutes",Appetizer, 563kcal (28%, 6g (2%, 21g (42%, 50g (77%, 14g (70%,, 306mg (13%, 285mg (8%,, 1g (1%, 460IU (9%, 4mg (5%, 303mg (30%, 1.2mg (7%,, 135mg (45%,,https://panlasangpinoy.com/dyanamite-lumpia/,"▢
+8 pieces long green pepper
+▢
+4 ounces cheddar cheese
+▢
+8 pieces lumpia wrapper
+▢
+2 cups cooking oil","[[], ['8', 'pieces', 'long', 'green', 'pepper'], [], ['4', 'ounces', 'cheddar', 'cheese'], [], ['8', 'pieces', 'lumpia', 'wrapper'], [], ['2', 'cups', 'cooking', 'oil']]","['long', 'green', 'pepper', 'cheddar', 'cheese', 'lumpia', 'wrapper', 'cooking', 'oil']"
+Special Tokwat Baboy,"10
+minutes","20
+minutes",Appetizer,, 8g (3%, 19g (38%, 90g (138%, 24g (120%, 15g Monounsaturated Fat, 995mg (41%, 466mg (13%, 1g (4%, 4g (4%, 200IU (4%, 6mg (7%, 60mg (6%, 2mg (11%, 4g Calories,,,https://panlasangpinoy.com/special-tokwat-baboy/,"▢
+1 lb. pork belly grilled and sliced
+▢
+12 oz extra firm tofu
+▢
+1 red onion sliced
+▢
+3/4 cup green onions chopped
+▢
+1 cup cane vinegar
+▢
+3 tablespoons soy sauce
+▢
+1/2 tablespoon brown sugar
+▢
+1/4 teaspoon ground black pepper
+▢
+1/4 teaspoon salt
+▢
+1/2 cup cooking oil","[[], ['1', 'lb', 'pork', 'belly', 'grilled', 'and', 'sliced'], [], ['12', 'oz', 'extra', 'firm', 'tofu'], [], ['1', 'red', 'onion', 'sliced'], [], ['34', 'cup', 'green', 'onions', 'chopped'], [], ['1', 'cup', 'cane', 'vinegar'], [], ['3', 'tablespoons', 'soy', 'sauce'], [], ['12', 'tablespoon', 'brown', 'sugar'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['14', 'teaspoon', 'salt'], [], ['12', 'cup', 'cooking', 'oil']]","['pork', 'belly', 'grilled', 'and', 'extra', 'firm', 'tofu', 'red', 'onion', 'green', 'onions', 'cane', 'vinegar', 'soy', 'sauce', 'brown', 'sugar', 'ground', 'black', 'pepper', 'salt', 'cooking', 'oil']"
+Breaded Butterfly Shrimp Recipe,"10
+minutes","10
+minutes",Appetizer, 409kcal (20%, 29g (10%, 27g (54%, 19g (29%, 1g (5%,, 1573mg (66%, 145mg (4%, 1g (4%, 1g (1%, 125IU (3%, 4.6mg (6%, 195mg (20%, 4.3mg (24%,, 287mg (96%,,https://panlasangpinoy.com/breaded-butterfly-shrimp-recipe/,"▢
+1 lb medium shrimp head removed, shelled, and deveined
+▢
+2 pieces eggs beaten
+▢
+1 cup Panko bread crumbs
+▢
+3/4 cup all purpose flour
+▢
+1/2 teaspoon garlic powder
+▢
+1/2 teaspoon ground black pepper
+▢
+1 teaspoon salt
+▢
+1/2 teaspoon paprika optional
+▢
+3 cups cooking oil","[[], ['1', 'lb', 'medium', 'shrimp', 'head', 'removed', 'shelled', 'and', 'deveined'], [], ['2', 'pieces', 'eggs', 'beaten'], [], ['1', 'cup', 'Panko', 'bread', 'crumbs'], [], ['34', 'cup', 'all', 'purpose', 'flour'], [], ['12', 'teaspoon', 'garlic', 'powder'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'teaspoon', 'salt'], [], ['12', 'teaspoon', 'paprika', 'optional'], [], ['3', 'cups', 'cooking', 'oil']]","['shrimp', 'head', 'removed', 'shelled', 'and', 'deveined', 'eggs', 'panko', 'bread', 'crumbs', 'all', 'purpose', 'flour', 'garlic', 'powder', 'ground', 'black', 'pepper', 'salt', 'paprika', 'optional', 'cooking', 'oil']"
+Spicy Dilis,"10
+minutes","5
+minutes",Appetizer, 217kcal (11%, 29g (10%,, 11g (17%,,,, 69mg (2%,, 28g (31%, 55IU (1%, 0.7mg (1%, 26mg (3%, 0.3mg (2%,, 1mg Sodium,,https://panlasangpinoy.com/spicy-dilis-recipe/,"▢
+2 cups dried anchovies dilis
+▢
+2 tablespoons banana ketchup
+▢
+2 teaspoons hot chili sauce
+▢
+1/2 cup brown sugar
+▢
+2 cups cooking oil","[[], ['2', 'cups', 'dried', 'anchovies', 'dilis'], [], ['2', 'tablespoons', 'banana', 'ketchup'], [], ['2', 'teaspoons', 'hot', 'chili', 'sauce'], [], ['12', 'cup', 'brown', 'sugar'], [], ['2', 'cups', 'cooking', 'oil']]","['dried', 'anchovies', 'dilis', 'banana', 'ketchup', 'hot', 'chili', 'sauce', 'brown', 'sugar', 'cooking', 'oil']"
+Embutido,"15
+minutes",,Appetizer,, 65g (22%, 45g (90%, 51g (78%, 21g (105%, 5g Monounsaturated Fat, 888mg (37%, 1137mg (32%, 6g (24%, 13g (14%, 5368IU (107%, 60mg (73%, 389mg (39%, 5mg (28%, 6g Calories,,,https://panlasangpinoy.com/embutido/,"▢
+2 lbs. ground pork
+▢
+12 pieces vienna sausage or 6 pcs hot dogs, cut in half lengthwise
+▢
+3 hard boiled eggs sliced
+▢
+1/2 cup sweet pickle relish
+▢
+1/2 cup tomato sauce
+▢
+2 eggs
+▢
+2 cups cheddar cheese grated
+▢
+1 cup red bell pepper minced
+▢
+1 cup green bell pepper minced
+▢
+1 1/2 cup raisins
+▢
+1 cup carrots minced
+▢
+1 cup onion minced
+▢
+salt and pepper
+▢
+1 to 1 1/2 cups bread crumbs made by placing 4 slices of tasty bread in a food processor. If not using any food processor, just tear the bread.","[[], ['2', 'lbs', 'ground', 'pork'], [], ['12', 'pieces', 'vienna', 'sausage', 'or', '6', 'pcs', 'hot', 'dogs', 'cut', 'in', 'half', 'lengthwise'], [], ['3', 'hard', 'boiled', 'eggs', 'sliced'], [], ['12', 'cup', 'sweet', 'pickle', 'relish'], [], ['12', 'cup', 'tomato', 'sauce'], [], ['2', 'eggs'], [], ['2', 'cups', 'cheddar', 'cheese', 'grated'], [], ['1', 'cup', 'red', 'bell', 'pepper', 'minced'], [], ['1', 'cup', 'green', 'bell', 'pepper', 'minced'], [], ['1', '12', 'cup', 'raisins'], [], ['1', 'cup', 'carrots', 'minced'], [], ['1', 'cup', 'onion', 'minced'], [], ['salt', 'and', 'pepper'], [], ['1', 'to', '1', '12', 'cups', 'bread', 'crumbs', 'made', 'by', 'placing', '4', 'slices', 'of', 'tasty', 'bread', 'in', 'a', 'food', 'processor', 'If', 'not', 'using', 'any', 'food', 'processor', 'just', 'tear', 'the', 'bread']]","['ground', 'pork', 'vienna', 'sausage', 'or', 'pcs', 'hot', 'dogs', 'cut', 'in', 'lengthwise', 'hard', 'boiled', 'eggs', 'sweet', 'pickle', 'relish', 'tomato', 'sauce', 'eggs', 'cheddar', 'cheese', 'red', 'bell', 'pepper', 'green', 'bell', 'pepper', 'raisins', 'carrots', 'onion', 'salt', 'and', 'pepper', 'to', 'bread', 'crumbs', 'made', 'by', 'placing', 'of', 'tasty', 'bread', 'in', 'a', 'food', 'processor', 'if', 'not', 'using', 'any', 'food', 'processor', 'just', 'tear', 'the', 'bread']"
+Pinoy Breakfast Omelet and Bacon Garlic Fried Rice,"10
+minutes","30
+minutes",Breakfast, 2798kcal (140%, 210g (70%, 87g (174%, 177g (272%, 59g (295%, 30g Monounsaturated Fat, 3232mg (135%, 1687mg (48%, 8g (32%, 11g (12%, 4295IU (86%, 44mg (53%, 724mg (72%, 8mg (44%,,,,https://panlasangpinoy.com/pinoy-breakfast-omelet-and-bacon-garlic-fried-rice/,"▢
+5 eggs
+▢
+1 ½ teaspoons Knorr Liquid Seasoning
+▢
+1 tomato sliced
+▢
+1 onion sliced
+▢
+½ cup cheddar cheese grated
+▢
+½ cup green onions chopped
+▢
+2 tablespoons butter
+▢
+3 tablespoons cooking oil","[[], ['5', 'eggs'], [], ['1', '½', 'teaspoons', 'Knorr', 'Liquid', 'Seasoning'], [], ['1', 'tomato', 'sliced'], [], ['1', 'onion', 'sliced'], [], ['½', 'cup', 'cheddar', 'cheese', 'grated'], [], ['½', 'cup', 'green', 'onions', 'chopped'], [], ['2', 'tablespoons', 'butter'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['eggs', 'knorr', 'liquid', 'seasoning', 'tomato', 'onion', 'cheddar', 'cheese', 'green', 'onions', 'butter', 'cooking', 'oil']"
+Air Fryer Longganisa Frittata,"5
+minutes","15
+minutes",Breakfast, 266kcal (13%, 5g (2%, 17g (34%, 19g (29%, 7g (35%, 3g Monounsaturated Fat, 960mg (40%, 283mg (8%, 2g (8%, 3g (3%, 1591IU (32%, 46mg (56%, 146mg (15%, 2mg (11%,,,,https://panlasangpinoy.com/air-fryer-longganisa-frittata-recipe/,"▢
+6 CDO Skinless Longganisa cooked
+▢
+6 eggs
+▢
+1 bell pepper chopped
+▢
+½ cup frozen green peas
+▢
+½ cup cheddar cheese
+▢
+1 teaspoon salt","[[], ['6', 'CDO', 'Skinless', 'Longganisa', 'cooked'], [], ['6', 'eggs'], [], ['1', 'bell', 'pepper', 'chopped'], [], ['½', 'cup', 'frozen', 'green', 'peas'], [], ['½', 'cup', 'cheddar', 'cheese'], [], ['1', 'teaspoon', 'salt']]","['cdo', 'skinless', 'longganisa', 'cooked', 'eggs', 'bell', 'pepper', 'frozen', 'green', 'peas', 'cheddar', 'cheese', 'salt']"
+Breakfast Burrito,"10
+minutes","10
+minutes",Breakfast, 531kcal (27%, 48g (16%, 28g (56%, 25g (38%, 12g (60%, 2g Monounsaturated Fat, 544mg (23%, 605mg (17%, 3g (12%, 4g (4%, 2952IU (59%, 13mg (16%, 306mg (31%, 3mg (17%,,,,https://panlasangpinoy.com/breakfast-burrito/,"▢
+225 g CDO Funtastyk Young Pork Tocino
+▢
+2 ½ cups cooked rice
+▢
+3 eggs
+▢
+1 cup cheddar cheese shredded
+▢
+4 flour tortillas
+▢
+1 ½ cups romaine lettuce shredded
+▢
+3 tomatoes diced
+▢
+2 tablespoons fresh milk
+▢
+2 tablespoons butter
+▢
+1 teaspoon white vinegar","[[], ['225', 'g', 'CDO', 'Funtastyk', 'Young', 'Pork', 'Tocino'], [], ['2', '½', 'cups', 'cooked', 'rice'], [], ['3', 'eggs'], [], ['1', 'cup', 'cheddar', 'cheese', 'shredded'], [], ['4', 'flour', 'tortillas'], [], ['1', '½', 'cups', 'romaine', 'lettuce', 'shredded'], [], ['3', 'tomatoes', 'diced'], [], ['2', 'tablespoons', 'fresh', 'milk'], [], ['2', 'tablespoons', 'butter'], [], ['1', 'teaspoon', 'white', 'vinegar']]","['cdo', 'funtastyk', 'young', 'pork', 'tocino', 'cooked', 'rice', 'eggs', 'cheddar', 'cheese', 'flour', 'tortillas', 'romaine', 'lettuce', 'tomatoes', 'fresh', 'milk', 'butter', 'white', 'vinegar']"
+One Pan Sandwich,"5
+minutes","10
+minutes",Breakfast, 1048kcal (52%, 27g (9%, 19g (38%, 97g (149%, 24g (120%, 28g Monounsaturated Fat, 848mg (35%, 213mg (6%, 2g (8%, 4g (4%, 1194IU (24%, 0.1mg Calcium,, 4mg (22%,,,,https://panlasangpinoy.com/one-pan-sandwich/,"▢
+5 strips CDO Young Pork Bacon
+▢
+2 eggs
+▢
+2 bread slices
+▢
+2 tablespoons mayonnaise
+▢
+2 tablespoons butter
+▢
+3 tablespoons cooking oil","[[], ['5', 'strips', 'CDO', 'Young', 'Pork', 'Bacon'], [], ['2', 'eggs'], [], ['2', 'bread', 'slices'], [], ['2', 'tablespoons', 'mayonnaise'], [], ['2', 'tablespoons', 'butter'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['strips', 'cdo', 'young', 'pork', 'bacon', 'eggs', 'bread', 'mayonnaise', 'butter', 'cooking', 'oil']"
+Bacon Stuffed Pancake,"10
+minutes","15
+minutes",Breakfast, 119kcal (6%, 9g (3%, 4g (8%, 7g (11%, 1g (5%, 2g Monounsaturated Fat, 205mg (9%, 80mg (2%, 1g (4%, 0.04g Vitamin A,, 0.2mg Calcium,, 1mg (6%,,,,https://panlasangpinoy.com/bacon-stuffed-pancake/,"▢
+5 strips CDO Young Pork Bacon","[[], ['5', 'strips', 'CDO', 'Young', 'Pork', 'Bacon']]","['strips', 'cdo', 'young', 'pork', 'bacon']"
+Tapa and Egg Fried Rice,,"35
+minutes",Breakfast, 798kcal (40%, 66g (22%, 34g (68%, 44g (68%, 12g (60%, 6g Monounsaturated Fat, 4255mg (177%, 733mg (21%, 4g (16%, 16g (18%, 2674IU (53%, 45mg (55%, 97mg (10%, 5mg (28%,,,,https://panlasangpinoy.com/tapa-and-egg-fried-rice/,"▢
+1 lb. horse meat sliced into thin pieces.
+▢
+1 head garlic crushed
+▢
+½ cup soy sauce
+▢
+¼ teaspoon ground black pepper
+▢
+1 teaspoon salt
+▢
+2 teaspoons sugar
+▢
+¾ cups water
+▢
+1 ½ cups lemon lime soda
+▢
+4 tablespoons cooking oil","[[], ['1', 'lb', 'horse', 'meat', 'sliced', 'into', 'thin', 'pieces'], [], ['1', 'head', 'garlic', 'crushed'], [], ['½', 'cup', 'soy', 'sauce'], [], ['¼', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'teaspoon', 'salt'], [], ['2', 'teaspoons', 'sugar'], [], ['¾', 'cups', 'water'], [], ['1', '½', 'cups', 'lemon', 'lime', 'soda'], [], ['4', 'tablespoons', 'cooking', 'oil']]","['horse', 'meat', 'into', 'thin', 'head', 'garlic', 'soy', 'sauce', 'ground', 'black', 'pepper', 'salt', 'sugar', 'water', 'lemon', 'lime', 'soda', 'cooking', 'oil']"
+Arroz Caldo Recipe,"10
+minutes","45
+minutes",Breakfast,, 43g (14%, 29g (58%, 32g (49%, 7g (35%, 7g Monounsaturated Fat, 766mg (32%, 442mg (13%, 2g (8%, 2g (2%, 489IU (10%, 17mg (21%, 75mg (8%, 2mg (11%, 6g Calories,,,https://panlasangpinoy.com/arroz-caldo/,"▢
+1 ½ lbs chicken cut into serving pieces
+▢
+1 ½ cups rice uncooked
+▢
+34 ounces water about 1 liter
+▢
+2 Tablespoons fish sauce
+▢
+1 teaspoon garlic
+▢
+1/4 teaspoon ground black pepper
+▢
+1 cup onion minced
+▢
+4 eggs hard boiled
+▢
+1 cup scallions green onions, minced
+▢
+2 knobs ginger julienned
+▢
+3 tbsp safflower kasubha
+▢
+1 chicken cube bouillon
+▢
+1 lemon or 4 pieces calamansi
+▢
+2 Tablespoon cooking oil","[[], ['1', '½', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['1', '½', 'cups', 'rice', 'uncooked'], [], ['34', 'ounces', 'water', 'about', '1', 'liter'], [], ['2', 'Tablespoons', 'fish', 'sauce'], [], ['1', 'teaspoon', 'garlic'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'cup', 'onion', 'minced'], [], ['4', 'eggs', 'hard', 'boiled'], [], ['1', 'cup', 'scallions', 'green', 'onions', 'minced'], [], ['2', 'knobs', 'ginger', 'julienned'], [], ['3', 'tbsp', 'safflower', 'kasubha'], [], ['1', 'chicken', 'cube', 'bouillon'], [], ['1', 'lemon', 'or', '4', 'pieces', 'calamansi'], [], ['2', 'Tablespoon', 'cooking', 'oil']]","['chicken', 'cut', 'into', 'serving', 'rice', 'uncooked', 'water', 'about', 'fish', 'sauce', 'garlic', 'ground', 'black', 'pepper', 'onion', 'eggs', 'hard', 'boiled', 'scallions', 'green', 'onions', 'knobs', 'ginger', 'julienned', 'safflower', 'kasubha', 'chicken', 'cube', 'bouillon', 'lemon', 'or', 'calamansi', 'cooking', 'oil']"
+Tortilla Espanola,"5
+minutes","10
+minutes",Breakfast,, 3g (1%, 1g (2%, 108g (166%, 15g (75%, 11g Monounsaturated Fat, 877mg (37%, 43mg (1%, 1g (4%, 1g (1%, 9IU Vitamin C,, 9mg (1%, 1mg (6%, 4g Calories,,,https://panlasangpinoy.com/tortilla-espanola-potato-omelet-recipe/,"▢
+5 pieces potato peeled and sliced
+▢
+1 piece yellow onion diced
+▢
+6 pieces eggs
+▢
+2 cups olive oil
+▢
+1 1/2 teaspoon salt","[[], ['5', 'pieces', 'potato', 'peeled', 'and', 'sliced'], [], ['1', 'piece', 'yellow', 'onion', 'diced'], [], ['6', 'pieces', 'eggs'], [], ['2', 'cups', 'olive', 'oil'], [], ['1', '12', 'teaspoon', 'salt']]","['potato', 'peeled', 'and', 'yellow', 'onion', 'eggs', 'olive', 'oil', 'salt']"
+Longsilog Recipe,"5
+minutes",,Breakfast, 978kcal (49%, 149g (50%, 22g (44%, 30g (46%, 6g (30%, 6g Monounsaturated Fat, 373mg (16%, 369mg (11%, 2g (8%, 1g (1%, 46IU (1%, 2mg (2%, 65mg (7%, 2mg (11%,,,,https://panlasangpinoy.com/how-to-cook-longsilog/,"▢
+1/2 lb. skinless longanisa
+▢
+2 pieces eggs
+▢
+4 cups rice leftover
+▢
+5 cloves garlic crushed
+▢
+1/2 cup water
+▢
+4 tablespoons cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['12', 'lb', 'skinless', 'longanisa'], [], ['2', 'pieces', 'eggs'], [], ['4', 'cups', 'rice', 'leftover'], [], ['5', 'cloves', 'garlic', 'crushed'], [], ['12', 'cup', 'water'], [], ['4', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['skinless', 'longanisa', 'eggs', 'rice', 'leftover', 'garlic', 'water', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Banana Fritter Recipe,"15
+minutes","10
+minutes",Breakfast,, 44g (15%, 4g (8%, 30g (46%, 3g (15%,, 223mg (9%, 153mg (4%, 1g (4%, 27g (30%, 105IU (2%,, 82mg (8%, 1mg (6%, 6g Calories, 31mg (10%,,https://panlasangpinoy.com/banana-fritter-recipe/,"▢
+6 pieces banana saba or plantain variety, ripe (mashed)
+▢
+1 cup all-purpose flour
+▢
+1 1/2 teaspoon vanilla extract
+▢
+1 piece egg beaten
+▢
+1 teaspoon baking powder
+▢
+3/4 cup granulated white sugar
+▢
+1 cup fresh milk
+▢
+3/4 cups cooking oil
+▢
+1/2 teaspoon salt","[[], ['6', 'pieces', 'banana', 'saba', 'or', 'plantain', 'variety', 'ripe', 'mashed'], [], ['1', 'cup', 'allpurpose', 'flour'], [], ['1', '12', 'teaspoon', 'vanilla', 'extract'], [], ['1', 'piece', 'egg', 'beaten'], [], ['1', 'teaspoon', 'baking', 'powder'], [], ['34', 'cup', 'granulated', 'white', 'sugar'], [], ['1', 'cup', 'fresh', 'milk'], [], ['34', 'cups', 'cooking', 'oil'], [], ['12', 'teaspoon', 'salt']]","['banana', 'saba', 'or', 'plantain', 'variety', 'ripe', 'mashed', 'all', 'purpose', 'flour', 'vanilla', 'extract', 'egg', 'baking', 'powder', 'granulated', 'white', 'sugar', 'fresh', 'milk', 'cooking', 'oil', 'salt']"
+Corned Beef Omelet,"5
+minutes","10
+minutes",Breakfast,, 5g (2%, 13g (26%, 23g (35%, 5g (25%,, 1041mg (43%, 357mg (10%, 1g (4%, 2g (2%, 187IU (4%, 29mg (35%, 31mg (3%, 2mg (11%, 8g Calories, 49mg (16%,,https://panlasangpinoy.com/tortang-corned-beef-omelet/,"▢
+12 ounces corned beef
+▢
+3 pieces eggs
+▢
+1 piece onion
+▢
+4 cloves garlic
+▢
+3/4 cup green onion chopped
+▢
+3 tablespoons Cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['12', 'ounces', 'corned', 'beef'], [], ['3', 'pieces', 'eggs'], [], ['1', 'piece', 'onion'], [], ['4', 'cloves', 'garlic'], [], ['34', 'cup', 'green', 'onion', 'chopped'], [], ['3', 'tablespoons', 'Cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['corned', 'beef', 'eggs', 'onion', 'garlic', 'green', 'onion', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Chicken Adobo Fried Rice and Tortang Corned Beef,"5
+minutes","15
+minutes",Breakfast, 721kcal (36%, 62g (21%, 17g (34%, 45g (69%, 6g (30%,, 1870mg (78%, 391mg (11%, 3g (12%, 3g (3%, 2079IU (42%, 18mg (22%, 46mg (5%, 2mg (11%,, 85mg (28%,,https://panlasangpinoy.com/chicken-adobo-fried-rice-and-tortang-corned-beef/,"▢
+1 cup chicken adobo shredded and chopped
+▢
+4 cups leftover rice
+▢
+1/2 teaspoon salt
+▢
+4 cloves garlic crushed
+▢
+3 tablespoons cooking oil","[[], ['1', 'cup', 'chicken', 'adobo', 'shredded', 'and', 'chopped'], [], ['4', 'cups', 'leftover', 'rice'], [], ['12', 'teaspoon', 'salt'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['chicken', 'adobo', 'and', 'leftover', 'rice', 'salt', 'garlic', 'cooking', 'oil']"
+Tapsilog,"10
+minutes","30
+minutes",Breakfast, 883kcal (44%, 93g (31%, 43g (86%, 36g (55%, 4g (20%,, 2841mg (118%, 877mg (25%, 3g (12%, 17g (19%, 2500IU (50%, 10.1mg (12%, 94mg (9%, 4mg (22%,, 86mg (29%,,https://panlasangpinoy.com/tapsilog-recipe/,"▢
+1 lb. beef sirloin sliced thinly
+▢
+3 pieces eggs
+▢
+6 tablespoons cooking oil","[[], ['1', 'lb', 'beef', 'sirloin', 'sliced', 'thinly'], [], ['3', 'pieces', 'eggs'], [], ['6', 'tablespoons', 'cooking', 'oil']]","['beef', 'sirloin', 'thinly', 'eggs', 'cooking', 'oil']"
+Filipino Omelet,"5
+minutes","8
+minutes",Breakfast,, 6g (2%, 1g (2%, 9g (14%,,, 200mg (8%, 247mg (7%, 1g (4%, 3g (3%, 685IU (14%, 13.9mg (17%, 17mg (2%, 0.3mg (2%, 3g Calories, 3mg (1%,,https://panlasangpinoy.com/filipino-omelet-recipe/,"▢
+3 pieces large eggs
+▢
+2 piece tomatoes diced
+▢
+1 piece red onion diced
+▢
+1/4 teaspoon ground black pepper
+▢
+1/4 teaspoon sea salt
+▢
+2 tablespoons cooking oil","[[], ['3', 'pieces', 'large', 'eggs'], [], ['2', 'piece', 'tomatoes', 'diced'], [], ['1', 'piece', 'red', 'onion', 'diced'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['14', 'teaspoon', 'sea', 'salt'], [], ['2', 'tablespoons', 'cooking', 'oil']]","['eggs', 'tomatoes', 'red', 'onion', 'ground', 'black', 'pepper', 'sea', 'salt', 'cooking', 'oil']"
+Skinless Longganisa,"15
+minutes","10
+minutes",Breakfast, 114kcal (6%, 4g (1%, 5g (10%, 8g (12%, 3g (15%,, 354mg (15%, 107mg (3%,, 4g (4%, 135IU (3%, 0.9mg (1%, 12mg (1%, 0.4mg (2%,, 21mg (7%,,https://panlasangpinoy.com/skinless-longganisa-recipe/,"▢
+1 ¾ lbs. ground pork
+▢
+9 tablespoons dark brown sugar
+▢
+1 tablespoon smoked paprika
+▢
+3 tablespoons vegetable oil
+▢
+1 ¼ tablespoons coarse salt
+▢
+1 teaspoon ground black pepper
+▢
+2 head garlic","[[], ['1', '¾', 'lbs', 'ground', 'pork'], [], ['9', 'tablespoons', 'dark', 'brown', 'sugar'], [], ['1', 'tablespoon', 'smoked', 'paprika'], [], ['3', 'tablespoons', 'vegetable', 'oil'], [], ['1', '¼', 'tablespoons', 'coarse', 'salt'], [], ['1', 'teaspoon', 'ground', 'black', 'pepper'], [], ['2', 'head', 'garlic']]","['ground', 'pork', 'dark', 'brown', 'sugar', 'smoked', 'paprika', 'vegetable', 'oil', 'coarse', 'salt', 'ground', 'black', 'pepper', 'head', 'garlic']"
+Pork Tapsilog,"5
+minutes","25
+minutes",Breakfast, 1231kcal (62%, 198g (66%, 51g (102%, 21g (32%, 3g (15%,, 476mg (20%, 849mg (24%, 3g (12%,,, 0.7mg (1%, 80mg (8%, 2.8mg (16%,, 100mg (33%,,https://panlasangpinoy.com/pork-tapsilog-recipe/,"▢
+1 lb. pork loin thinly sliced
+▢
+4 pieces fried eggs
+▢
+4 cups garlic rice
+▢
+2 teaspoons minced garlic
+▢
+3 to 4 tablespoons soy sauce
+▢
+½ teaspoon salt
+▢
+A dash of ground black pepper
+▢
+½ teaspoon granulated white sugar
+▢
+3 tablespoons cooking oil","[[], ['1', 'lb', 'pork', 'loin', 'thinly', 'sliced'], [], ['4', 'pieces', 'fried', 'eggs'], [], ['4', 'cups', 'garlic', 'rice'], [], ['2', 'teaspoons', 'minced', 'garlic'], [], ['3', 'to', '4', 'tablespoons', 'soy', 'sauce'], [], ['½', 'teaspoon', 'salt'], [], ['A', 'dash', 'of', 'ground', 'black', 'pepper'], [], ['½', 'teaspoon', 'granulated', 'white', 'sugar'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['pork', 'loin', 'thinly', 'fried', 'eggs', 'garlic', 'rice', 'garlic', 'to', 'soy', 'sauce', 'salt', 'a', 'of', 'ground', 'black', 'pepper', 'granulated', 'white', 'sugar', 'cooking', 'oil']"
+Dulong Fishcake,"5
+minutes","12
+minutes",Breakfast, 1373kcal (69%, 61g (20%, 108g (216%, 77g (118%, 24g (120%,, 3535mg (147%, 1589mg (45%, 3g (12%, 5g (6%, 935IU (19%, 6.8mg (8%, 218mg (22%, 7.2mg (40%,, 456mg (152%,,https://panlasangpinoy.com/dulong-fishcake/,"▢
+1 lb dulong silver fish, cleaned
+▢
+3/4 cup breadcrumbs
+▢
+1 piece raw egg beaten
+▢
+1 tablespoon mayonnaise
+▢
+3 teaspoons lemon juice
+▢
+1 teaspoon minced garlic
+▢
+1/2 teaspoon Dijon mustard
+▢
+1 teaspoon salt
+▢
+1/2 teaspoon ground black pepper
+▢
+2 tablespoons extra vigin olive oil
+▢
+2 tablespoons butter","[[], ['1', 'lb', 'dulong', 'silver', 'fish', 'cleaned'], [], ['34', 'cup', 'breadcrumbs'], [], ['1', 'piece', 'raw', 'egg', 'beaten'], [], ['1', 'tablespoon', 'mayonnaise'], [], ['3', 'teaspoons', 'lemon', 'juice'], [], ['1', 'teaspoon', 'minced', 'garlic'], [], ['12', 'teaspoon', 'Dijon', 'mustard'], [], ['1', 'teaspoon', 'salt'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['2', 'tablespoons', 'extra', 'vigin', 'olive', 'oil'], [], ['2', 'tablespoons', 'butter']]","['dulong', 'silver', 'fish', 'cleaned', 'breadcrumbs', 'raw', 'egg', 'mayonnaise', 'lemon', 'juice', 'garlic', 'dijon', 'mustard', 'salt', 'ground', 'black', 'pepper', 'extra', 'vigin', 'olive', 'oil', 'butter']"
+Longanisa Recipe (Filipino Sausage),"18
+minutes","20
+minutes",Breakfast, 711kcal (36%, 8g (3%, 43g (86%, 54g (83%, 20g (100%,, 2452mg (102%, 773mg (22%,, 6g (7%, 20IU Vitamin C,, 42mg (4%, 2.4mg (13%,, 183mg (61%,,https://panlasangpinoy.com/how-to-make-longganisa/,"▢
+2 1/4 lbs ground pork
+▢
+1 tablespoon coarse salt
+▢
+1/2 teaspoon Prague powder #1
+▢
+1 teaspoon sodium phosphate
+▢
+1/4 cup cold water
+▢
+1/4 cup TVP Textured Vegetable Protein
+▢
+1 tablespoon Isolate
+▢
+1/2 teaspoon Carrageenan
+▢
+2 tablespoon sugar
+▢
+6 tablespoon garlic minced
+▢
+2 tablespoon paprika for color
+▢
+3 tablespoon Anise Liquor
+▢
+1 tablespoon ground black pepper
+▢
+2 tablespoon pineapple juice
+▢
+1/2 teaspoon meat enhancer optional","[[], ['2', '14', 'lbs', 'ground', 'pork'], [], ['1', 'tablespoon', 'coarse', 'salt'], [], ['12', 'teaspoon', 'Prague', 'powder', '1'], [], ['1', 'teaspoon', 'sodium', 'phosphate'], [], ['14', 'cup', 'cold', 'water'], [], ['14', 'cup', 'TVP', 'Textured', 'Vegetable', 'Protein'], [], ['1', 'tablespoon', 'Isolate'], [], ['12', 'teaspoon', 'Carrageenan'], [], ['2', 'tablespoon', 'sugar'], [], ['6', 'tablespoon', 'garlic', 'minced'], [], ['2', 'tablespoon', 'paprika', 'for', 'color'], [], ['3', 'tablespoon', 'Anise', 'Liquor'], [], ['1', 'tablespoon', 'ground', 'black', 'pepper'], [], ['2', 'tablespoon', 'pineapple', 'juice'], [], ['12', 'teaspoon', 'meat', 'enhancer', 'optional']]","['ground', 'pork', 'coarse', 'salt', 'prague', 'powder', 'sodium', 'phosphate', 'cold', 'water', 'tvp', 'textured', 'vegetable', 'protein', 'isolate', 'carrageenan', 'sugar', 'garlic', 'paprika', 'for', 'color', 'anise', 'liquor', 'ground', 'black', 'pepper', 'pineapple', 'juice', 'meat', 'enhancer', 'optional']"
+Homemade Pork Tocino,,"20
+minutes",Breakfast,, 31g (10%, 34g (68%, 6g (9%, 1g (5%,, 2197mg (92%, 646mg (18%,, 27g (30%,, 5mg (6%, 28mg (3%, 1.1mg (6%, 6g Calories, 95mg (32%,,https://panlasangpinoy.com/homemade-pork-tocino-recipe/,"▢
+2 lbs. pork ham
+▢
+1 1/2 tablespoons sea salt
+▢
+1/2 teaspoon Prague powder #1
+▢
+3/4 cups granulated white sugar
+▢
+1 teaspoon sodium phosphate
+▢
+1/4 cup anisette liquor
+▢
+1/2 cup pineapple juice
+▢
+1/4 cup crushed garlic
+▢
+1 tablespoon garlic powder
+▢
+1/4 teaspoon Vitamin C powder
+▢
+1/4 teaspoon Red food coloring","[[], ['2', 'lbs', 'pork', 'ham'], [], ['1', '12', 'tablespoons', 'sea', 'salt'], [], ['12', 'teaspoon', 'Prague', 'powder', '1'], [], ['34', 'cups', 'granulated', 'white', 'sugar'], [], ['1', 'teaspoon', 'sodium', 'phosphate'], [], ['14', 'cup', 'anisette', 'liquor'], [], ['12', 'cup', 'pineapple', 'juice'], [], ['14', 'cup', 'crushed', 'garlic'], [], ['1', 'tablespoon', 'garlic', 'powder'], [], ['14', 'teaspoon', 'Vitamin', 'C', 'powder'], [], ['14', 'teaspoon', 'Red', 'food', 'coloring']]","['pork', 'ham', 'sea', 'salt', 'prague', 'powder', 'granulated', 'white', 'sugar', 'sodium', 'phosphate', 'anisette', 'liquor', 'pineapple', 'juice', 'garlic', 'garlic', 'powder', 'vitamin', 'powder', 'red', 'food', 'coloring']"
+Tofu and Broccoli Stir fry,"5
+minutes","18
+minutes",Lunch,, 11g (4%, 7g (14%, 22g (34%, 2g (10%, 7g Monounsaturated Fat,, 395mg (11%, 3g (12%, 4g (4%, 2959IU (59%, 62mg (75%, 64mg (6%, 1mg (6%, 3g Calories,,,https://panlasangpinoy.com/tofu-and-broccoli-stir-fry/,"▢
+8 oz. extra firm tofu sliced in 1/2 inch thick pieces
+▢
+3 cups sliced broccoli florets
+▢
+1 carrot sliced diagonally (optional)
+▢
+1 medium onion sliced
+▢
+1 teaspoon minced garlic
+▢
+1 teaspoon minced ginger
+▢
+2 tablespoons oyster sauce
+▢
+6 tablespoons cooking oil
+▢
+Salt and pepper to taste","[[], ['8', 'oz', 'extra', 'firm', 'tofu', 'sliced', 'in', '12', 'inch', 'thick', 'pieces'], [], ['3', 'cups', 'sliced', 'broccoli', 'florets'], [], ['1', 'carrot', 'sliced', 'diagonally', 'optional'], [], ['1', 'medium', 'onion', 'sliced'], [], ['1', 'teaspoon', 'minced', 'garlic'], [], ['1', 'teaspoon', 'minced', 'ginger'], [], ['2', 'tablespoons', 'oyster', 'sauce'], [], ['6', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['extra', 'firm', 'tofu', 'in', 'inch', 'thick', 'broccoli', 'florets', 'carrot', 'diagonally', 'optional', 'onion', 'garlic', 'ginger', 'oyster', 'sauce', 'cooking', 'oil', 'salt', 'and', 'pepper', 'to', 'taste']"
+Beef Empanada Recipe,"10
+minutes","30
+minutes",Lunch,, 101g (34%, 32g (64%, 245g (377%, 51g (255%, 52g Monounsaturated Fat, 1077mg (45%, 730mg (21%, 5g (20%, 12g (13%, 1682IU (34%, 10mg (12%, 90mg (9%, 8mg (44%, 4g Calories,,,https://panlasangpinoy.com/beef-empanadas-recipe/,"▢
+1 lb. ground beef 85% lean
+▢
+1/2 cup raisins
+▢
+1/2 cup green peas
+▢
+1 yellow onion minced
+▢
+1/2 cup beef broth
+▢
+1 teaspoon salt
+▢
+1/2 teaspoon paprika
+▢
+1/2 teaspoon ground black pepper
+▢
+1 teaspoon granulated white sugar
+▢
+2 tablespoons cooking oil","[[], ['1', 'lb', 'ground', 'beef', '85', 'lean'], [], ['12', 'cup', 'raisins'], [], ['12', 'cup', 'green', 'peas'], [], ['1', 'yellow', 'onion', 'minced'], [], ['12', 'cup', 'beef', 'broth'], [], ['1', 'teaspoon', 'salt'], [], ['12', 'teaspoon', 'paprika'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'teaspoon', 'granulated', 'white', 'sugar'], [], ['2', 'tablespoons', 'cooking', 'oil']]","['ground', 'beef', 'lean', 'raisins', 'green', 'peas', 'yellow', 'onion', 'beef', 'broth', 'salt', 'paprika', 'ground', 'black', 'pepper', 'granulated', 'white', 'sugar', 'cooking', 'oil']"
+Crispy Katsu Sando,"5
+minutes","12
+minutes",Lunch, 292kcal (15%, 16g (5%, 3g (6%, 24g (37%, 7g (35%, 7g Monounsaturated Fat, 508mg (21%, 64mg (2%, 1g (4%, 5g (6%, 288IU (6%, 6mg (7%, 37mg (4%, 1mg (6%,,,,https://panlasangpinoy.com/crispy-katsu-sando/,"▢
+6 CDO Crispy burger patties
+▢
+3 slices tasty bread cut in half
+▢
+1 cup cabbage shredded
+▢
+1/4 cup katsu sauce
+▢
+3 tablespoons butter
+▢
+2 tablespoons cooking oil
+▢
+3 tablespoons mayonnaise","[[], ['6', 'CDO', 'Crispy', 'burger', 'patties'], [], ['3', 'slices', 'tasty', 'bread', 'cut', 'in', 'half'], [], ['1', 'cup', 'cabbage', 'shredded'], [], ['14', 'cup', 'katsu', 'sauce'], [], ['3', 'tablespoons', 'butter'], [], ['2', 'tablespoons', 'cooking', 'oil'], [], ['3', 'tablespoons', 'mayonnaise']]","['cdo', 'crispy', 'burger', 'patties', 'tasty', 'bread', 'cut', 'in', 'cabbage', 'katsu', 'sauce', 'butter', 'cooking', 'oil', 'mayonnaise']"
+Igado Recipe,"10
+minutes","45
+minutes",Lunch,, 13g (4%, 38g (76%, 20g (31%, 3g (15%, 5g Monounsaturated Fat, 1913mg (80%, 780mg (22%, 3g (12%, 5g (6%, 16012IU (320%, 71mg (86%, 50mg (5%, 18mg (100%, 4g Calories,,,https://panlasangpinoy.com/ilocano-pork-igado-recipe/,"▢
+1/2 lbs. pork tenderloin sliced into 2-inch strips
+▢
+1/2 lb. pork liver sliced into 2-inch strips
+▢
+1/2 lb. pork kidney
+▢
+1 Knorr Pork Cube
+▢
+1 red bell pepper cut into strips
+▢
+1/2 cup green peas
+▢
+1 carrot julienne
+▢
+3 laurel leaves
+▢
+1 onion minced
+▢
+5 cloves garlic minced
+▢
+6 tablespoons soy sauce
+▢
+5 tablespoons white vinegar
+▢
+1 1/4 cup water
+▢
+4 tablespoons cooking oil
+▢
+Salt and pepper to taste","[[], ['12', 'lbs', 'pork', 'tenderloin', 'sliced', 'into', '2inch', 'strips'], [], ['12', 'lb', 'pork', 'liver', 'sliced', 'into', '2inch', 'strips'], [], ['12', 'lb', 'pork', 'kidney'], [], ['1', 'Knorr', 'Pork', 'Cube'], [], ['1', 'red', 'bell', 'pepper', 'cut', 'into', 'strips'], [], ['12', 'cup', 'green', 'peas'], [], ['1', 'carrot', 'julienne'], [], ['3', 'laurel', 'leaves'], [], ['1', 'onion', 'minced'], [], ['5', 'cloves', 'garlic', 'minced'], [], ['6', 'tablespoons', 'soy', 'sauce'], [], ['5', 'tablespoons', 'white', 'vinegar'], [], ['1', '14', 'cup', 'water'], [], ['4', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['pork', 'tenderloin', 'into', 'inch', 'strips', 'pork', 'liver', 'into', 'inch', 'strips', 'pork', 'kidney', 'knorr', 'pork', 'cube', 'red', 'bell', 'pepper', 'cut', 'into', 'strips', 'green', 'peas', 'carrot', 'julienne', 'laurel', 'leaves', 'onion', 'garlic', 'soy', 'sauce', 'white', 'vinegar', 'water', 'cooking', 'oil', 'salt', 'and', 'pepper', 'to', 'taste']"
+Pork Adobo Recipe,"10
+minutes",,Lunch,, 5g (2%, 24g (48%, 120g (185%, 43g (215%,, 1700mg (71%, 530mg (15%, 1g (4%,, 115IU (2%, 2.5mg (3%, 50mg (5%, 2.7mg (15%, 4g Calories, 163mg (54%,,https://panlasangpinoy.com/sprite-pork-adobo-recipe/,"▢
+2 lbs. pork belly cubed
+▢
+7 tablespoons soy sauce
+▢
+4 tablespoons white vinegar
+▢
+1 can Sprite or similar soda pop
+▢
+1 piece onion minced
+▢
+5 pieces dried bay leaves
+▢
+1 ½ teaspoons whole peppercorn
+▢
+5 cloves garlic crushed
+▢
+½ cup water
+▢
+3 tablespoons cooking oil","[[], ['2', 'lbs', 'pork', 'belly', 'cubed'], [], ['7', 'tablespoons', 'soy', 'sauce'], [], ['4', 'tablespoons', 'white', 'vinegar'], [], ['1', 'can', 'Sprite', 'or', 'similar', 'soda', 'pop'], [], ['1', 'piece', 'onion', 'minced'], [], ['5', 'pieces', 'dried', 'bay', 'leaves'], [], ['1', '½', 'teaspoons', 'whole', 'peppercorn'], [], ['5', 'cloves', 'garlic', 'crushed'], [], ['½', 'cup', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['pork', 'belly', 'cubed', 'soy', 'sauce', 'white', 'vinegar', 'sprite', 'or', 'similar', 'soda', 'pop', 'onion', 'dried', 'bay', 'leaves', 'peppercorn', 'garlic', 'water', 'cooking', 'oil']"
+Pinoy Chicken Curry Recipe,"10
+minutes",,Lunch,, 7g (2%, 30g (60%, 39g (60%, 21g (105%, 5g Monounsaturated Fat, 131mg (5%, 587mg (17%, 1g (4%, 2g (2%, 908IU (18%, 31mg (38%, 53mg (5%, 4mg (22%, 6g Calories,,,https://panlasangpinoy.com/chicken-curry-pinoy-style/,"▢
+2 lbs. chicken cut into serving pieces
+▢
+1 tablespoon curry powder
+▢
+1 piece potato cubed
+▢
+4 cloves garlic minced
+▢
+2 stalks celery sliced
+▢
+1 piece red bell pepper sliced
+▢
+2 pieces long green pepper
+▢
+1 piece onion chopped
+▢
+2 thumbs ginger cut into strips
+▢
+2 cups coconut milk
+▢
+1/2 cup all-purpose cream optional
+▢
+1 cup water
+▢
+fish sauce and ground black pepper to taste","[[], ['2', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['1', 'tablespoon', 'curry', 'powder'], [], ['1', 'piece', 'potato', 'cubed'], [], ['4', 'cloves', 'garlic', 'minced'], [], ['2', 'stalks', 'celery', 'sliced'], [], ['1', 'piece', 'red', 'bell', 'pepper', 'sliced'], [], ['2', 'pieces', 'long', 'green', 'pepper'], [], ['1', 'piece', 'onion', 'chopped'], [], ['2', 'thumbs', 'ginger', 'cut', 'into', 'strips'], [], ['2', 'cups', 'coconut', 'milk'], [], ['12', 'cup', 'allpurpose', 'cream', 'optional'], [], ['1', 'cup', 'water'], [], ['fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['chicken', 'cut', 'into', 'serving', 'curry', 'powder', 'potato', 'cubed', 'garlic', 'celery', 'red', 'bell', 'pepper', 'long', 'green', 'pepper', 'onion', 'thumbs', 'ginger', 'cut', 'into', 'strips', 'coconut', 'milk', 'all', 'purpose', 'cream', 'optional', 'water', 'fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Filipino Style Escabeche,"10
+minutes","30
+minutes",Lunch, 598kcal (30%, 19g (6%, 38g (76%, 43g (66%, 4g (20%, 12g Monounsaturated Fat, 3008mg (125%, 764mg (22%, 2g (8%, 13g (14%, 2934IU (59%, 53mg (64%, 41mg (4%, 1mg (6%,,,,https://panlasangpinoy.com/filipino-style-escabeche/,"▢
+2 lbs fish (large) sliced into serving pieces
+▢
+¾ cup cooking oil
+▢
+2 tablespoons salt","[[], ['2', 'lbs', 'fish', 'large', 'sliced', 'into', 'serving', 'pieces'], [], ['¾', 'cup', 'cooking', 'oil'], [], ['2', 'tablespoons', 'salt']]","['fish', 'into', 'serving', 'cooking', 'oil', 'salt']"
+Chicken Gising-gising,"10
+minutes","35
+minutes",Lunch, 739kcal (37%, 21g (7%, 53g (106%, 50g (77%, 15g (75%, 10g Monounsaturated Fat, 325mg (14%, 880mg (25%, 1g (4%, 1g (1%, 363IU (7%, 16mg (19%, 80mg (8%, 4mg (22%,,,,https://panlasangpinoy.com/chicken-gising-gising/,"▢
+2 lbs. chicken cut into serving pieces
+▢
+90 grams Knorr Ginataang Gulay Mix
+▢
+½ lb. winged bean sigarilyas, sliced
+▢
+2 long green chili pepper sliced
+▢
+5 Thai chili pepper optional
+▢
+1 tablespoon shrimp paste
+▢
+3 cups water
+▢
+1 onion chopped
+▢
+5 cloves garlic chopped
+▢
+2 thumbs ginger chopped
+▢
+3 tablespoons cooking oil","[[], ['2', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['90', 'grams', 'Knorr', 'Ginataang', 'Gulay', 'Mix'], [], ['½', 'lb', 'winged', 'bean', 'sigarilyas', 'sliced'], [], ['2', 'long', 'green', 'chili', 'pepper', 'sliced'], [], ['5', 'Thai', 'chili', 'pepper', 'optional'], [], ['1', 'tablespoon', 'shrimp', 'paste'], [], ['3', 'cups', 'water'], [], ['1', 'onion', 'chopped'], [], ['5', 'cloves', 'garlic', 'chopped'], [], ['2', 'thumbs', 'ginger', 'chopped'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['chicken', 'cut', 'into', 'serving', 'knorr', 'ginataang', 'gulay', 'mix', 'winged', 'bean', 'sigarilyas', 'long', 'green', 'chili', 'pepper', 'thai', 'chili', 'pepper', 'optional', 'shrimp', 'paste', 'water', 'onion', 'garlic', 'thumbs', 'ginger', 'cooking', 'oil']"
+"Ginataang Hipon, Sitaw, at Kalabasa","10
+minutes","40
+minutes",Lunch,, 19g (6%, 13g (26%, 36g (55%, 22g (110%, 3g Monounsaturated Fat, 283mg (12%, 660mg (19%, 1g (4%, 2g (2%, 815IU (16%, 142mg (172%, 338mg (34%, 5mg (28%, 4g Calories,,,https://panlasangpinoy.com/ginataang-hipon-sitaw-at-kalabasa/,"▢
+1 lb shrimp cleaned
+▢
+10 strings beans sitaw, cut into 2 1/2 inch length
+▢
+2 cups kalabasa squash, cubed
+▢
+2 cups coconut milk
+▢
+1 medium yellow onion sliced
+▢
+2 tablespoons bagoong alamang shrimp paste
+▢
+1 cup malunggay leaves
+▢
+3 cloves garlic crushed
+▢
+Salt and pepper to taste
+▢
+3 tablespoons cooking oil
+▢
+Salt and pepper to taste","[[], ['1', 'lb', 'shrimp', 'cleaned'], [], ['10', 'strings', 'beans', 'sitaw', 'cut', 'into', '2', '12', 'inch', 'length'], [], ['2', 'cups', 'kalabasa', 'squash', 'cubed'], [], ['2', 'cups', 'coconut', 'milk'], [], ['1', 'medium', 'yellow', 'onion', 'sliced'], [], ['2', 'tablespoons', 'bagoong', 'alamang', 'shrimp', 'paste'], [], ['1', 'cup', 'malunggay', 'leaves'], [], ['3', 'cloves', 'garlic', 'crushed'], [], ['Salt', 'and', 'pepper', 'to', 'taste'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['shrimp', 'cleaned', 'strings', 'beans', 'sitaw', 'cut', 'into', 'inch', 'length', 'kalabasa', 'squash', 'cubed', 'coconut', 'milk', 'yellow', 'onion', 'bagoong', 'alamang', 'shrimp', 'paste', 'malunggay', 'leaves', 'garlic', 'salt', 'and', 'pepper', 'to', 'taste', 'cooking', 'oil', 'salt', 'and', 'pepper', 'to', 'taste']"
+Hardinera (Jardinera) Recipe,"10
+minutes",,Lunch,, 52g (17%, 48g (96%, 58g (89%, 19g (95%, 8g Monounsaturated Fat, 1406mg (59%, 1062mg (30%, 4g (16%, 17g (19%, 4590IU (92%, 28mg (34%, 199mg (20%, 6mg (33%, 3g Calories,,,https://panlasangpinoy.com/hardinera/,"▢
+2 tablespoons cooking oil
+▢
+1 medium sized onion diced
+▢
+3 cloves garlic minced
+▢
+1 lb pork diced
+▢
+1 cup water
+▢
+1/2 cup tomato sauce
+▢
+1/4 cup sweet pickle relish
+▢
+1/2 cup beef franks or hotdogs diced
+▢
+1/4 cup raisins
+▢
+1/2 teaspoon salt
+▢
+1/2 teaspoon ground black pepper
+▢
+1/2 beef cube
+▢
+1/2 cup pineapple chunks
+▢
+1/4 cup roasted sweet pepper
+▢
+1/4 cup liver spread
+▢
+1/4 cup cheese grated
+▢
+1/2 cup bread crumbs
+▢
+2 eggs hard boiled, sliced or wedged
+▢
+2 eggs raw","[[], ['2', 'tablespoons', 'cooking', 'oil'], [], ['1', 'medium', 'sized', 'onion', 'diced'], [], ['3', 'cloves', 'garlic', 'minced'], [], ['1', 'lb', 'pork', 'diced'], [], ['1', 'cup', 'water'], [], ['12', 'cup', 'tomato', 'sauce'], [], ['14', 'cup', 'sweet', 'pickle', 'relish'], [], ['12', 'cup', 'beef', 'franks', 'or', 'hotdogs', 'diced'], [], ['14', 'cup', 'raisins'], [], ['12', 'teaspoon', 'salt'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['12', 'beef', 'cube'], [], ['12', 'cup', 'pineapple', 'chunks'], [], ['14', 'cup', 'roasted', 'sweet', 'pepper'], [], ['14', 'cup', 'liver', 'spread'], [], ['14', 'cup', 'cheese', 'grated'], [], ['12', 'cup', 'bread', 'crumbs'], [], ['2', 'eggs', 'hard', 'boiled', 'sliced', 'or', 'wedged'], [], ['2', 'eggs', 'raw']]","['cooking', 'oil', 'sized', 'onion', 'garlic', 'pork', 'water', 'tomato', 'sauce', 'sweet', 'pickle', 'relish', 'beef', 'franks', 'or', 'hotdogs', 'raisins', 'salt', 'ground', 'black', 'pepper', 'beef', 'cube', 'pineapple', 'chunks', 'roasted', 'sweet', 'pepper', 'liver', 'spread', 'cheese', 'bread', 'crumbs', 'eggs', 'hard', 'boiled', 'or', 'wedged', 'eggs', 'raw']"
+Bulalo Recipe,"10
+minutes","50
+minutes",Lunch,, 13g (4%, 32g (64%, 6g (9%, 2g (10%, 1g Monounsaturated Fat, 122mg (5%, 862mg (25%, 5g (20%, 5g (6%, 276IU (6%, 46mg (56%, 118mg (12%, 4mg (22%, 4g Calories,,,https://panlasangpinoy.com/bulalo-stewed-beef-shank/,"▢
+2 lbs beef shank
+▢
+½ cabbage whole leaf individually detached
+▢
+1 bundle bok choy
+▢
+2 cobs corn each cut into 3 parts
+▢
+2 Tablespoons whole peppercorn
+▢
+1/2 cup green onions cut unto 1 1/2 inch pieces
+▢
+1 onion
+▢
+34 ounces water
+▢
+fish sauce to taste optional","[[], ['2', 'lbs', 'beef', 'shank'], [], ['½', 'cabbage', 'whole', 'leaf', 'individually', 'detached'], [], ['1', 'bundle', 'bok', 'choy'], [], ['2', 'cobs', 'corn', 'each', 'cut', 'into', '3', 'parts'], [], ['2', 'Tablespoons', 'whole', 'peppercorn'], [], ['12', 'cup', 'green', 'onions', 'cut', 'unto', '1', '12', 'inch', 'pieces'], [], ['1', 'onion'], [], ['34', 'ounces', 'water'], [], ['fish', 'sauce', 'to', 'taste', 'optional']]","['beef', 'shank', 'cabbage', 'leaf', 'individually', 'detached', 'bundle', 'bok', 'choy', 'cobs', 'corn', 'each', 'cut', 'into', 'parts', 'peppercorn', 'green', 'onions', 'cut', 'unto', 'inch', 'onion', 'water', 'fish', 'sauce', 'to', 'taste', 'optional']"
+Pancit Palabok Recipe,"10
+minutes","35
+minutes",Lunch,, 81g (27%, 27g (54%, 26g (40%, 8g (40%, 4g Monounsaturated Fat, 1174mg (49%, 528mg (15%, 3g (12%, 1g (1%, 184IU (4%, 29mg (35%, 88mg (9%, 3mg (17%, 6g Calories,,,https://panlasangpinoy.com/asian-filipino-food-noodles-pansit-pancit-palabok-recipe/,"▢
+500 grams rice noodles bihon","[[], ['500', 'grams', 'rice', 'noodles', 'bihon']]","['rice', 'noodles', 'bihon']"
+Kalderetang Kambing,"10
+minutes",,Lunch,, 15g (5%, 32g (64%, 21g (32%, 4g (20%, 4g Monounsaturated Fat, 818mg (34%, 1047mg (30%, 4g (16%, 8g (9%, 8312IU (166%, 58mg (70%, 76mg (8%, 5mg (28%, 4g Calories,,,https://panlasangpinoy.com/stew-goat-meat-kalderetang-kambing-recipe/,"▢
+1 lb goat meat chevon, cubed
+▢
+1 tablespoon garlic minced
+▢
+1 onion minced
+▢
+3 tomatoes diced
+▢
+4 Thai chili optional
+▢
+1 cup tomato sauce
+▢
+3/4 cup bell pepper sliced
+▢
+6 tablespoon liver spread
+▢
+3/4 cup green olives optional
+▢
+1/2 cup vinegar
+▢
+1 carrot cubed
+▢
+1 potato cubed
+▢
+3 tablespoons cooking oil
+▢
+2 cups water
+▢
+Salt and pepper to taste","[[], ['1', 'lb', 'goat', 'meat', 'chevon', 'cubed'], [], ['1', 'tablespoon', 'garlic', 'minced'], [], ['1', 'onion', 'minced'], [], ['3', 'tomatoes', 'diced'], [], ['4', 'Thai', 'chili', 'optional'], [], ['1', 'cup', 'tomato', 'sauce'], [], ['34', 'cup', 'bell', 'pepper', 'sliced'], [], ['6', 'tablespoon', 'liver', 'spread'], [], ['34', 'cup', 'green', 'olives', 'optional'], [], ['12', 'cup', 'vinegar'], [], ['1', 'carrot', 'cubed'], [], ['1', 'potato', 'cubed'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['2', 'cups', 'water'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['goat', 'meat', 'chevon', 'cubed', 'garlic', 'onion', 'tomatoes', 'thai', 'chili', 'optional', 'tomato', 'sauce', 'bell', 'pepper', 'liver', 'spread', 'green', 'olives', 'optional', 'vinegar', 'carrot', 'cubed', 'potato', 'cubed', 'cooking', 'oil', 'water', 'salt', 'and', 'pepper', 'to', 'taste']"
+Bam-I Recipe,"10
+minutes","40
+minutes",Lunch,, 58g (19%, 20g (40%, 20g (31%, 5g (25%, 4g Monounsaturated Fat, 1341mg (56%, 495mg (14%, 3g (12%, 4g (4%, 2976IU (60%, 20mg (24%, 55mg (6%, 2mg (11%, 6g Calories,,,https://panlasangpinoy.com/bam-i-cebuano-pansit-recipe/,"▢
+1/2 lb pork sliced
+▢
+1/2 lb chicken boiled and shredded
+▢
+4 pieces Chinese sausage sliced
+▢
+1 lb shrimp shelled and heads removed
+▢
+8 ounces flour sticks pancit canton noodles
+▢
+4 to 6 ounces rice noodles sotanghon soaked in water
+▢
+1 1/2 to 2 cups chicken stock
+▢
+3 cups cabbage chopped
+▢
+3/4 cup carrots julienned
+▢
+1/2 cup dried wood ear soaked in water and chopped (also known as tenga ng daga)
+▢
+1 medium onion diced
+▢
+1/4 cup parsley cleaned and chopped
+▢
+1/2 cup shrimp juice derived by pounding the head of the shrimp
+▢
+1/2 cup soy sauce
+▢
+1 piece chicken cube or bouillon
+▢
+1 tablespoon garlic minced
+▢
+Salt and ground black pepper to taste
+▢
+2 to 3 tablespoons cooking oil","[[], ['12', 'lb', 'pork', 'sliced'], [], ['12', 'lb', 'chicken', 'boiled', 'and', 'shredded'], [], ['4', 'pieces', 'Chinese', 'sausage', 'sliced'], [], ['1', 'lb', 'shrimp', 'shelled', 'and', 'heads', 'removed'], [], ['8', 'ounces', 'flour', 'sticks', 'pancit', 'canton', 'noodles'], [], ['4', 'to', '6', 'ounces', 'rice', 'noodles', 'sotanghon', 'soaked', 'in', 'water'], [], ['1', '12', 'to', '2', 'cups', 'chicken', 'stock'], [], ['3', 'cups', 'cabbage', 'chopped'], [], ['34', 'cup', 'carrots', 'julienned'], [], ['12', 'cup', 'dried', 'wood', 'ear', 'soaked', 'in', 'water', 'and', 'chopped', 'also', 'known', 'as', 'tenga', 'ng', 'daga'], [], ['1', 'medium', 'onion', 'diced'], [], ['14', 'cup', 'parsley', 'cleaned', 'and', 'chopped'], [], ['12', 'cup', 'shrimp', 'juice', 'derived', 'by', 'pounding', 'the', 'head', 'of', 'the', 'shrimp'], [], ['12', 'cup', 'soy', 'sauce'], [], ['1', 'piece', 'chicken', 'cube', 'or', 'bouillon'], [], ['1', 'tablespoon', 'garlic', 'minced'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste'], [], ['2', 'to', '3', 'tablespoons', 'cooking', 'oil']]","['pork', 'chicken', 'boiled', 'and', 'chinese', 'sausage', 'shrimp', 'shelled', 'and', 'heads', 'removed', 'flour', 'sticks', 'pancit', 'canton', 'noodles', 'to', 'rice', 'noodles', 'sotanghon', 'soaked', 'in', 'water', 'to', 'chicken', 'stock', 'cabbage', 'carrots', 'julienned', 'dried', 'wood', 'ear', 'soaked', 'in', 'water', 'and', 'also', 'known', 'as', 'tenga', 'ng', 'daga', 'onion', 'parsley', 'cleaned', 'and', 'shrimp', 'juice', 'derived', 'by', 'pounding', 'the', 'head', 'of', 'the', 'shrimp', 'soy', 'sauce', 'chicken', 'cube', 'or', 'bouillon', 'garlic', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste', 'to', 'cooking', 'oil']"
+Ginisang Ampalaya,"10
+minutes","20
+minutes",Lunch,, 6g (2%, 4g (8%, 13g (20%, 1g (5%, 3g Monounsaturated Fat, 37mg (2%, 292mg (8%, 2g (8%, 2g (2%, 596IU (12%, 46mg (56%, 35mg (4%, 1mg (6%, 4g Calories,,,https://panlasangpinoy.com/healthy-bitter-melon-ginisang-ampalaya-recipe/,"▢
+2 pieces ampalaya cleaned and cut into thin slices
+▢
+1 tbsp garlic minced
+▢
+1/2 tsp ground black pepper
+▢
+salt to taste
+▢
+2 raw eggs
+▢
+18 ounces luke warm water
+▢
+1 tomato sliced
+▢
+1 onion sliced
+▢
+3 tbsp cooking oil","[[], ['2', 'pieces', 'ampalaya', 'cleaned', 'and', 'cut', 'into', 'thin', 'slices'], [], ['1', 'tbsp', 'garlic', 'minced'], [], ['12', 'tsp', 'ground', 'black', 'pepper'], [], ['salt', 'to', 'taste'], [], ['2', 'raw', 'eggs'], [], ['18', 'ounces', 'luke', 'warm', 'water'], [], ['1', 'tomato', 'sliced'], [], ['1', 'onion', 'sliced'], [], ['3', 'tbsp', 'cooking', 'oil']]","['ampalaya', 'cleaned', 'and', 'cut', 'into', 'thin', 'garlic', 'ground', 'black', 'pepper', 'salt', 'to', 'taste', 'raw', 'eggs', 'luke', 'warm', 'water', 'tomato', 'onion', 'cooking', 'oil']"
+Almondigas Recipe,"10
+minutes","30
+minutes",Lunch,, 21g (7%, 15g (30%, 24g (37%, 7g (35%, 4g Monounsaturated Fat, 1160mg (48%, 299mg (9%, 1g (4%, 1g (1%, 48IU (1%, 3mg (4%, 40mg (4%, 2mg (11%, 6g Calories,,,https://panlasangpinoy.com/almondigas-misua-patola-recipe/,"▢
+1 lb ground pork
+▢
+1 piece patola ridge gourd, sliced
+▢
+4 ounces misua
+▢
+1 piece onion minced
+▢
+6 cloves garlic crushed
+▢
+3 tablespoons fish sauce
+▢
+1 piece raw egg
+▢
+1 piece beef cube
+▢
+1/8 cup all-purpose flour
+▢
+1 teaspoon Salt
+▢
+1/2 teaspoon ground black pepper
+▢
+5 cups water
+▢
+3 tablespoons cooking oil","[[], ['1', 'lb', 'ground', 'pork'], [], ['1', 'piece', 'patola', 'ridge', 'gourd', 'sliced'], [], ['4', 'ounces', 'misua'], [], ['1', 'piece', 'onion', 'minced'], [], ['6', 'cloves', 'garlic', 'crushed'], [], ['3', 'tablespoons', 'fish', 'sauce'], [], ['1', 'piece', 'raw', 'egg'], [], ['1', 'piece', 'beef', 'cube'], [], ['18', 'cup', 'allpurpose', 'flour'], [], ['1', 'teaspoon', 'Salt'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['5', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['ground', 'pork', 'patola', 'ridge', 'gourd', 'misua', 'onion', 'garlic', 'fish', 'sauce', 'raw', 'egg', 'beef', 'cube', 'all', 'purpose', 'flour', 'salt', 'ground', 'black', 'pepper', 'water', 'cooking', 'oil']"
+Beef Salpicao,"40
+minutes","30
+minutes",Lunch,, 5g (2%, 25g (50%, 21g (32%, 7g (35%, 1g Monounsaturated Fat, 804mg (34%, 541mg (15%, 1g (4%, 1g (1%, 187IU (4%, 3mg (4%, 53mg (5%, 3mg (17%, 6g Calories,,,https://panlasangpinoy.com/easy-beef-salpicao-recipe/,"▢
+1 ½ lbs. beef tenderloin cubed
+▢
+1 head garlic
+▢
+1 teaspoon salt
+▢
+3 tablespoons butter
+▢
+¼ cup olive oil
+▢
+½ teaspoon ground black pepper
+▢
+5 tablespoons Worcestershire Sauce
+▢
+2 tablespoons oyster sauce","[[], ['1', '½', 'lbs', 'beef', 'tenderloin', 'cubed'], [], ['1', 'head', 'garlic'], [], ['1', 'teaspoon', 'salt'], [], ['3', 'tablespoons', 'butter'], [], ['¼', 'cup', 'olive', 'oil'], [], ['½', 'teaspoon', 'ground', 'black', 'pepper'], [], ['5', 'tablespoons', 'Worcestershire', 'Sauce'], [], ['2', 'tablespoons', 'oyster', 'sauce']]","['beef', 'tenderloin', 'cubed', 'head', 'garlic', 'salt', 'butter', 'olive', 'oil', 'ground', 'black', 'pepper', 'worcestershire', 'sauce', 'oyster', 'sauce']"
+Baked Macaroni Recipe,"10
+minutes","35
+minutes",Lunch,, 55g (18%, 24g (48%, 26g (40%, 13g (65%, 1g Monounsaturated Fat, 447mg (19%, 652mg (19%, 3g (12%, 10g (11%, 1103IU (22%, 16mg (19%, 199mg (20%, 3mg (17%, 8g Calories,,,https://panlasangpinoy.com/how-to-make-pasta-cheese-baked-macaroni-recipe/,"▢
+1 lb elbow macaroni uncooked","[[], ['1', 'lb', 'elbow', 'macaroni', 'uncooked']]","['elbow', 'macaroni', 'uncooked']"
+Laswa Recipe,"5
+minutes","25
+minutes",Lunch,, 9g (3%, 13g (26%, 1g (2%, 1g (5%,, 453mg (19%, 282mg (8%, 2g (8%, 3g (3%, 3996IU (80%, 16mg (19%, 123mg (12%, 2mg (11%, 6g Calories, 143mg (48%,,https://panlasangpinoy.com/laswa-recipe/,"▢
+8 pieces shrimp cleaned
+▢
+2 pieces Chinese eggplant sliced
+▢
+1 1/2 cups kalabasa squash diced
+▢
+15 pieces string beans cut into 2 inch pieces
+▢
+1 cup saluyot leaves
+▢
+2 cups alugbati
+▢
+1 cup Amaranth leaves (kulitis)
+▢
+8 pieces okra
+▢
+2 pieces tomato wedged
+▢
+1 piece onion wedged
+▢
+2 teaspoons bagoong alamang or guinamos
+▢
+5 cups water
+▢
+Salt and ground black pepper to taste","[[], ['8', 'pieces', 'shrimp', 'cleaned'], [], ['2', 'pieces', 'Chinese', 'eggplant', 'sliced'], [], ['1', '12', 'cups', 'kalabasa', 'squash', 'diced'], [], ['15', 'pieces', 'string', 'beans', 'cut', 'into', '2', 'inch', 'pieces'], [], ['1', 'cup', 'saluyot', 'leaves'], [], ['2', 'cups', 'alugbati'], [], ['1', 'cup', 'Amaranth', 'leaves', 'kulitis'], [], ['8', 'pieces', 'okra'], [], ['2', 'pieces', 'tomato', 'wedged'], [], ['1', 'piece', 'onion', 'wedged'], [], ['2', 'teaspoons', 'bagoong', 'alamang', 'or', 'guinamos'], [], ['5', 'cups', 'water'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['shrimp', 'cleaned', 'chinese', 'eggplant', 'kalabasa', 'squash', 'string', 'beans', 'cut', 'into', 'inch', 'saluyot', 'leaves', 'alugbati', 'amaranth', 'leaves', 'kulitis', 'okra', 'tomato', 'wedged', 'onion', 'wedged', 'bagoong', 'alamang', 'or', 'guinamos', 'water', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Tortang Talong Recipe,"15
+minutes","12
+minutes",Lunch,, 1g Protein,, 21g (32%, 2g (10%, 6g Monounsaturated Fat, 582mg (24%, 3mg Fiber,, 1g (1%, 3IU Vitamin C,, 1mg Iron,, 4g Calories,,,https://panlasangpinoy.com/filipino-vegetable-food-eggplant-omelet-tortang-talong-recipe/,"▢
+4 pieces Chinese eggplant
+▢
+2 pieces raw eggs
+▢
+1 teaspoon salt
+▢
+6 tablespoons cooking oil","[[], ['4', 'pieces', 'Chinese', 'eggplant'], [], ['2', 'pieces', 'raw', 'eggs'], [], ['1', 'teaspoon', 'salt'], [], ['6', 'tablespoons', 'cooking', 'oil']]","['chinese', 'eggplant', 'raw', 'eggs', 'salt', 'cooking', 'oil']"
+Ginisang Munggo (Monggo),"10
+minutes",,Lunch,, 41g (14%, 21g (42%, 11g (17%, 3g (15%, 2g Monounsaturated Fat, 726mg (30%, 922mg (26%, 10g (40%, 5g (6%, 1172IU (23%, 10mg (12%, 113mg (11%, 4mg (22%, 6g Calories,,,https://panlasangpinoy.com/ginisang-munggo-sauteed-mung-beans/,"▢
+1 1/2 cups Mung beans
+▢
+1 tbsp garlic
+▢
+½ lb pork thinly sliced
+▢
+2 cups spinach (or alugbati)
+▢
+1 piece tomato chopped
+▢
+1 piece onion chopped
+▢
+8 pieces shrimp optional
+▢
+2 tablespoons fish sauce
+▢
+24 ounces water for boiling
+▢
+1 piece Knorr beef cube for flavoring
+▢
+1/2 cup crushed pork rind chicharon
+▢
+1/4 teaspoon ground black pepper","[[], ['1', '12', 'cups', 'Mung', 'beans'], [], ['1', 'tbsp', 'garlic'], [], ['½', 'lb', 'pork', 'thinly', 'sliced'], [], ['2', 'cups', 'spinach', 'or', 'alugbati'], [], ['1', 'piece', 'tomato', 'chopped'], [], ['1', 'piece', 'onion', 'chopped'], [], ['8', 'pieces', 'shrimp', 'optional'], [], ['2', 'tablespoons', 'fish', 'sauce'], [], ['24', 'ounces', 'water', 'for', 'boiling'], [], ['1', 'piece', 'Knorr', 'beef', 'cube', 'for', 'flavoring'], [], ['12', 'cup', 'crushed', 'pork', 'rind', 'chicharon'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper']]","['mung', 'beans', 'garlic', 'pork', 'thinly', 'spinach', 'or', 'alugbati', 'tomato', 'onion', 'shrimp', 'optional', 'fish', 'sauce', 'water', 'for', 'boiling', 'knorr', 'beef', 'cube', 'for', 'flavoring', 'pork', 'rind', 'chicharon', 'ground', 'black', 'pepper']"
+Pinaputok na Tilapia Recipe,"10
+minutes","35
+minutes",Lunch,, 9g (3%, 1g (2%, 2g (3%, 1g (5%, 1g Monounsaturated Fat,,, 1g (4%, 6g (7%, 592IU (12%, 19mg (23%, 13mg (1%, 1mg (6%, 3g Calories,,,https://panlasangpinoy.com/pinaputok-na-tilapia-recipe/,"▢
+2 pieces tilapia cleaned and scales removed
+▢
+3/4 cup green mango diced
+▢
+1 piece tomato diced
+▢
+1 piece onion chopped
+▢
+1 teaspoon ginger minced
+▢
+1 tablespoon lemon juice
+▢
+2 teaspoons cooking oil
+▢
+Salt and pepper to taste","[[], ['2', 'pieces', 'tilapia', 'cleaned', 'and', 'scales', 'removed'], [], ['34', 'cup', 'green', 'mango', 'diced'], [], ['1', 'piece', 'tomato', 'diced'], [], ['1', 'piece', 'onion', 'chopped'], [], ['1', 'teaspoon', 'ginger', 'minced'], [], ['1', 'tablespoon', 'lemon', 'juice'], [], ['2', 'teaspoons', 'cooking', 'oil'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['tilapia', 'cleaned', 'and', 'scales', 'removed', 'green', 'mango', 'tomato', 'onion', 'ginger', 'lemon', 'juice', 'cooking', 'oil', 'salt', 'and', 'pepper', 'to', 'taste']"
+Pork Menudo,"10
+minutes",,Lunch,, 12g (4%, 33g (66%, 37g (57%, 12g (60%,, 1356mg (57%, 857mg (24%, 2g (8%, 3g (3%, 5035IU (101%, 14.6mg (18%, 52mg (5%, 4.3mg (24%, 6g Calories, 161mg (54%,,https://panlasangpinoy.com/pork-menudo-recipe/,"▢
+2 lbs. pork
+▢
+1/4 lb. pig liver
+▢
+1 cup potatoes diced
+▢
+1 piece carrot cubed
+▢
+1/2 cup soy sauce
+▢
+1/2 piece lemon
+▢
+1 piece onion chopped
+▢
+3 cloves garlic minced
+▢
+1 teaspoon sugar
+▢
+3/4 cup tomato sauce
+▢
+1 cup water
+▢
+4 pieces hotdogs sliced diagonally
+▢
+2 tablespoons cooking oil
+▢
+2 to 3 pieces dried bay leaves
+▢
+Salt and pepper to taste","[[], ['2', 'lbs', 'pork'], [], ['14', 'lb', 'pig', 'liver'], [], ['1', 'cup', 'potatoes', 'diced'], [], ['1', 'piece', 'carrot', 'cubed'], [], ['12', 'cup', 'soy', 'sauce'], [], ['12', 'piece', 'lemon'], [], ['1', 'piece', 'onion', 'chopped'], [], ['3', 'cloves', 'garlic', 'minced'], [], ['1', 'teaspoon', 'sugar'], [], ['34', 'cup', 'tomato', 'sauce'], [], ['1', 'cup', 'water'], [], ['4', 'pieces', 'hotdogs', 'sliced', 'diagonally'], [], ['2', 'tablespoons', 'cooking', 'oil'], [], ['2', 'to', '3', 'pieces', 'dried', 'bay', 'leaves'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['pork', 'pig', 'liver', 'potatoes', 'carrot', 'cubed', 'soy', 'sauce', 'lemon', 'onion', 'garlic', 'sugar', 'tomato', 'sauce', 'water', 'hotdogs', 'diagonally', 'cooking', 'oil', 'to', 'dried', 'bay', 'leaves', 'salt', 'and', 'pepper', 'to', 'taste']"
+Pork Caldereta Recipe,"5
+minutes",,Lunch,, 10g (3%, 37g (74%, 51g (78%, 16g (80%, 6g Monounsaturated Fat, 868mg (36%, 888mg (25%, 3g (12%, 5g (6%, 5187IU (104%, 57mg (69%, 59mg (6%, 4mg (22%, 5g Calories,,,https://panlasangpinoy.com/pork-caldereta/,"▢
+2 lbs. Pork sliced into cubes
+▢
+1 piece Knorr Pork cube
+▢
+8 oz. tomato sauce
+▢
+¾ cup green olives
+▢
+1 piece red bell pepper sliced
+▢
+1 piece green bell pepper sliced
+▢
+2 pieces potatoes cubed
+▢
+2 pieces carrot sliced
+▢
+1 piece onion chopped
+▢
+3 cloves garlic chopped
+▢
+1 1/2 cups water
+▢
+½ cup liver spread
+▢
+3 tablespoons cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['2', 'lbs', 'Pork', 'sliced', 'into', 'cubes'], [], ['1', 'piece', 'Knorr', 'Pork', 'cube'], [], ['8', 'oz', 'tomato', 'sauce'], [], ['¾', 'cup', 'green', 'olives'], [], ['1', 'piece', 'red', 'bell', 'pepper', 'sliced'], [], ['1', 'piece', 'green', 'bell', 'pepper', 'sliced'], [], ['2', 'pieces', 'potatoes', 'cubed'], [], ['2', 'pieces', 'carrot', 'sliced'], [], ['1', 'piece', 'onion', 'chopped'], [], ['3', 'cloves', 'garlic', 'chopped'], [], ['1', '12', 'cups', 'water'], [], ['½', 'cup', 'liver', 'spread'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['pork', 'into', 'cubes', 'knorr', 'pork', 'cube', 'tomato', 'sauce', 'green', 'olives', 'red', 'bell', 'pepper', 'green', 'bell', 'pepper', 'potatoes', 'cubed', 'carrot', 'onion', 'garlic', 'water', 'liver', 'spread', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Chicken Afritada Recipe,"5
+minutes","45
+minutes",Lunch, 583kcal (29%, 25g (8%, 37g (74%, 37g (57%, 8g (40%,, 1089mg (45%, 1223mg (35%, 5g (20%, 5g (6%, 3215IU (64%, 42.2mg (51%, 93mg (9%, 6.6mg (37%,, 127mg (42%,,https://panlasangpinoy.com/chicken-afritada-recipe/,"▢
+1 ½ lbs. Chicken cut into serving pieces
+▢
+2 piece potato cubed
+▢
+1 piece carrot sliced
+▢
+8 oz. tomato sauce
+▢
+3 pieces hotdog sliced
+▢
+½ cup green peas
+▢
+3 pieces bay leaves
+▢
+1 piece red onion chopped
+▢
+2 teaspoons garlic minced
+▢
+3 cups chicken broth
+▢
+½ teaspoon sugar
+▢
+3 tablespoons cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['1', '½', 'lbs', 'Chicken', 'cut', 'into', 'serving', 'pieces'], [], ['2', 'piece', 'potato', 'cubed'], [], ['1', 'piece', 'carrot', 'sliced'], [], ['8', 'oz', 'tomato', 'sauce'], [], ['3', 'pieces', 'hotdog', 'sliced'], [], ['½', 'cup', 'green', 'peas'], [], ['3', 'pieces', 'bay', 'leaves'], [], ['1', 'piece', 'red', 'onion', 'chopped'], [], ['2', 'teaspoons', 'garlic', 'minced'], [], ['3', 'cups', 'chicken', 'broth'], [], ['½', 'teaspoon', 'sugar'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['chicken', 'cut', 'into', 'serving', 'potato', 'cubed', 'carrot', 'tomato', 'sauce', 'hotdog', 'green', 'peas', 'bay', 'leaves', 'red', 'onion', 'garlic', 'chicken', 'broth', 'sugar', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Pork Steak Recipe,"10
+minutes","50
+minutes",Lunch,, 2g (1%, 3g (6%, 28g (43%, 2g (10%,,, 48mg (1%, 1g (4%, 1g (1%,,, 7mg (1%, 0.5mg (3%, 4g Calories, 1mg Sodium,,https://panlasangpinoy.com/pork-steak-recip/,"▢
+4 pieces pork chops
+▢
+5 tablespoons soy sauce
+▢
+2 pieces lime or calamansi
+▢
+1/2 cup cooking oil
+▢
+2 pieces onions sliced
+▢
+1 1/2 cups water
+▢
+1/2 teaspoon granulated white sugar
+▢
+Salt and pepper to taste","[[], ['4', 'pieces', 'pork', 'chops'], [], ['5', 'tablespoons', 'soy', 'sauce'], [], ['2', 'pieces', 'lime', 'or', 'calamansi'], [], ['12', 'cup', 'cooking', 'oil'], [], ['2', 'pieces', 'onions', 'sliced'], [], ['1', '12', 'cups', 'water'], [], ['12', 'teaspoon', 'granulated', 'white', 'sugar'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['pork', 'chops', 'soy', 'sauce', 'lime', 'or', 'calamansi', 'cooking', 'oil', 'onions', 'water', 'granulated', 'white', 'sugar', 'salt', 'and', 'pepper', 'to', 'taste']"
+Bicol Express Recipe,"5
+minutes","55
+minutes",Lunch,, 10g (3%, 27g (54%, 124g (191%, 68g (340%,, 431mg (18%, 745mg (21%, 2g (8%, 1g (1%, 29IU (1%, 8mg (10%, 81mg (8%, 6mg (33%, 6g Calories, 228mg (76%,,https://panlasangpinoy.com/bicol-express/,"▢
+2 lbs. pork belly sliced into strips
+▢
+2 cups coconut milk
+▢
+2 cups coconut cream
+▢
+1/2 cup shrimp paste bagoong alamang
+▢
+4 cloves garlic crushed
+▢
+6 pieces Thai chili pepper chopped
+▢
+1 thumb ginger minced
+▢
+1 piece onion chopped
+▢
+1 pieces Serrano pepper sliced
+▢
+1 cup water optional","[[], ['2', 'lbs', 'pork', 'belly', 'sliced', 'into', 'strips'], [], ['2', 'cups', 'coconut', 'milk'], [], ['2', 'cups', 'coconut', 'cream'], [], ['12', 'cup', 'shrimp', 'paste', 'bagoong', 'alamang'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['6', 'pieces', 'Thai', 'chili', 'pepper', 'chopped'], [], ['1', 'thumb', 'ginger', 'minced'], [], ['1', 'piece', 'onion', 'chopped'], [], ['1', 'pieces', 'Serrano', 'pepper', 'sliced'], [], ['1', 'cup', 'water', 'optional']]","['pork', 'belly', 'into', 'strips', 'coconut', 'milk', 'coconut', 'cream', 'shrimp', 'paste', 'bagoong', 'alamang', 'garlic', 'thai', 'chili', 'pepper', 'thumb', 'ginger', 'onion', 'serrano', 'pepper', 'water', 'optional']"
+Adobong Kangkong Recipe,"5
+minutes","15
+minutes",Lunch,, 8g (3%, 4g (8%, 14g (22%, 1g (5%,,, 190mg (5%, 1g (4%, 2g (2%, 1178IU (24%, 16mg (19%, 45mg (5%, 1mg (6%, 4g Calories,, 1g Sodium,https://panlasangpinoy.com/adobong-kangkong/,"▢
+1 bunch kangkong leaves and stalks separated. Stalks cut in 1-inch pieces
+▢
+1 piece onion chopped
+▢
+1 head garlic crushed and chopped
+▢
+1/4 cup soy sauce
+▢
+1/8 cup vinegar
+▢
+1/2 cup water optional
+▢
+3 tablespoons cooking oil
+▢
+Ground black pepper","[[], ['1', 'bunch', 'kangkong', 'leaves', 'and', 'stalks', 'separated', 'Stalks', 'cut', 'in', '1inch', 'pieces'], [], ['1', 'piece', 'onion', 'chopped'], [], ['1', 'head', 'garlic', 'crushed', 'and', 'chopped'], [], ['14', 'cup', 'soy', 'sauce'], [], ['18', 'cup', 'vinegar'], [], ['12', 'cup', 'water', 'optional'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Ground', 'black', 'pepper']]","['kangkong', 'leaves', 'and', 'separated', 'cut', 'in', 'inch', 'onion', 'head', 'garlic', 'and', 'soy', 'sauce', 'vinegar', 'water', 'optional', 'cooking', 'oil', 'ground', 'black', 'pepper']"
+Pinakbet Tagalog Recipe,"5
+minutes","35
+minutes",Lunch, 1243kcal (62%, 28g (9%, 5g (10%, 124g (191%, 45g (225%,, 362mg (15%, 895mg (26%, 7g (28%, 9g (10%, 6330IU (127%, 40.9mg (50%, 82mg (8%, 1.5mg (8%,, 136mg (45%,,https://panlasangpinoy.com/pinakbet-tagalog-recipe-knr-sc/,"▢
+1 lb lechon kawali sliced
+▢
+1 piece Knorr Shrimp Cube
+▢
+12 pieces sitaw cut into 2 inch length
+▢
+1/2 piece kalabasa cubed
+▢
+12 pieces okra
+▢
+1 piece Chinese eggplant sliced
+▢
+1 piece ampalaya sliced
+▢
+1 piece kamote cubed (optional)
+▢
+2 pieces tomato cubed
+▢
+2 thumbs ginger crushed (optional)
+▢
+1 piece onion chopped
+▢
+4 cloves garlic crushed
+▢
+2 teaspoons bagoong alamang
+▢
+2 ½ cups water
+▢
+3 tablespoons cooking oil
+▢
+¼ teaspoon ground black pepper","[[], ['1', 'lb', 'lechon', 'kawali', 'sliced'], [], ['1', 'piece', 'Knorr', 'Shrimp', 'Cube'], [], ['12', 'pieces', 'sitaw', 'cut', 'into', '2', 'inch', 'length'], [], ['12', 'piece', 'kalabasa', 'cubed'], [], ['12', 'pieces', 'okra'], [], ['1', 'piece', 'Chinese', 'eggplant', 'sliced'], [], ['1', 'piece', 'ampalaya', 'sliced'], [], ['1', 'piece', 'kamote', 'cubed', 'optional'], [], ['2', 'pieces', 'tomato', 'cubed'], [], ['2', 'thumbs', 'ginger', 'crushed', 'optional'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['2', 'teaspoons', 'bagoong', 'alamang'], [], ['2', '½', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['¼', 'teaspoon', 'ground', 'black', 'pepper']]","['lechon', 'kawali', 'knorr', 'shrimp', 'cube', 'sitaw', 'cut', 'into', 'inch', 'length', 'kalabasa', 'cubed', 'okra', 'chinese', 'eggplant', 'ampalaya', 'kamote', 'cubed', 'optional', 'tomato', 'cubed', 'thumbs', 'ginger', 'optional', 'onion', 'garlic', 'bagoong', 'alamang', 'water', 'cooking', 'oil', 'ground', 'black', 'pepper']"
+Beef Stir Fry,"5
+minutes","9
+minutes",Lunch, 593kcal (30%, 8g (3%, 22g (44%, 53g (82%, 12g (60%,, 511mg (21%, 460mg (13%, 1g (4%, 2g (2%, 1042IU (21%, 62mg (75%, 15mg (2%, 3mg (17%,, 79mg (26%,,https://panlasangpinoy.com/stir-fried-beef/,"▢
+1 lb. beef tenderloin thinly sliced
+▢
+3 tablespoons oyster sauce
+▢
+1 teaspoon soy sauce
+▢
+1 ½ tablespoons cornstarch
+▢
+1/2 teaspoon ground black pepper
+▢
+1- piece green bell pepper sliced into thick strips
+▢
+1- piece red bell pepper sliced into thick strips
+▢
+1/2 cup cooking oil","[[], ['1', 'lb', 'beef', 'tenderloin', 'thinly', 'sliced'], [], ['3', 'tablespoons', 'oyster', 'sauce'], [], ['1', 'teaspoon', 'soy', 'sauce'], [], ['1', '½', 'tablespoons', 'cornstarch'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'piece', 'green', 'bell', 'pepper', 'sliced', 'into', 'thick', 'strips'], [], ['1', 'piece', 'red', 'bell', 'pepper', 'sliced', 'into', 'thick', 'strips'], [], ['12', 'cup', 'cooking', 'oil']]","['beef', 'tenderloin', 'thinly', 'oyster', 'sauce', 'soy', 'sauce', 'cornstarch', 'ground', 'black', 'pepper', 'green', 'bell', 'pepper', 'into', 'thick', 'strips', 'red', 'bell', 'pepper', 'into', 'thick', 'strips', 'cooking', 'oil']"
+Pininyahang Manok,"10
+minutes","45
+minutes",Lunch,, 15g (5%, 30g (60%, 28g (43%, 7g (35%,, 713mg (30%, 527mg (15%, 2g (8%, 12g (13%, 2750IU (55%, 42.2mg (51%, 66mg (7%, 1.8mg (10%, 6g Calories, 115mg (38%,,https://panlasangpinoy.com/pineapple-chicken-caserole-pininyahang-manok-recipe/,,[],[]
+Beef Asado,"30
+minutes","30
+minutes",Lunch, 884kcal (44%, 11g (4%, 65g (130%, 66g (102%, 22g (110%,, 2013mg (84%, 1395mg (40%, 2g (8%, 4g (4%, 595IU (12%, 13mg (16%, 99mg (10%, 8mg (44%,, 237mg (79%,,https://panlasangpinoy.com/beef-asado/,"▢
+3 1/2 lbs. beef chuck
+▢
+1 piece Knorr Beef Cube
+▢
+8 ounces tomato sauce
+▢
+3 cups water
+▢
+6 tablespoons soy sauce
+▢
+1 1/2 tablespoons white vinegar
+▢
+2 teaspoons whole peppercorn crushed
+▢
+4 pieces bay leaves dried
+▢
+1/2 piece lemon
+▢
+2 tablespoons tomato paste
+▢
+3 tablespoons butter
+▢
+1/2 cup cooking oil
+▢
+1 piece onion chopped
+▢
+4 cloves garlic chopped","[[], ['3', '12', 'lbs', 'beef', 'chuck'], [], ['1', 'piece', 'Knorr', 'Beef', 'Cube'], [], ['8', 'ounces', 'tomato', 'sauce'], [], ['3', 'cups', 'water'], [], ['6', 'tablespoons', 'soy', 'sauce'], [], ['1', '12', 'tablespoons', 'white', 'vinegar'], [], ['2', 'teaspoons', 'whole', 'peppercorn', 'crushed'], [], ['4', 'pieces', 'bay', 'leaves', 'dried'], [], ['12', 'piece', 'lemon'], [], ['2', 'tablespoons', 'tomato', 'paste'], [], ['3', 'tablespoons', 'butter'], [], ['12', 'cup', 'cooking', 'oil'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'chopped']]","['beef', 'chuck', 'knorr', 'beef', 'cube', 'tomato', 'sauce', 'water', 'soy', 'sauce', 'white', 'vinegar', 'peppercorn', 'bay', 'leaves', 'dried', 'lemon', 'tomato', 'paste', 'butter', 'cooking', 'oil', 'onion', 'garlic']"
+Sweet and Sour Tilapia,"10
+minutes","30
+minutes",Lunch, 1063kcal (53%, 55g (18%, 4g (8%, 94g (145%, 7g (35%,,, 443mg (13%, 3g (12%, 42g (47%, 4991IU (100%, 90mg (109%, 39mg (4%, 1mg (6%,, 1mg Sodium,,https://panlasangpinoy.com/sweet-and-sour-tilapia/,"▢
+2 pieces tilapia cleaned
+▢
+2 tablespoons Knorr Liquid Seasoning
+▢
+1 piece red bell pepper julienne
+▢
+1 piece green bell pepper julienne
+▢
+1 piece carrot julienne
+▢
+5 cloves garlic crushed
+▢
+1 piece onion sliced
+▢
+2 thumbs ginger julienne
+▢
+2 tablespoons cornstarch
+▢
+2 cups water
+▢
+5 1/2 tablespoons white vinegar
+▢
+8 tablespoons tomato ketchup
+▢
+7 tablespoons white sugar
+▢
+1 ¼ cup cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['2', 'pieces', 'tilapia', 'cleaned'], [], ['2', 'tablespoons', 'Knorr', 'Liquid', 'Seasoning'], [], ['1', 'piece', 'red', 'bell', 'pepper', 'julienne'], [], ['1', 'piece', 'green', 'bell', 'pepper', 'julienne'], [], ['1', 'piece', 'carrot', 'julienne'], [], ['5', 'cloves', 'garlic', 'crushed'], [], ['1', 'piece', 'onion', 'sliced'], [], ['2', 'thumbs', 'ginger', 'julienne'], [], ['2', 'tablespoons', 'cornstarch'], [], ['2', 'cups', 'water'], [], ['5', '12', 'tablespoons', 'white', 'vinegar'], [], ['8', 'tablespoons', 'tomato', 'ketchup'], [], ['7', 'tablespoons', 'white', 'sugar'], [], ['1', '¼', 'cup', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['tilapia', 'cleaned', 'knorr', 'liquid', 'seasoning', 'red', 'bell', 'pepper', 'julienne', 'green', 'bell', 'pepper', 'julienne', 'carrot', 'julienne', 'garlic', 'onion', 'thumbs', 'ginger', 'julienne', 'cornstarch', 'water', 'white', 'vinegar', 'tomato', 'ketchup', 'white', 'sugar', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Ginataang Puso ng Saging,"5
+minutes","25
+minutes",Lunch, 333kcal (17%, 17g (6%, 10g (20%, 26g (40%, 7g (35%,, 52mg (2%, 861mg (25%, 7g (28%, 2g (2%, 20IU Vitamin C,, 28mg (3%, 68mg (378%,, 34mg (11%,,https://panlasangpinoy.com/ginataang-puso-ng-saging/,"▢
+1 1/2 cups banana blossom sliced and cleaned
+▢
+40 grams Knorr Ginataang Gulay Mix
+▢
+1/2 cup ground pork
+▢
+8 pieces shrimp shell and head removed
+▢
+5 pieces Thai chili pepper
+▢
+1 piece onion chopped
+▢
+4 cloves garlic minced
+▢
+Ground black pepper to taste
+▢
+1 1/2 cups water
+▢
+3 tablespoons cooking oil","[[], ['1', '12', 'cups', 'banana', 'blossom', 'sliced', 'and', 'cleaned'], [], ['40', 'grams', 'Knorr', 'Ginataang', 'Gulay', 'Mix'], [], ['12', 'cup', 'ground', 'pork'], [], ['8', 'pieces', 'shrimp', 'shell', 'and', 'head', 'removed'], [], ['5', 'pieces', 'Thai', 'chili', 'pepper'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'minced'], [], ['Ground', 'black', 'pepper', 'to', 'taste'], [], ['1', '12', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['banana', 'blossom', 'and', 'cleaned', 'knorr', 'ginataang', 'gulay', 'mix', 'ground', 'pork', 'shrimp', 'shell', 'and', 'head', 'removed', 'thai', 'chili', 'pepper', 'onion', 'garlic', 'ground', 'black', 'pepper', 'to', 'taste', 'water', 'cooking', 'oil']"
+Sinanglay na Tilapia Recipe,"10
+minutes","20
+minutes",Lunch,, 6g (2%, 2g (4%, 18g (28%, 16g (80%,,, 239mg (7%, 1g (4%, 1g (1%, 45IU (1%, 4mg (5%, 27mg (3%, 3mg (17%, 4g Calories, 1mg Sodium,,https://panlasangpinoy.com/sinanglay-na-tilapia/,"▢
+2 pieces tilapia cleaned and scales removed
+▢
+4 pieces bok choy or pechay leaves
+▢
+4 cloves garlic chopped
+▢
+1 piece onion diced
+▢
+2 pieces tomato diced
+▢
+1 thumb ginger chopped
+▢
+3 pieces long green chili
+▢
+1 1/2 cups coconut milk
+▢
+1/2 cup water
+▢
+1 teaspoon salt","[[], ['2', 'pieces', 'tilapia', 'cleaned', 'and', 'scales', 'removed'], [], ['4', 'pieces', 'bok', 'choy', 'or', 'pechay', 'leaves'], [], ['4', 'cloves', 'garlic', 'chopped'], [], ['1', 'piece', 'onion', 'diced'], [], ['2', 'pieces', 'tomato', 'diced'], [], ['1', 'thumb', 'ginger', 'chopped'], [], ['3', 'pieces', 'long', 'green', 'chili'], [], ['1', '12', 'cups', 'coconut', 'milk'], [], ['12', 'cup', 'water'], [], ['1', 'teaspoon', 'salt']]","['tilapia', 'cleaned', 'and', 'scales', 'removed', 'bok', 'choy', 'or', 'pechay', 'leaves', 'garlic', 'onion', 'tomato', 'thumb', 'ginger', 'long', 'green', 'chili', 'coconut', 'milk', 'water', 'salt']"
+Easy Kung Pao Shrimp Recipe,"5
+minutes","15
+minutes",Lunch,, 42g (14%, 37g (74%, 23g (35%, 2g (10%,, 1951mg (81%, 764mg (22%, 5g (20%, 29g (32%, 2193IU (44%, 76mg (92%, 297mg (30%, 5mg (28%, 3g Calories, 381mg (127%,,https://panlasangpinoy.com/easy-kung-pao-shrimp-recipe-2/,"▢
+1 lb. large shrimp head and shell removed
+▢
+1 piece bell pepper chopped
+▢
+1 piece onion chopped
+▢
+1/2 cup scallions chopped
+▢
+1/4 cup peanuts
+▢
+3/4 cup kung pao sauce
+▢
+1 piece zucchini diced
+▢
+5 pieces dried red chili
+▢
+1 thumb ginger minced
+▢
+1 tablespoon garlic minced
+▢
+3 tablespoons cooking oil
+▢
+Salt and pepper to taste.","[[], ['1', 'lb', 'large', 'shrimp', 'head', 'and', 'shell', 'removed'], [], ['1', 'piece', 'bell', 'pepper', 'chopped'], [], ['1', 'piece', 'onion', 'chopped'], [], ['12', 'cup', 'scallions', 'chopped'], [], ['14', 'cup', 'peanuts'], [], ['34', 'cup', 'kung', 'pao', 'sauce'], [], ['1', 'piece', 'zucchini', 'diced'], [], ['5', 'pieces', 'dried', 'red', 'chili'], [], ['1', 'thumb', 'ginger', 'minced'], [], ['1', 'tablespoon', 'garlic', 'minced'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['shrimp', 'head', 'and', 'shell', 'removed', 'bell', 'pepper', 'onion', 'scallions', 'peanuts', 'kung', 'pao', 'sauce', 'zucchini', 'dried', 'red', 'chili', 'thumb', 'ginger', 'garlic', 'cooking', 'oil', 'salt', 'and', 'pepper', 'to', 'taste']"
+Chicken Lollipop Recipe,"10
+minutes","12
+minutes",Lunch,, 19g (6%, 3g (6%, 9g (14%, 1g (5%,, 1274mg (53%, 41mg (1%, 1g (4%, 1g (1%,,, 27mg (3%, 1mg (6%, 6g Calories, 3mg (1%,,https://panlasangpinoy.com/quick-easy-chicken-lollipop-recipe/,"▢
+10 pieces chicken wings
+▢
+1 1/2 cup Panko bread crumbs
+▢
+2 pieces raw eggs
+▢
+1/2 cup all-purpose flour
+▢
+3 teaspoons salt
+▢
+1/2 teaspoon ground black pepper
+▢
+2 cups cooking oil","[[], ['10', 'pieces', 'chicken', 'wings'], [], ['1', '12', 'cup', 'Panko', 'bread', 'crumbs'], [], ['2', 'pieces', 'raw', 'eggs'], [], ['12', 'cup', 'allpurpose', 'flour'], [], ['3', 'teaspoons', 'salt'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['2', 'cups', 'cooking', 'oil']]","['chicken', 'wings', 'panko', 'bread', 'crumbs', 'raw', 'eggs', 'all', 'purpose', 'flour', 'salt', 'ground', 'black', 'pepper', 'cooking', 'oil']"
+Garlic Butter Shrimp Recipe,"10
+minutes","12
+minutes",Lunch,, 6g (2%, 31g (62%, 10g (15%, 5g (25%,, 1248mg (52%, 147mg (4%, 1g (4%, 4g (4%, 349IU (7%, 10mg (12%, 232mg (23%, 3mg (17%, 6g Calories, 401mg (134%,,https://panlasangpinoy.com/buttered-garlic-shrimp/,"▢
+2 lbs shrimp cleaned
+▢
+2 tablespoons parsley chopped
+▢
+1/4 cup butter
+▢
+1 head garlic crushed
+▢
+1 cup lemon lime soda
+▢
+1 teaspoon lemon juice
+▢
+salt and pepper to taste","[[], ['2', 'lbs', 'shrimp', 'cleaned'], [], ['2', 'tablespoons', 'parsley', 'chopped'], [], ['14', 'cup', 'butter'], [], ['1', 'head', 'garlic', 'crushed'], [], ['1', 'cup', 'lemon', 'lime', 'soda'], [], ['1', 'teaspoon', 'lemon', 'juice'], [], ['salt', 'and', 'pepper', 'to', 'taste']]","['shrimp', 'cleaned', 'parsley', 'butter', 'head', 'garlic', 'lemon', 'lime', 'soda', 'lemon', 'juice', 'salt', 'and', 'pepper', 'to', 'taste']"
+Sinigang na Hipon,"10
+minutes","20
+minutes",Lunch, 283kcal (14%, 38g (13%, 32g (64%, 3g (5%, 1g (5%,, 955mg (40%, 1367mg (39%, 15g (60%, 19g (21%, 3752IU (75%, 74mg (90%, 356mg (36%, 7mg (39%,, 286mg (95%,,https://panlasangpinoy.com/filipino-food-sour-shrimp-soup-sinigang-na-hipon-recipe/,"▢
+1 lb. shrimp cleaned
+▢
+44 grams Knorr Sinigang sa Sampaloc Mix
+▢
+1 bunch kangkong
+▢
+15 pieces snake beans
+▢
+5 pieces okra
+▢
+1 piece eggplant
+▢
+1 cup daikon radish sliced
+▢
+1 piece tomato sliced
+▢
+3 pieces long green pepper
+▢
+1 piece onion
+▢
+2 quarts water
+▢
+Fish sauce and ground black pepper to taste","[[], ['1', 'lb', 'shrimp', 'cleaned'], [], ['44', 'grams', 'Knorr', 'Sinigang', 'sa', 'Sampaloc', 'Mix'], [], ['1', 'bunch', 'kangkong'], [], ['15', 'pieces', 'snake', 'beans'], [], ['5', 'pieces', 'okra'], [], ['1', 'piece', 'eggplant'], [], ['1', 'cup', 'daikon', 'radish', 'sliced'], [], ['1', 'piece', 'tomato', 'sliced'], [], ['3', 'pieces', 'long', 'green', 'pepper'], [], ['1', 'piece', 'onion'], [], ['2', 'quarts', 'water'], [], ['Fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['shrimp', 'cleaned', 'knorr', 'sinigang', 'sa', 'sampaloc', 'mix', 'kangkong', 'snake', 'beans', 'okra', 'eggplant', 'daikon', 'radish', 'tomato', 'long', 'green', 'pepper', 'onion', 'water', 'fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Chicken Mami Recipe,"5
+minutes",,Lunch, 824kcal (41%, 85g (28%, 41g (82%, 37g (57%, 4g (20%,, 1799mg (75%, 662mg (19%, 9g (36%, 14g (16%, 5920IU (118%, 20mg (24%, 101mg (10%, 2mg (11%,, 177mg (59%,,https://panlasangpinoy.com/chicken-mami-recipe/,"▢
+12 oz. chicken breast bone-in
+▢
+1 piece Knorr Chicken Cube
+▢
+1 lb. fresh noodles
+▢
+2 cups Napa cabbage chopped
+▢
+3 eggs boiled
+▢
+1 cup carrot julienne
+▢
+1 cup green onion chopped
+▢
+1 piece onion wedged
+▢
+1 head garlic crushed
+▢
+2 quarts water
+▢
+1/2 cup cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['12', 'oz', 'chicken', 'breast', 'bonein'], [], ['1', 'piece', 'Knorr', 'Chicken', 'Cube'], [], ['1', 'lb', 'fresh', 'noodles'], [], ['2', 'cups', 'Napa', 'cabbage', 'chopped'], [], ['3', 'eggs', 'boiled'], [], ['1', 'cup', 'carrot', 'julienne'], [], ['1', 'cup', 'green', 'onion', 'chopped'], [], ['1', 'piece', 'onion', 'wedged'], [], ['1', 'head', 'garlic', 'crushed'], [], ['2', 'quarts', 'water'], [], ['12', 'cup', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['chicken', 'breast', 'bone', 'in', 'knorr', 'chicken', 'cube', 'fresh', 'noodles', 'napa', 'cabbage', 'eggs', 'boiled', 'carrot', 'julienne', 'green', 'onion', 'onion', 'wedged', 'head', 'garlic', 'water', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Steamed Fish with Mayonnaise,"10
+minutes","35
+minutes",Lunch, 404kcal (20%, 15g (5%, 1g (2%, 36g (55%, 4g (20%,, 1174mg (49%, 109mg (3%, 1g (4%, 8g (9%, 2693IU (54%, 28mg (34%, 12mg (1%, 1mg (6%,, 2mg (1%,,https://panlasangpinoy.com/steamed-fish-with-mayonnaise/,"▢
+1 piece fish about 3 to 5 lbs
+▢
+¾ cup scallions sliced
+▢
+2 thumbs ginger julienne
+▢
+1 ½ teaspoons salt","[[], ['1', 'piece', 'fish', 'about', '3', 'to', '5', 'lbs'], [], ['¾', 'cup', 'scallions', 'sliced'], [], ['2', 'thumbs', 'ginger', 'julienne'], [], ['1', '½', 'teaspoons', 'salt']]","['fish', 'about', 'to', 'scallions', 'thumbs', 'ginger', 'julienne', 'salt']"
+Bangus Sisig,"10
+minutes","25
+minutes",Lunch,, 5g (2%, 46g (92%, 22g (34%, 10g (50%,, 694mg (29%, 942mg (27%, 1g (4%, 2g (2%, 1410IU (28%, 10mg (12%, 34mg (3%, 1mg (6%, 4g Calories, 164mg (55%,,https://panlasangpinoy.com/bangus-sisig-recipe/,"▢
+1 piece bangus fried or baked, and then flaked
+▢
+1 piece onion chopped
+▢
+1/2 cup scallions chopped
+▢
+1 tablespoon chili pepper labuyo or Thai chili
+▢
+1/2 teaspoon ground black pepper
+▢
+1 tablespoon soy sauce
+▢
+2 teaspoons ginger minced
+▢
+1 cup crushed chicharon pork rind
+▢
+1/2 tablespoon mayonnaise
+▢
+1/4 cup unsalted butter
+▢
+1 teaspoon garlic powder
+▢
+1/2 teaspoon salt","[[], ['1', 'piece', 'bangus', 'fried', 'or', 'baked', 'and', 'then', 'flaked'], [], ['1', 'piece', 'onion', 'chopped'], [], ['12', 'cup', 'scallions', 'chopped'], [], ['1', 'tablespoon', 'chili', 'pepper', 'labuyo', 'or', 'Thai', 'chili'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['1', 'tablespoon', 'soy', 'sauce'], [], ['2', 'teaspoons', 'ginger', 'minced'], [], ['1', 'cup', 'crushed', 'chicharon', 'pork', 'rind'], [], ['12', 'tablespoon', 'mayonnaise'], [], ['14', 'cup', 'unsalted', 'butter'], [], ['1', 'teaspoon', 'garlic', 'powder'], [], ['12', 'teaspoon', 'salt']]","['bangus', 'fried', 'or', 'baked', 'and', 'then', 'flaked', 'onion', 'scallions', 'chili', 'pepper', 'labuyo', 'or', 'thai', 'chili', 'ground', 'black', 'pepper', 'soy', 'sauce', 'ginger', 'chicharon', 'pork', 'rind', 'mayonnaise', 'unsalted', 'butter', 'garlic', 'powder', 'salt']"
+Fried Tilapia Recipe,"5
+minutes","15
+minutes",Lunch,,, 1g (2%, 7g (11%, 1g (5%,,,,,,,,,, 3g Calories, 1mg Sodium,,https://panlasangpinoy.com/filipino-food-fried-fish-tilapia-dish/,"▢
+2 pieces tilapia cleaned and scales removed
+▢
+2 teaspoons salt
+▢
+1 cup cooking oil","[[], ['2', 'pieces', 'tilapia', 'cleaned', 'and', 'scales', 'removed'], [], ['2', 'teaspoons', 'salt'], [], ['1', 'cup', 'cooking', 'oil']]","['tilapia', 'cleaned', 'and', 'scales', 'removed', 'salt', 'cooking', 'oil']"
+Pork and Chicken Adobo Recipe,"15
+minutes",,Lunch,, 6g (2%, 34g (68%, 84g (129%, 27g (135%,, 1284mg (54%, 503mg (14%, 1g (4%, 2g (2%, 210IU (4%, 4mg (5%, 45mg (5%, 2.6mg (14%, 6g Calories, 167mg (56%,,https://panlasangpinoy.com/pork-and-chicken-adobo/,"▢
+1 1/2 lbs pork belly chopped
+▢
+1 1/2 lbs chicken cut into serving pieces
+▢
+4 pieces dried bay leaves
+▢
+2 teaspoons whole peppercorn
+▢
+1 head garlic slightly crushed
+▢
+6 tablespoons vinegar white
+▢
+1/2 cup soy sauce
+▢
+1 tablespoon oyster sauce
+▢
+2 teaspoons brown sugar
+▢
+2 cups water
+▢
+Salt to taste
+▢
+3 tablespoons cooking oil","[[], ['1', '12', 'lbs', 'pork', 'belly', 'chopped'], [], ['1', '12', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['4', 'pieces', 'dried', 'bay', 'leaves'], [], ['2', 'teaspoons', 'whole', 'peppercorn'], [], ['1', 'head', 'garlic', 'slightly', 'crushed'], [], ['6', 'tablespoons', 'vinegar', 'white'], [], ['12', 'cup', 'soy', 'sauce'], [], ['1', 'tablespoon', 'oyster', 'sauce'], [], ['2', 'teaspoons', 'brown', 'sugar'], [], ['2', 'cups', 'water'], [], ['Salt', 'to', 'taste'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['pork', 'belly', 'chicken', 'cut', 'into', 'serving', 'dried', 'bay', 'leaves', 'peppercorn', 'head', 'garlic', 'slightly', 'vinegar', 'white', 'soy', 'sauce', 'oyster', 'sauce', 'brown', 'sugar', 'water', 'salt', 'to', 'taste', 'cooking', 'oil']"
+Paksiw na Pata Recipe,"10
+minutes",,Lunch,, 34g (11%, 53g (106%, 41g (63%, 15g (75%,, 2072mg (86%, 911mg (26%, 3g (12%, 27g (30%, 90IU (2%, 0.8mg (1%, 89mg (9%, 18.6mg (103%, 4g Calories, 190mg (63%,,https://panlasangpinoy.com/filipino-food-network-pork-recipe-paksiw-na-pata-ng-baboy/,"▢
+2 lbs Pork hock pata, sliced crosswise
+▢
+1 teaspoon garlic crushed
+▢
+½ cup soy sauce
+▢
+2 cups water
+▢
+3 tablespoons vinegar
+▢
+½ cup brown sugar
+▢
+100 grams banana blossoms dried, soaked in water
+▢
+5 pieces dried bay leaves
+▢
+1 tablespoon whole pepper corn
+▢
+Salt to taste","[[], ['2', 'lbs', 'Pork', 'hock', 'pata', 'sliced', 'crosswise'], [], ['1', 'teaspoon', 'garlic', 'crushed'], [], ['½', 'cup', 'soy', 'sauce'], [], ['2', 'cups', 'water'], [], ['3', 'tablespoons', 'vinegar'], [], ['½', 'cup', 'brown', 'sugar'], [], ['100', 'grams', 'banana', 'blossoms', 'dried', 'soaked', 'in', 'water'], [], ['5', 'pieces', 'dried', 'bay', 'leaves'], [], ['1', 'tablespoon', 'whole', 'pepper', 'corn'], [], ['Salt', 'to', 'taste']]","['pork', 'hock', 'pata', 'crosswise', 'garlic', 'soy', 'sauce', 'water', 'vinegar', 'brown', 'sugar', 'banana', 'blossoms', 'dried', 'soaked', 'in', 'water', 'dried', 'bay', 'leaves', 'pepper', 'corn', 'salt', 'to', 'taste']"
+Galbi Recipe,,"16
+minutes",Lunch,, 15g (5%, 35g (70%, 19g (29%, 8g (40%,, 1732mg (72%, 679mg (19%, 1g (4%, 12g (13%, 25IU (1%, 1.2mg (1%, 33mg (3%, 4.4mg (24%, 6g Calories, 98mg (33%,,https://panlasangpinoy.com/galbi/,"▢
+3 lbs beef short ribs sliced
+▢
+3/4 cups light soy sauce
+▢
+3 tablespoons garlic minced
+▢
+4 tablespoons brown sugar
+▢
+2 tablespoons granulated white sugar
+▢
+1 tablespoon rice wine
+▢
+1 tablespoon sesame oil
+▢
+1/4 teaspoon chili powder","[[], ['3', 'lbs', 'beef', 'short', 'ribs', 'sliced'], [], ['34', 'cups', 'light', 'soy', 'sauce'], [], ['3', 'tablespoons', 'garlic', 'minced'], [], ['4', 'tablespoons', 'brown', 'sugar'], [], ['2', 'tablespoons', 'granulated', 'white', 'sugar'], [], ['1', 'tablespoon', 'rice', 'wine'], [], ['1', 'tablespoon', 'sesame', 'oil'], [], ['14', 'teaspoon', 'chili', 'powder']]","['beef', 'short', 'ribs', 'light', 'soy', 'sauce', 'garlic', 'brown', 'sugar', 'granulated', 'white', 'sugar', 'rice', 'wine', 'sesame', 'oil', 'chili', 'powder']"
+Paklay Recipe,"20
+minutes","30
+minutes",Lunch,, 24g (8%, 30g (60%, 13g (20%, 3g (15%,, 178mg (7%, 669mg (19%, 3g (12%, 16g (18%, 14025IU (281%, 43mg (52%, 57mg (6%, 8mg (44%, 6g Calories, 410mg (137%,,https://panlasangpinoy.com/paklay-recipe/,"▢
+1 cup Bamboo shoots julienne
+▢
+1 lb. pig liver sliced into thin strips
+▢
+20 oz Pineapple chunks
+▢
+5 pieces dried bay leaves
+▢
+1/2 lb. pig kidney cleaned
+▢
+1/2 lb. pig heart
+▢
+1 lb. ox tripe
+▢
+1/2 lb. pig stomach
+▢
+1 piece red onion minced
+▢
+1 head garlic minced
+▢
+2 1/2 teaspoons Annatto powder
+▢
+2 thumbs ginger minced
+▢
+1 piece red bell pepper julienned
+▢
+1 piece beef cube or 2 teaspoons beef powder
+▢
+2 cups water for cooking
+▢
+5 cups water for boiling
+▢
+Salt and pepper to taste
+▢
+3 tablespoons olive oil","[[], ['1', 'cup', 'Bamboo', 'shoots', 'julienne'], [], ['1', 'lb', 'pig', 'liver', 'sliced', 'into', 'thin', 'strips'], [], ['20', 'oz', 'Pineapple', 'chunks'], [], ['5', 'pieces', 'dried', 'bay', 'leaves'], [], ['12', 'lb', 'pig', 'kidney', 'cleaned'], [], ['12', 'lb', 'pig', 'heart'], [], ['1', 'lb', 'ox', 'tripe'], [], ['12', 'lb', 'pig', 'stomach'], [], ['1', 'piece', 'red', 'onion', 'minced'], [], ['1', 'head', 'garlic', 'minced'], [], ['2', '12', 'teaspoons', 'Annatto', 'powder'], [], ['2', 'thumbs', 'ginger', 'minced'], [], ['1', 'piece', 'red', 'bell', 'pepper', 'julienned'], [], ['1', 'piece', 'beef', 'cube', 'or', '2', 'teaspoons', 'beef', 'powder'], [], ['2', 'cups', 'water', 'for', 'cooking'], [], ['5', 'cups', 'water', 'for', 'boiling'], [], ['Salt', 'and', 'pepper', 'to', 'taste'], [], ['3', 'tablespoons', 'olive', 'oil']]","['bamboo', 'shoots', 'julienne', 'pig', 'liver', 'into', 'thin', 'strips', 'pineapple', 'chunks', 'dried', 'bay', 'leaves', 'pig', 'kidney', 'cleaned', 'pig', 'heart', 'ox', 'tripe', 'pig', 'stomach', 'red', 'onion', 'head', 'garlic', 'annatto', 'powder', 'thumbs', 'ginger', 'red', 'bell', 'pepper', 'julienned', 'beef', 'cube', 'or', 'beef', 'powder', 'water', 'for', 'cooking', 'water', 'for', 'boiling', 'salt', 'and', 'pepper', 'to', 'taste', 'olive', 'oil']"
+Vegetarian Pancit Canton,"15
+minutes","15
+minutes",Lunch, 431kcal (22%, 47g (16%, 12g (24%, 22g (34%, 1g (5%,, 1728mg (72%, 295mg (8%, 5g (20%, 9g (10%, 2955IU (59%, 20.4mg (25%, 47mg (5%, 1mg (6%,,,,https://panlasangpinoy.com/vegetarian-pancit-canton-recipe/,"▢
+2 ounces Shiitake mushroom dried
+▢
+8 ounces Pancit Canton
+▢
+3 tablespoons vegetarian oyster sauce
+▢
+4 tablespoons soy sauce
+▢
+1 piece onion sliced
+▢
+4 cloves garlic crushed
+▢
+2 stalks celery chopped
+▢
+2 cups water
+▢
+3 tablespoons parsley chopped
+▢
+1 ½ cups cabbage shredded
+▢
+1 piece carrot julienne
+▢
+15 pieces snap peas
+▢
+6 tablespoons cooking oil
+▢
+Ground black pepper to taste","[[], ['2', 'ounces', 'Shiitake', 'mushroom', 'dried'], [], ['8', 'ounces', 'Pancit', 'Canton'], [], ['3', 'tablespoons', 'vegetarian', 'oyster', 'sauce'], [], ['4', 'tablespoons', 'soy', 'sauce'], [], ['1', 'piece', 'onion', 'sliced'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['2', 'stalks', 'celery', 'chopped'], [], ['2', 'cups', 'water'], [], ['3', 'tablespoons', 'parsley', 'chopped'], [], ['1', '½', 'cups', 'cabbage', 'shredded'], [], ['1', 'piece', 'carrot', 'julienne'], [], ['15', 'pieces', 'snap', 'peas'], [], ['6', 'tablespoons', 'cooking', 'oil'], [], ['Ground', 'black', 'pepper', 'to', 'taste']]","['shiitake', 'mushroom', 'dried', 'pancit', 'canton', 'vegetarian', 'oyster', 'sauce', 'soy', 'sauce', 'onion', 'garlic', 'celery', 'water', 'parsley', 'cabbage', 'carrot', 'julienne', 'snap', 'peas', 'cooking', 'oil', 'ground', 'black', 'pepper', 'to', 'taste']"
+Inihaw na Bangus Recipe (Grilled Milkfish),"10
+minutes","20
+minutes",Lunch,, 6g (2%, 46g (92%, 9g (14%, 2g (10%,, 1301mg (54%, 987mg (28%, 1g (4%, 2g (2%, 1150IU (23%, 20.5mg (25%, 32mg (3%, 1.4mg (8%, 4g Calories, 132mg (44%,,https://panlasangpinoy.com/inihaw-na-bangus-recipe/,"▢
+1 piece milkfish bangus, with scales but guts removed
+▢
+1 piece tomato ripe, diced
+▢
+1 piece red onion diced
+▢
+1 piece lemon or 3 pieces calamansi (optional)
+▢
+1 tablespoon ginger minced
+▢
+2 teaspoons salt
+▢
+1/2 teaspoon ground black pepper","[[], ['1', 'piece', 'milkfish', 'bangus', 'with', 'scales', 'but', 'guts', 'removed'], [], ['1', 'piece', 'tomato', 'ripe', 'diced'], [], ['1', 'piece', 'red', 'onion', 'diced'], [], ['1', 'piece', 'lemon', 'or', '3', 'pieces', 'calamansi', 'optional'], [], ['1', 'tablespoon', 'ginger', 'minced'], [], ['2', 'teaspoons', 'salt'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper']]","['milkfish', 'bangus', 'with', 'scales', 'but', 'guts', 'removed', 'tomato', 'ripe', 'red', 'onion', 'lemon', 'or', 'calamansi', 'optional', 'ginger', 'salt', 'ground', 'black', 'pepper']"
+Dinuguan Recipe,"10
+minutes","50
+minutes",Lunch,, 15g (5%, 20g (40%, 34g (52%, 9g (45%,, 70mg (3%, 493mg (14%, 2g (8%, 12g (13%, 160IU (3%, 41.2mg (50%, 62mg (6%, 1.1mg (6%, 4g Calories, 81mg (27%,,https://panlasangpinoy.com/dinuguan-blood-stew/,"▢
+1 lb pork cut into cubes
+▢
+1 cup vinegar
+▢
+2 pieces long green pepper
+▢
+1 1/2 tablespoon brown sugar
+▢
+1 piece onion chopped finely
+▢
+1 tablespoon garlic minced
+▢
+3 tablespoon cooking oil
+▢
+1 cup water
+▢
+10 oz pork blood
+▢
+1 piece pork cube boullion
+▢
+salt and pepper to taste","[[], ['1', 'lb', 'pork', 'cut', 'into', 'cubes'], [], ['1', 'cup', 'vinegar'], [], ['2', 'pieces', 'long', 'green', 'pepper'], [], ['1', '12', 'tablespoon', 'brown', 'sugar'], [], ['1', 'piece', 'onion', 'chopped', 'finely'], [], ['1', 'tablespoon', 'garlic', 'minced'], [], ['3', 'tablespoon', 'cooking', 'oil'], [], ['1', 'cup', 'water'], [], ['10', 'oz', 'pork', 'blood'], [], ['1', 'piece', 'pork', 'cube', 'boullion'], [], ['salt', 'and', 'pepper', 'to', 'taste']]","['pork', 'cut', 'into', 'cubes', 'vinegar', 'long', 'green', 'pepper', 'brown', 'sugar', 'onion', 'finely', 'garlic', 'cooking', 'oil', 'water', 'pork', 'blood', 'pork', 'cube', 'boullion', 'salt', 'and', 'pepper', 'to', 'taste']"
+Tinolang Tahong Recipe,"5
+minutes","20
+minutes",Lunch,, 9g (3%, 10g (20%, 11g (17%, 1g (5%,, 1414mg (59%, 431mg (12%, 1g (4%, 1g (1%, 2000IU (40%, 16.1mg (20%, 65mg (7%, 3.7mg (21%, 3g Calories, 21mg (7%,,https://panlasangpinoy.com/tinolang-tahong/,"▢
+1 lb mussels tahong, cleaned
+▢
+2 cups spinach or hot pepper leaves
+▢
+3 thumbs ginger julienned
+▢
+1 piece onion sliced
+▢
+5 cloves garlic pounded
+▢
+1 1/2 teaspoons salt or 3 tbsp fish sauce
+▢
+1/2 teaspoon ground black pepper
+▢
+3 cups water
+▢
+2 tablespoons cooking oil
+▢
+2 pieces long green pepper optional","[[], ['1', 'lb', 'mussels', 'tahong', 'cleaned'], [], ['2', 'cups', 'spinach', 'or', 'hot', 'pepper', 'leaves'], [], ['3', 'thumbs', 'ginger', 'julienned'], [], ['1', 'piece', 'onion', 'sliced'], [], ['5', 'cloves', 'garlic', 'pounded'], [], ['1', '12', 'teaspoons', 'salt', 'or', '3', 'tbsp', 'fish', 'sauce'], [], ['12', 'teaspoon', 'ground', 'black', 'pepper'], [], ['3', 'cups', 'water'], [], ['2', 'tablespoons', 'cooking', 'oil'], [], ['2', 'pieces', 'long', 'green', 'pepper', 'optional']]","['mussels', 'tahong', 'cleaned', 'spinach', 'or', 'hot', 'pepper', 'leaves', 'thumbs', 'ginger', 'julienned', 'onion', 'garlic', 'pounded', 'salt', 'or', 'fish', 'sauce', 'ground', 'black', 'pepper', 'water', 'cooking', 'oil', 'long', 'green', 'pepper', 'optional']"
+Lechon Kawali Recipe,"10
+minutes","50
+minutes",Lunch,, 2g (1%, 14g (28%, 91g (140%, 30g (150%,, 2382mg (99%, 324mg (9%, 1g (4%,, 85IU (2%, 0.8mg (1%, 34mg (3%, 1.5mg (8%, 6g Calories, 108mg (36%,,https://panlasangpinoy.com/lechon-kawali/,"▢
+2 lbs. pork belly
+▢
+2 tablespoons salt
+▢
+2 tablespoons whole pepper corn
+▢
+5 pieces dried bay leaves
+▢
+3 cups cooking Oil
+▢
+34 ounces Water","[[], ['2', 'lbs', 'pork', 'belly'], [], ['2', 'tablespoons', 'salt'], [], ['2', 'tablespoons', 'whole', 'pepper', 'corn'], [], ['5', 'pieces', 'dried', 'bay', 'leaves'], [], ['3', 'cups', 'cooking', 'Oil'], [], ['34', 'ounces', 'Water']]","['pork', 'belly', 'salt', 'pepper', 'corn', 'dried', 'bay', 'leaves', 'cooking', 'oil', 'water']"
+Beef Pares,"10
+minutes","45
+minutes",Lunch, 3622kcal (181%, 80g (27%, 210g (420%, 269g (414%, 90g (450%,, 7814mg (326%, 3722mg (106%, 4g (16%, 61g (68%, 500IU (10%, 22.2mg (27%, 392mg (39%, 26.9mg (149%,, 805mg (268%,,https://panlasangpinoy.com/filipino-food-how-to-cook-beef-pares-recipe/,"▢
+2 ½ lbs. beef cubed
+▢
+1 piece Knorr Beef Cube
+▢
+2 pieces star anise
+▢
+¼ cup brown sugar
+▢
+½ cup scallions chopped
+▢
+2 thumbs ginger minced
+▢
+6 tablespoons soy sauce
+▢
+1 piece onion chopped
+▢
+5 cloves garlic crushed
+▢
+2 ½ cups water
+▢
+3 tablespoons cooking oil
+▢
+Salt and ground black pepper to taste","[[], ['2', '½', 'lbs', 'beef', 'cubed'], [], ['1', 'piece', 'Knorr', 'Beef', 'Cube'], [], ['2', 'pieces', 'star', 'anise'], [], ['¼', 'cup', 'brown', 'sugar'], [], ['½', 'cup', 'scallions', 'chopped'], [], ['2', 'thumbs', 'ginger', 'minced'], [], ['6', 'tablespoons', 'soy', 'sauce'], [], ['1', 'piece', 'onion', 'chopped'], [], ['5', 'cloves', 'garlic', 'crushed'], [], ['2', '½', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['beef', 'cubed', 'knorr', 'beef', 'cube', 'star', 'anise', 'brown', 'sugar', 'scallions', 'thumbs', 'ginger', 'soy', 'sauce', 'onion', 'garlic', 'water', 'cooking', 'oil', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Beef Kaldereta Recipe,"10
+minutes",,Lunch,, 20g (7%, 30g (60%, 42g (65%, 12g (60%,, 903mg (38%, 1135mg (32%, 5g (20%, 6g (7%, 9150IU (183%, 65.8mg (80%, 89mg (9%, 6.5mg (36%, 6g Calories, 109mg (36%,,https://panlasangpinoy.com/beef-kaldereta/,"▢
+2 lbs beef cubed
+▢
+3 pieces garlic cloves crushed and chopped
+▢
+1 piece onion finely chopped
+▢
+2 cups beef broth
+▢
+1 piece red bell pepper sliced
+▢
+1 piece green bell pepper sliced
+▢
+1 cup tomato sauce
+▢
+½ cup liver spread processed using blender
+▢
+1 teaspoon chili flakes
+▢
+3 pieces dried bay leaves
+▢
+2 cups potatoes sliced
+▢
+2 cups carrots sliced
+▢
+1/4 cup cooking oil
+▢
+⅔ cup green olives
+▢
+salt and pepper to taste","[[], ['2', 'lbs', 'beef', 'cubed'], [], ['3', 'pieces', 'garlic', 'cloves', 'crushed', 'and', 'chopped'], [], ['1', 'piece', 'onion', 'finely', 'chopped'], [], ['2', 'cups', 'beef', 'broth'], [], ['1', 'piece', 'red', 'bell', 'pepper', 'sliced'], [], ['1', 'piece', 'green', 'bell', 'pepper', 'sliced'], [], ['1', 'cup', 'tomato', 'sauce'], [], ['½', 'cup', 'liver', 'spread', 'processed', 'using', 'blender'], [], ['1', 'teaspoon', 'chili', 'flakes'], [], ['3', 'pieces', 'dried', 'bay', 'leaves'], [], ['2', 'cups', 'potatoes', 'sliced'], [], ['2', 'cups', 'carrots', 'sliced'], [], ['14', 'cup', 'cooking', 'oil'], [], ['⅔', 'cup', 'green', 'olives'], [], ['salt', 'and', 'pepper', 'to', 'taste']]","['beef', 'cubed', 'garlic', 'and', 'onion', 'finely', 'beef', 'broth', 'red', 'bell', 'pepper', 'green', 'bell', 'pepper', 'tomato', 'sauce', 'liver', 'spread', 'processed', 'using', 'blender', 'chili', 'flakes', 'dried', 'bay', 'leaves', 'potatoes', 'carrots', 'cooking', 'oil', 'green', 'olives', 'salt', 'and', 'pepper', 'to', 'taste']"
+Squid Ball Chop Suey,"10
+minutes","35
+minutes",Lunch,, 16g (5%, 7g (14%, 6g (9%,,, 369mg (15%, 556mg (16%, 5g (20%, 8g (9%, 4315IU (86%, 99.7mg (121%, 94mg (9%, 3.4mg (19%, 6g Calories, 79mg (26%,,https://panlasangpinoy.com/squid-ball-chop-suey-recipe/,"▢
+1 piece cabbage medium, chopped
+▢
+12 to 15 pieces squid balls
+▢
+2 cups snow peas
+▢
+2 tablespoons oyster sauce
+▢
+1 piece carrot sliced crosswise
+▢
+2 pieces red bell pepper sliced
+▢
+2 cups cauliflower
+▢
+1/4 lb chicken liver
+▢
+10 pieces quail eggs boiled
+▢
+1 cup chicken broth
+▢
+1 teaspoon garlic minced
+▢
+1 piece yellow onion sliced
+▢
+salt and ground black pepper to taste
+▢
+2 tablespoons cooking oil","[[], ['1', 'piece', 'cabbage', 'medium', 'chopped'], [], ['12', 'to', '15', 'pieces', 'squid', 'balls'], [], ['2', 'cups', 'snow', 'peas'], [], ['2', 'tablespoons', 'oyster', 'sauce'], [], ['1', 'piece', 'carrot', 'sliced', 'crosswise'], [], ['2', 'pieces', 'red', 'bell', 'pepper', 'sliced'], [], ['2', 'cups', 'cauliflower'], [], ['14', 'lb', 'chicken', 'liver'], [], ['10', 'pieces', 'quail', 'eggs', 'boiled'], [], ['1', 'cup', 'chicken', 'broth'], [], ['1', 'teaspoon', 'garlic', 'minced'], [], ['1', 'piece', 'yellow', 'onion', 'sliced'], [], ['salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste'], [], ['2', 'tablespoons', 'cooking', 'oil']]","['cabbage', 'to', 'squid', 'balls', 'snow', 'peas', 'oyster', 'sauce', 'carrot', 'crosswise', 'red', 'bell', 'pepper', 'cauliflower', 'chicken', 'liver', 'quail', 'eggs', 'boiled', 'chicken', 'broth', 'garlic', 'yellow', 'onion', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste', 'cooking', 'oil']"
+Ginataang Tilapia,"10
+minutes","25
+minutes",Lunch, 451kcal (23%, 10g (3%, 5g (10%, 46g (71%, 29g (145%,, 980mg (41%, 547mg (16%, 1g (4%, 2g (2%, 1875IU (38%, 12.7mg (15%, 68mg (7%, 5.8mg (32%,,,,https://panlasangpinoy.com/ginataang-tilapia/,"▢
+2 pieces tilapia cleaned
+▢
+2 cups coconut milk
+▢
+4 cloves garlic crushed
+▢
+1 piece onion chopped
+▢
+1 thumb ginger cut into strips
+▢
+2 pieces long green pepper
+▢
+2 tablespoons fish sauce
+▢
+2 pieces Thai chili pepper
+▢
+1/4 teaspoon ground black pepper
+▢
+2 cups fresh spinach
+▢
+3 tablespoons cooking oil","[[], ['2', 'pieces', 'tilapia', 'cleaned'], [], ['2', 'cups', 'coconut', 'milk'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['1', 'piece', 'onion', 'chopped'], [], ['1', 'thumb', 'ginger', 'cut', 'into', 'strips'], [], ['2', 'pieces', 'long', 'green', 'pepper'], [], ['2', 'tablespoons', 'fish', 'sauce'], [], ['2', 'pieces', 'Thai', 'chili', 'pepper'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['2', 'cups', 'fresh', 'spinach'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['tilapia', 'cleaned', 'coconut', 'milk', 'garlic', 'onion', 'thumb', 'ginger', 'cut', 'into', 'strips', 'long', 'green', 'pepper', 'fish', 'sauce', 'thai', 'chili', 'pepper', 'ground', 'black', 'pepper', 'fresh', 'spinach', 'cooking', 'oil']"
+Spaghetti and Meatballs,"10
+minutes","40
+minutes",Lunch, 775kcal (39%, 63g (21%, 34g (68%, 42g (65%, 13g (65%,, 1547mg (64%, 1062mg (30%, 5g (20%, 11g (12%, 805IU (16%, 18.8mg (23%, 217mg (22%, 5.4mg (30%,, 129mg (43%,,https://panlasangpinoy.com/pasta-noodles-spaghetti-and-meatballs-recipe/,"▢
+1/2 lb. Spaghetti
+▢
+6 cups water for boiling","[[], ['12', 'lb', 'Spaghetti'], [], ['6', 'cups', 'water', 'for', 'boiling']]","['spaghetti', 'water', 'for', 'boiling']"
+Chicken Pochero Recipe,"10
+minutes","40
+minutes",Lunch, 700kcal (35%, 48g (16%, 46g (92%, 38g (58%, 8g (40%,, 608mg (25%, 1580mg (45%, 16g (64%, 19g (21%, 3055IU (61%, 86.4mg (105%, 230mg (23%, 7.6mg (42%,, 136mg (45%,,https://panlasangpinoy.com/chicken-pochero/,"▢
+2 lbs. Chicken cut into serving pieces
+▢
+1 piece Knorr Chicken Cube
+▢
+2 pieces potato cubed
+▢
+2 bunches baby bok choy
+▢
+½ head cabbage sliced
+▢
+8 ounces tomato sauce
+▢
+18 pieces long green beans
+▢
+2 pieces Chorizo de Bilbao sliced
+▢
+8 ounces chick pea
+▢
+3 pieces Saba banana sliced
+▢
+2 pieces tomato diced
+▢
+1 piece onion chopped
+▢
+4 cloves garlic crushed
+▢
+2 cups water
+▢
+3 tablespoons cooking oil
+▢
+Fish sauce and crushed peppercorn to taste","[[], ['2', 'lbs', 'Chicken', 'cut', 'into', 'serving', 'pieces'], [], ['1', 'piece', 'Knorr', 'Chicken', 'Cube'], [], ['2', 'pieces', 'potato', 'cubed'], [], ['2', 'bunches', 'baby', 'bok', 'choy'], [], ['½', 'head', 'cabbage', 'sliced'], [], ['8', 'ounces', 'tomato', 'sauce'], [], ['18', 'pieces', 'long', 'green', 'beans'], [], ['2', 'pieces', 'Chorizo', 'de', 'Bilbao', 'sliced'], [], ['8', 'ounces', 'chick', 'pea'], [], ['3', 'pieces', 'Saba', 'banana', 'sliced'], [], ['2', 'pieces', 'tomato', 'diced'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['2', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Fish', 'sauce', 'and', 'crushed', 'peppercorn', 'to', 'taste']]","['chicken', 'cut', 'into', 'serving', 'knorr', 'chicken', 'cube', 'potato', 'cubed', 'baby', 'bok', 'choy', 'head', 'cabbage', 'tomato', 'sauce', 'long', 'green', 'beans', 'chorizo', 'de', 'bilbao', 'chick', 'pea', 'saba', 'banana', 'tomato', 'onion', 'garlic', 'water', 'cooking', 'oil', 'fish', 'sauce', 'and', 'peppercorn', 'to', 'taste']"
+Adobong Pusit Recipe,"10
+minutes","20
+minutes",Lunch,, 5g (2%, 3g (6%, 7g (11%,,, 1625mg (68%, 101mg (3%,, 2g (2%,, 2.4mg (3%, 12mg (1%, 0.8mg (4%, 4g Calories,,,https://panlasangpinoy.com/adobong-pusit-recipe/,"▢
+2 lbs. medium-sized squid (note 1)
+▢
+1 piece onion (note 2)
+▢
+2 pieces tomatoes (note 3)
+▢
+1/2 cup soy sauce
+▢
+1/2 cup vinegar
+▢
+1 cup water
+▢
+5 cloves crushed garlic
+▢
+1 teaspoon sugar
+▢
+Salt and pepper to taste
+▢
+2 tbsp cooking oil","[[], ['2', 'lbs', 'mediumsized', 'squid', 'note', '1'], [], ['1', 'piece', 'onion', 'note', '2'], [], ['2', 'pieces', 'tomatoes', 'note', '3'], [], ['12', 'cup', 'soy', 'sauce'], [], ['12', 'cup', 'vinegar'], [], ['1', 'cup', 'water'], [], ['5', 'cloves', 'crushed', 'garlic'], [], ['1', 'teaspoon', 'sugar'], [], ['Salt', 'and', 'pepper', 'to', 'taste'], [], ['2', 'tbsp', 'cooking', 'oil']]","['sized', 'squid', 'note', 'onion', 'note', 'tomatoes', 'note', 'soy', 'sauce', 'vinegar', 'water', 'garlic', 'sugar', 'salt', 'and', 'pepper', 'to', 'taste', 'cooking', 'oil']"
+Pork Binagoongan Recipe,"5
+minutes",,Lunch, 1102kcal (55%, 14g (5%, 33g (66%, 101g (155%, 33g (165%,, 1002mg (42%, 1014mg (29%, 3g (12%, 8g (9%, 45IU (1%, 5.8mg (7%, 106mg (11%, 2.8mg (16%,, 293mg (98%,,https://panlasangpinoy.com/pork-binagoongan-sa-gata/,"▢
+3 lbs. pork belly cubed
+▢
+40 grams Knorr Ginataang Gulay Recipe Mix
+▢
+4 tablespoons shrimp paste
+▢
+3 cups water
+▢
+1 eggplant sliced
+▢
+1 tomato chopped
+▢
+1 onion minced
+▢
+5 cloves garlic minced
+▢
+2 tablespoons white vinegar
+▢
+1 teaspoon sugar
+▢
+3 long green chili pepper sliced
+▢
+5 tablespoons cooking oil
+▢
+Fish sauce and ground black pepper to taste","[[], ['3', 'lbs', 'pork', 'belly', 'cubed'], [], ['40', 'grams', 'Knorr', 'Ginataang', 'Gulay', 'Recipe', 'Mix'], [], ['4', 'tablespoons', 'shrimp', 'paste'], [], ['3', 'cups', 'water'], [], ['1', 'eggplant', 'sliced'], [], ['1', 'tomato', 'chopped'], [], ['1', 'onion', 'minced'], [], ['5', 'cloves', 'garlic', 'minced'], [], ['2', 'tablespoons', 'white', 'vinegar'], [], ['1', 'teaspoon', 'sugar'], [], ['3', 'long', 'green', 'chili', 'pepper', 'sliced'], [], ['5', 'tablespoons', 'cooking', 'oil'], [], ['Fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['pork', 'belly', 'cubed', 'knorr', 'ginataang', 'gulay', 'recipe', 'mix', 'shrimp', 'paste', 'water', 'eggplant', 'tomato', 'onion', 'garlic', 'white', 'vinegar', 'sugar', 'long', 'green', 'chili', 'pepper', 'cooking', 'oil', 'fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Pata Hamonado,"15
+minutes","46
+minutes",Lunch, 273kcal (14%, 42g (14%, 3g (6%, 11g (17%,,, 1060mg (44%, 294mg (8%, 3g (12%, 36g (40%, 150IU (3%, 16.9mg (20%, 68mg (7%, 1.6mg (9%,,,,https://panlasangpinoy.com/pata-hamonado-recipe/,"▢
+3 ½ lbs  pork hock  pata, sliced or whole
+▢
+1 piece Knorr Pork Cube
+▢
+20  ounces  pineapple chunks in can
+▢
+1  piece onion chopped
+▢
+4 cloves garlic crushed
+▢
+¼ cup soy sauce
+▢
+¼ cup  brown sugar
+▢
+5  pieces  dried bay leaves
+▢
+1 ½ cups  water
+▢
+1  teaspoon  whole peppercorn
+▢
+3  tablespoons  cooking oil
+▢
+Salt to taste","[[], ['3', '½', 'lbs', 'pork', 'hock', 'pata', 'sliced', 'or', 'whole'], [], ['1', 'piece', 'Knorr', 'Pork', 'Cube'], [], ['20', 'ounces', 'pineapple', 'chunks', 'in', 'can'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['¼', 'cup', 'soy', 'sauce'], [], ['¼', 'cup', 'brown', 'sugar'], [], ['5', 'pieces', 'dried', 'bay', 'leaves'], [], ['1', '½', 'cups', 'water'], [], ['1', 'teaspoon', 'whole', 'peppercorn'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'to', 'taste']]","['pork', 'hock', 'pata', 'or', 'knorr', 'pork', 'cube', 'pineapple', 'chunks', 'in', 'onion', 'garlic', 'soy', 'sauce', 'brown', 'sugar', 'dried', 'bay', 'leaves', 'water', 'peppercorn', 'cooking', 'oil', 'salt', 'to', 'taste']"
+Chicken Pastel Recipe,"15
+minutes","50
+minutes",Lunch, 781kcal (39%, 32g (11%, 55g (110%, 47g (72%, 23g (115%,, 1308mg (55%, 1286mg (37%, 3g (12%, 1g (1%, 3710IU (74%, 17.6mg (21%, 83mg (8%, 4.1mg (23%,, 246mg (82%,,https://panlasangpinoy.com/how-to-cook-chicken-pastel/,"▢
+2 lbs boneless chicken breast cubed
+▢
+1 piece Knorr Chicken Cube
+▢
+2 pieces chorizo de bilbao sliced
+▢
+3 pieces beef frank sliced
+▢
+¾ cup sliced button mushroom
+▢
+8 ounces table cream
+▢
+1 piece potato cubed
+▢
+1 piece carrot cubed
+▢
+½ piece lemon
+▢
+2 tablespoons soy sauce
+▢
+3 tablespoons butter
+▢
+1 cup water
+▢
+1 piece pie crust
+▢
+Salt and ground black pepper to taste","[[], ['2', 'lbs', 'boneless', 'chicken', 'breast', 'cubed'], [], ['1', 'piece', 'Knorr', 'Chicken', 'Cube'], [], ['2', 'pieces', 'chorizo', 'de', 'bilbao', 'sliced'], [], ['3', 'pieces', 'beef', 'frank', 'sliced'], [], ['¾', 'cup', 'sliced', 'button', 'mushroom'], [], ['8', 'ounces', 'table', 'cream'], [], ['1', 'piece', 'potato', 'cubed'], [], ['1', 'piece', 'carrot', 'cubed'], [], ['½', 'piece', 'lemon'], [], ['2', 'tablespoons', 'soy', 'sauce'], [], ['3', 'tablespoons', 'butter'], [], ['1', 'cup', 'water'], [], ['1', 'piece', 'pie', 'crust'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['boneless', 'chicken', 'breast', 'cubed', 'knorr', 'chicken', 'cube', 'chorizo', 'de', 'bilbao', 'beef', 'frank', 'button', 'mushroom', 'table', 'cream', 'potato', 'cubed', 'carrot', 'cubed', 'lemon', 'soy', 'sauce', 'butter', 'water', 'pie', 'crust', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Christmas Lasagna,"15
+minutes","15
+minutes",Lunch, 769kcal (38%, 16g (5%, 43g (86%, 59g (91%, 24g (120%,, 1166mg (49%, 969mg (28%, 2g (8%, 6g (7%, 1300IU (26%, 23.9mg (29%, 517mg (52%, 5.3mg (29%,, 164mg (55%,,https://panlasangpinoy.com/christmas-lasagna-recipe-easy-knr-bc/,"▢
+1 lb. ground beef
+▢
+½ lb. ground Italian sausage
+▢
+1 piece Knorr Beef Cube
+▢
+12 pieces lasagna
+▢
+1 cup shredded Mozzarella cheese
+▢
+12 ounces Ricotta cheese
+▢
+¾ cup grated Parmesan cheese
+▢
+29 ounces diced tomato canned
+▢
+3 ounces tomato paste
+▢
+¾ cups water
+▢
+2 pieces yellow onion chopped
+▢
+3 tablespoons chopped parsley
+▢
+¼ cup chopped fresh basil
+▢
+1 teaspoon Italian seasoning
+▢
+3 cloves garlic minced
+▢
+3 tablespoons olive oil
+▢
+Salt ground black pepper, and sugar to taste","[[], ['1', 'lb', 'ground', 'beef'], [], ['½', 'lb', 'ground', 'Italian', 'sausage'], [], ['1', 'piece', 'Knorr', 'Beef', 'Cube'], [], ['12', 'pieces', 'lasagna'], [], ['1', 'cup', 'shredded', 'Mozzarella', 'cheese'], [], ['12', 'ounces', 'Ricotta', 'cheese'], [], ['¾', 'cup', 'grated', 'Parmesan', 'cheese'], [], ['29', 'ounces', 'diced', 'tomato', 'canned'], [], ['3', 'ounces', 'tomato', 'paste'], [], ['¾', 'cups', 'water'], [], ['2', 'pieces', 'yellow', 'onion', 'chopped'], [], ['3', 'tablespoons', 'chopped', 'parsley'], [], ['¼', 'cup', 'chopped', 'fresh', 'basil'], [], ['1', 'teaspoon', 'Italian', 'seasoning'], [], ['3', 'cloves', 'garlic', 'minced'], [], ['3', 'tablespoons', 'olive', 'oil'], [], ['Salt', 'ground', 'black', 'pepper', 'and', 'sugar', 'to', 'taste']]","['ground', 'beef', 'ground', 'italian', 'sausage', 'knorr', 'beef', 'cube', 'lasagna', 'mozzarella', 'cheese', 'ricotta', 'cheese', 'parmesan', 'cheese', 'tomato', 'canned', 'tomato', 'paste', 'water', 'yellow', 'onion', 'parsley', 'fresh', 'basil', 'italian', 'seasoning', 'garlic', 'olive', 'oil', 'salt', 'ground', 'black', 'pepper', 'and', 'sugar', 'to', 'taste']"
+Bistek Tagalog (beefsteak) Recipe,,"40
+minutes",Lunch,, 1g Protein,, 15g (23%, 2g (10%,, 1095mg (46%, 503mg (14%,,,, 0.8mg (1%, 34mg (3%, 2.8mg (16%, 4g Calories, 74mg (25%,,https://panlasangpinoy.com/bistek-tagalog-beefsteak-recipe/,"▢
+1 1/2 lbs beef sirloin thinly sliced
+▢
+5 tablespoons soy sauce
+▢
+4 pieces calamansi or 1-piece lemon
+▢
+1/2 tsp ground black pepper
+▢
+3 cloves garlic minced
+▢
+3 pieces yellow onion sliced into rings
+▢
+4 tablespoons cooking oil
+▢
+1 cup water
+▢
+1 pinch salt","[[], ['1', '12', 'lbs', 'beef', 'sirloin', 'thinly', 'sliced'], [], ['5', 'tablespoons', 'soy', 'sauce'], [], ['4', 'pieces', 'calamansi', 'or', '1piece', 'lemon'], [], ['12', 'tsp', 'ground', 'black', 'pepper'], [], ['3', 'cloves', 'garlic', 'minced'], [], ['3', 'pieces', 'yellow', 'onion', 'sliced', 'into', 'rings'], [], ['4', 'tablespoons', 'cooking', 'oil'], [], ['1', 'cup', 'water'], [], ['1', 'pinch', 'salt']]","['beef', 'sirloin', 'thinly', 'soy', 'sauce', 'calamansi', 'or', 'lemon', 'ground', 'black', 'pepper', 'garlic', 'yellow', 'onion', 'into', 'rings', 'cooking', 'oil', 'water', 'salt']"
+Kare Kare,"10
+minutes","30
+minutes",Lunch,, 24g (8%, 91g (182%, 53g (82%, 16g (80%,, 940mg (39%, 444mg (13%, 5g (20%, 3g (3%,, 4.3mg (5%, 147mg (15%, 11.5mg (64%, 6g Calories, 368mg (123%,,https://panlasangpinoy.com/kare-kare-recipe/,"▢
+3 lbs oxtail cut in 2 inch slices you an also use tripe or beef slices
+▢
+1 piece small banana flower bud sliced
+▢
+1 bundle pechay or bok choy
+▢
+1 bundle string beans cut into 2 inch slices
+▢
+4 pieces eggplants sliced
+▢
+1 cup ground peanuts
+▢
+1/2 cup peanut butter
+▢
+1/2 cup shrimp paste
+▢
+34 Ounces water about 1 Liter
+▢
+1/2 cup annatto seeds soaked in a cup of water
+▢
+1/2 cup toasted ground rice
+▢
+1 tbsp garlic minced
+▢
+1 piece onion chopped
+▢
+salt and pepper","[[], ['3', 'lbs', 'oxtail', 'cut', 'in', '2', 'inch', 'slices', 'you', 'an', 'also', 'use', 'tripe', 'or', 'beef', 'slices'], [], ['1', 'piece', 'small', 'banana', 'flower', 'bud', 'sliced'], [], ['1', 'bundle', 'pechay', 'or', 'bok', 'choy'], [], ['1', 'bundle', 'string', 'beans', 'cut', 'into', '2', 'inch', 'slices'], [], ['4', 'pieces', 'eggplants', 'sliced'], [], ['1', 'cup', 'ground', 'peanuts'], [], ['12', 'cup', 'peanut', 'butter'], [], ['12', 'cup', 'shrimp', 'paste'], [], ['34', 'Ounces', 'water', 'about', '1', 'Liter'], [], ['12', 'cup', 'annatto', 'seeds', 'soaked', 'in', 'a', 'cup', 'of', 'water'], [], ['12', 'cup', 'toasted', 'ground', 'rice'], [], ['1', 'tbsp', 'garlic', 'minced'], [], ['1', 'piece', 'onion', 'chopped'], [], ['salt', 'and', 'pepper']]","['oxtail', 'cut', 'in', 'inch', 'you', 'an', 'also', 'use', 'tripe', 'or', 'beef', 'banana', 'flower', 'bud', 'bundle', 'pechay', 'or', 'bok', 'choy', 'bundle', 'string', 'beans', 'cut', 'into', 'inch', 'eggplants', 'ground', 'peanuts', 'peanut', 'butter', 'shrimp', 'paste', 'water', 'about', 'annatto', 'seeds', 'soaked', 'in', 'a', 'of', 'water', 'toasted', 'ground', 'rice', 'garlic', 'onion', 'salt', 'and', 'pepper']"
+Lumpiang Sariwa with Fresh Lumpia Wrapper,"30
+minutes","40
+minutes",Lunch,, 34g (11%, 11g (22%, 14g (22%, 2g (10%,, 784mg (33%, 415mg (12%, 4g (16%, 13g (14%, 4109IU (82%, 29mg (35%, 92mg (9%, 3mg (17%, 8g Calories, 21mg (7%,,https://panlasangpinoy.com/lumpiang-sariwa-with-fresh-lumpia-wrapper/,"▢
+6 to 8 pieces Romaine lettuce
+▢
+1/2 cup crushed peanuts
+▢
+1/4 cup chopped parsley","[[], ['6', 'to', '8', 'pieces', 'Romaine', 'lettuce'], [], ['12', 'cup', 'crushed', 'peanuts'], [], ['14', 'cup', 'chopped', 'parsley']]","['to', 'romaine', 'lettuce', 'peanuts', 'parsley']"
+Pork Bicol Express Recipe,"10
+minutes","50
+minutes",Lunch,, 3g (1%, 25g (50%, 18g (28%, 3g (15%,, 227mg (9%, 438mg (13%,, 1g (1%, 20IU Vitamin C,, 47mg (5%, 1.8mg (10%, 4g Calories, 118mg (39%,,https://panlasangpinoy.com/pork-bicol-express-recipe/,"▢
+1 lb. pork shoulder sliced into cubes
+▢
+3 pieces long green pepper siling pansigang, sliced into thin pieces
+▢
+8 pieces bird’s eye chili siling labuyo or Thai chili, sliced into small pieces
+▢
+1 piece onion sliced
+▢
+4 cloves garlic crushed
+▢
+1 pack Knorr Ginataang Gulay mix 45g
+▢
+1 tablespoon shrimp paste bagoong alamang
+▢
+3 tablespoons cooking oil
+▢
+¼ teaspoon ground black pepper
+▢
+2 ¼ cups water
+▢
+Salt to taste optional","[[], ['1', 'lb', 'pork', 'shoulder', 'sliced', 'into', 'cubes'], [], ['3', 'pieces', 'long', 'green', 'pepper', 'siling', 'pansigang', 'sliced', 'into', 'thin', 'pieces'], [], ['8', 'pieces', 'birds', 'eye', 'chili', 'siling', 'labuyo', 'or', 'Thai', 'chili', 'sliced', 'into', 'small', 'pieces'], [], ['1', 'piece', 'onion', 'sliced'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['1', 'pack', 'Knorr', 'Ginataang', 'Gulay', 'mix', '45g'], [], ['1', 'tablespoon', 'shrimp', 'paste', 'bagoong', 'alamang'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['¼', 'teaspoon', 'ground', 'black', 'pepper'], [], ['2', '¼', 'cups', 'water'], [], ['Salt', 'to', 'taste', 'optional']]","['pork', 'shoulder', 'into', 'cubes', 'long', 'green', 'pepper', 'siling', 'pansigang', 'into', 'thin', 'bird', 's', 'eye', 'chili', 'siling', 'labuyo', 'or', 'thai', 'chili', 'into', 'onion', 'garlic', 'knorr', 'ginataang', 'gulay', 'mix', '45g', 'shrimp', 'paste', 'bagoong', 'alamang', 'cooking', 'oil', 'ground', 'black', 'pepper', 'water', 'salt', 'to', 'taste', 'optional']"
+Pork Baby Back Ribs Nilaga Recipe,"10
+minutes",,Lunch,, 7g (2%, 38g (76%, 31g (48%, 11g (55%,, 914mg (38%, 691mg (20%, 2g (8%, 4g (4%, 200IU (4%, 30mg (36%, 113mg (11%, 2mg (11%, 6g Calories,, 1g Cholesterol,https://panlasangpinoy.com/pork-baby-back-ribs-nilaga-recipe/,"▢
+4 lbs baby back rib sliced
+▢
+3 piece potato peeled and sliced
+▢
+1/2 piece cabbage sliced
+▢
+3 bunches baby bok choy
+▢
+8 to 10 cups water
+▢
+1 piece yellow onion chopped
+▢
+1/2 teaspoon garlic powder
+▢
+1/4 teaspoon ground black pepper
+▢
+3 tablespoons fish sauce patis
+▢
+2 stalks celery chopped","[[], ['4', 'lbs', 'baby', 'back', 'rib', 'sliced'], [], ['3', 'piece', 'potato', 'peeled', 'and', 'sliced'], [], ['12', 'piece', 'cabbage', 'sliced'], [], ['3', 'bunches', 'baby', 'bok', 'choy'], [], ['8', 'to', '10', 'cups', 'water'], [], ['1', 'piece', 'yellow', 'onion', 'chopped'], [], ['12', 'teaspoon', 'garlic', 'powder'], [], ['14', 'teaspoon', 'ground', 'black', 'pepper'], [], ['3', 'tablespoons', 'fish', 'sauce', 'patis'], [], ['2', 'stalks', 'celery', 'chopped']]","['baby', 'back', 'rib', 'potato', 'peeled', 'and', 'cabbage', 'baby', 'bok', 'choy', 'to', 'water', 'yellow', 'onion', 'garlic', 'powder', 'ground', 'black', 'pepper', 'fish', 'sauce', 'patis', 'celery']"
+Filipino Style Escabeche,"10
+minutes","30
+minutes",Dinner, 598kcal (30%, 19g (6%, 38g (76%, 43g (66%, 4g (20%, 12g Monounsaturated Fat, 3008mg (125%, 764mg (22%, 2g (8%, 13g (14%, 2934IU (59%, 53mg (64%, 41mg (4%, 1mg (6%,,,,https://panlasangpinoy.com/filipino-style-escabeche/,"▢
+2 lbs fish (large) sliced into serving pieces
+▢
+¾ cup cooking oil
+▢
+2 tablespoons salt","[[], ['2', 'lbs', 'fish', 'large', 'sliced', 'into', 'serving', 'pieces'], [], ['¾', 'cup', 'cooking', 'oil'], [], ['2', 'tablespoons', 'salt']]","['fish', 'into', 'serving', 'cooking', 'oil', 'salt']"
+Baked Garlic Salmon and Easy Tofu Sisig,"10
+minutes",,Dinner, 939kcal (47%, 15g (5%, 59g (118%, 69g (106%, 15g (75%, 9g Monounsaturated Fat, 1368mg (57%, 1312mg (37%, 3g (12%, 4g (4%, 1532IU (31%, 67mg (81%, 271mg (27%, 4mg (22%,,,,https://panlasangpinoy.com/baked-garlic-salmon-and-easy-tofu-sisig/,"▢
+2 lbs. salmon fillet
+▢
+½ cup Lady’s Choice Mayonnaise
+▢
+1 tablespoon lemon juice
+▢
+¼ cup Parmesan cheese
+▢
+3 tablespoons toasted garlic
+▢
+1 teaspoon salt","[[], ['2', 'lbs', 'salmon', 'fillet'], [], ['½', 'cup', 'Ladys', 'Choice', 'Mayonnaise'], [], ['1', 'tablespoon', 'lemon', 'juice'], [], ['¼', 'cup', 'Parmesan', 'cheese'], [], ['3', 'tablespoons', 'toasted', 'garlic'], [], ['1', 'teaspoon', 'salt']]","['salmon', 'fillet', 'lady', 's', 'choice', 'mayonnaise', 'lemon', 'juice', 'parmesan', 'cheese', 'toasted', 'garlic', 'salt']"
+Malapot na Pininyahang Manok,"10
+minutes","45
+minutes",Dinner, 722kcal (36%, 23g (8%, 47g (94%, 49g (75%, 11g (55%, 11g Monounsaturated Fat, 1178mg (49%, 773mg (22%, 3g (12%, 13g (14%, 5185IU (104%, 75mg (91%, 66mg (7%, 3mg (17%,,,,https://panlasangpinoy.com/malapot-na-pininyahang-manok/,"▢
+2 lbs. chicken cut into serving pieces
+▢
+1 Knorr Chicken Cube
+▢
+8 ounces pineapple chunks
+▢
+1 carrot thinly sliced crosswise
+▢
+1 red bell pepper sliced into squares
+▢
+1 green bell pepper sliced into squares
+▢
+3 tablespoons soy sauce
+▢
+2 tablespoons liver spread
+▢
+1 onion diced
+▢
+5 cloves garlic chopped
+▢
+4 tablespoons cooking oil
+▢
+2 cups water
+▢
+2 tablespoons cornstarch
+▢
+1 teaspoon sugar
+▢
+Salt and ground black pepper to taste","[[], ['2', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['1', 'Knorr', 'Chicken', 'Cube'], [], ['8', 'ounces', 'pineapple', 'chunks'], [], ['1', 'carrot', 'thinly', 'sliced', 'crosswise'], [], ['1', 'red', 'bell', 'pepper', 'sliced', 'into', 'squares'], [], ['1', 'green', 'bell', 'pepper', 'sliced', 'into', 'squares'], [], ['3', 'tablespoons', 'soy', 'sauce'], [], ['2', 'tablespoons', 'liver', 'spread'], [], ['1', 'onion', 'diced'], [], ['5', 'cloves', 'garlic', 'chopped'], [], ['4', 'tablespoons', 'cooking', 'oil'], [], ['2', 'cups', 'water'], [], ['2', 'tablespoons', 'cornstarch'], [], ['1', 'teaspoon', 'sugar'], [], ['Salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['chicken', 'cut', 'into', 'serving', 'knorr', 'chicken', 'cube', 'pineapple', 'chunks', 'carrot', 'thinly', 'crosswise', 'red', 'bell', 'pepper', 'into', 'squares', 'green', 'bell', 'pepper', 'into', 'squares', 'soy', 'sauce', 'liver', 'spread', 'onion', 'garlic', 'cooking', 'oil', 'water', 'cornstarch', 'sugar', 'salt', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Chicken Gising-gising,"10
+minutes","35
+minutes",Dinner, 739kcal (37%, 21g (7%, 53g (106%, 50g (77%, 15g (75%, 10g Monounsaturated Fat, 325mg (14%, 880mg (25%, 1g (4%, 1g (1%, 363IU (7%, 16mg (19%, 80mg (8%, 4mg (22%,,,,https://panlasangpinoy.com/chicken-gising-gising/,"▢
+2 lbs. chicken cut into serving pieces
+▢
+90 grams Knorr Ginataang Gulay Mix
+▢
+½ lb. winged bean sigarilyas, sliced
+▢
+2 long green chili pepper sliced
+▢
+5 Thai chili pepper optional
+▢
+1 tablespoon shrimp paste
+▢
+3 cups water
+▢
+1 onion chopped
+▢
+5 cloves garlic chopped
+▢
+2 thumbs ginger chopped
+▢
+3 tablespoons cooking oil","[[], ['2', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['90', 'grams', 'Knorr', 'Ginataang', 'Gulay', 'Mix'], [], ['½', 'lb', 'winged', 'bean', 'sigarilyas', 'sliced'], [], ['2', 'long', 'green', 'chili', 'pepper', 'sliced'], [], ['5', 'Thai', 'chili', 'pepper', 'optional'], [], ['1', 'tablespoon', 'shrimp', 'paste'], [], ['3', 'cups', 'water'], [], ['1', 'onion', 'chopped'], [], ['5', 'cloves', 'garlic', 'chopped'], [], ['2', 'thumbs', 'ginger', 'chopped'], [], ['3', 'tablespoons', 'cooking', 'oil']]","['chicken', 'cut', 'into', 'serving', 'knorr', 'ginataang', 'gulay', 'mix', 'winged', 'bean', 'sigarilyas', 'long', 'green', 'chili', 'pepper', 'thai', 'chili', 'pepper', 'optional', 'shrimp', 'paste', 'water', 'onion', 'garlic', 'thumbs', 'ginger', 'cooking', 'oil']"
+Chicken Binagoongan,"5
+minutes","45
+minutes",Dinner, 158kcal (8%, 5g (2%, 11g (22%, 11g (17%, 1g (5%,, 469mg (20%, 68mg (2%, 1g (4%, 2g (2%, 28IU (1%, 6mg (7%, 68mg (7%, 1mg (6%,,, 1g Cholesterol,https://panlasangpinoy.com/chicken-binagoongan-recipe/,"▢
+2 lbs. chicken cut into serving pieces
+▢
+3 ½ tablespoons bagoong alamang
+▢
+5 pieces winged bean sigarilyas, sliced
+▢
+1 piece onion chopped
+▢
+4 cloves garlic crushed and chopped
+▢
+2 pieces tomato cubed
+▢
+2 tablespoons white vinegar
+▢
+1 teaspoon granulated white sugar
+▢
+1 ½ cups water
+▢
+3 tablespoons cooking oil
+▢
+3 pieces Thai chili chopped
+▢
+1 piece Serrano pepper sliced
+▢
+Ground black pepper to taste","[[], ['2', 'lbs', 'chicken', 'cut', 'into', 'serving', 'pieces'], [], ['3', '½', 'tablespoons', 'bagoong', 'alamang'], [], ['5', 'pieces', 'winged', 'bean', 'sigarilyas', 'sliced'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'crushed', 'and', 'chopped'], [], ['2', 'pieces', 'tomato', 'cubed'], [], ['2', 'tablespoons', 'white', 'vinegar'], [], ['1', 'teaspoon', 'granulated', 'white', 'sugar'], [], ['1', '½', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['3', 'pieces', 'Thai', 'chili', 'chopped'], [], ['1', 'piece', 'Serrano', 'pepper', 'sliced'], [], ['Ground', 'black', 'pepper', 'to', 'taste']]","['chicken', 'cut', 'into', 'serving', 'bagoong', 'alamang', 'winged', 'bean', 'sigarilyas', 'onion', 'garlic', 'and', 'tomato', 'cubed', 'white', 'vinegar', 'granulated', 'white', 'sugar', 'water', 'cooking', 'oil', 'thai', 'chili', 'serrano', 'pepper', 'ground', 'black', 'pepper', 'to', 'taste']"
+Bok Choy in Garlic Sauce,"5
+minutes","12
+minutes",Dinner,, 13g (4%, 5g (10%, 8g (12%, 1g (5%, 3g Monounsaturated Fat,, 620mg (18%, 2g (8%, 9g (10%, 10134IU (203%, 103mg (125%, 254mg (25%, 2mg (11%, 2g Calories,,,https://panlasangpinoy.com/bok-choy-in-garlic-sauce-recipe/,"▢
+1 lb bok choy
+▢
+1 teaspoon ginger grated
+▢
+2 cloves garlic minced
+▢
+1 tablespoon oyster sauce
+▢
+1 tablespoon soy sauce
+▢
+1 tablespoon brown sugar
+▢
+1/4 cup water
+▢
+1 tablespoon sesame oil
+▢
+1 tablespoon vegetable oil","[[], ['1', 'lb', 'bok', 'choy'], [], ['1', 'teaspoon', 'ginger', 'grated'], [], ['2', 'cloves', 'garlic', 'minced'], [], ['1', 'tablespoon', 'oyster', 'sauce'], [], ['1', 'tablespoon', 'soy', 'sauce'], [], ['1', 'tablespoon', 'brown', 'sugar'], [], ['14', 'cup', 'water'], [], ['1', 'tablespoon', 'sesame', 'oil'], [], ['1', 'tablespoon', 'vegetable', 'oil']]","['bok', 'choy', 'ginger', 'garlic', 'oyster', 'sauce', 'soy', 'sauce', 'brown', 'sugar', 'water', 'sesame', 'oil', 'vegetable', 'oil']"
+Laing Recipe,"10
+minutes","45
+minutes",Dinner,, 9g (3%, 19g (38%, 41g (63%, 32g (160%, 1g Monounsaturated Fat, 410mg (17%, 621mg (18%, 1g (4%, 2g (2%, 950IU (19%, 21mg (25%, 102mg (10%, 7mg (39%, 6g Calories,,,https://panlasangpinoy.com/laing/,"▢
+4 ounces taro leaves dried
+▢
+1/2 lb. pork cut into thin strips
+▢
+1/2 lb. shrimp with head (optional)
+▢
+1/2 cup shrimp paste
+▢
+1 onion chopped
+▢
+6 Thai chili pepper
+▢
+1/4 cup ginger cut into strips
+▢
+1 tbsp garlic minced
+▢
+4 cups coconut milk
+▢
+fish sauce and ground black pepper to taste","[[], ['4', 'ounces', 'taro', 'leaves', 'dried'], [], ['12', 'lb', 'pork', 'cut', 'into', 'thin', 'strips'], [], ['12', 'lb', 'shrimp', 'with', 'head', 'optional'], [], ['12', 'cup', 'shrimp', 'paste'], [], ['1', 'onion', 'chopped'], [], ['6', 'Thai', 'chili', 'pepper'], [], ['14', 'cup', 'ginger', 'cut', 'into', 'strips'], [], ['1', 'tbsp', 'garlic', 'minced'], [], ['4', 'cups', 'coconut', 'milk'], [], ['fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']]","['taro', 'leaves', 'dried', 'pork', 'cut', 'into', 'thin', 'strips', 'shrimp', 'with', 'head', 'optional', 'shrimp', 'paste', 'onion', 'thai', 'chili', 'pepper', 'ginger', 'cut', 'into', 'strips', 'garlic', 'coconut', 'milk', 'fish', 'sauce', 'and', 'ground', 'black', 'pepper', 'to', 'taste']"
+Pinakbet Tagalog Recipe,"5
+minutes","35
+minutes",Dinner, 1243kcal (62%, 28g (9%, 5g (10%, 124g (191%, 45g (225%,, 362mg (15%, 895mg (26%, 7g (28%, 9g (10%, 6330IU (127%, 40.9mg (50%, 82mg (8%, 1.5mg (8%,, 136mg (45%,,https://panlasangpinoy.com/pinakbet-tagalog-recipe-knr-sc/,"▢
+1 lb lechon kawali sliced
+▢
+1 piece Knorr Shrimp Cube
+▢
+12 pieces sitaw cut into 2 inch length
+▢
+1/2 piece kalabasa cubed
+▢
+12 pieces okra
+▢
+1 piece Chinese eggplant sliced
+▢
+1 piece ampalaya sliced
+▢
+1 piece kamote cubed (optional)
+▢
+2 pieces tomato cubed
+▢
+2 thumbs ginger crushed (optional)
+▢
+1 piece onion chopped
+▢
+4 cloves garlic crushed
+▢
+2 teaspoons bagoong alamang
+▢
+2 ½ cups water
+▢
+3 tablespoons cooking oil
+▢
+¼ teaspoon ground black pepper","[[], ['1', 'lb', 'lechon', 'kawali', 'sliced'], [], ['1', 'piece', 'Knorr', 'Shrimp', 'Cube'], [], ['12', 'pieces', 'sitaw', 'cut', 'into', '2', 'inch', 'length'], [], ['12', 'piece', 'kalabasa', 'cubed'], [], ['12', 'pieces', 'okra'], [], ['1', 'piece', 'Chinese', 'eggplant', 'sliced'], [], ['1', 'piece', 'ampalaya', 'sliced'], [], ['1', 'piece', 'kamote', 'cubed', 'optional'], [], ['2', 'pieces', 'tomato', 'cubed'], [], ['2', 'thumbs', 'ginger', 'crushed', 'optional'], [], ['1', 'piece', 'onion', 'chopped'], [], ['4', 'cloves', 'garlic', 'crushed'], [], ['2', 'teaspoons', 'bagoong', 'alamang'], [], ['2', '½', 'cups', 'water'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['¼', 'teaspoon', 'ground', 'black', 'pepper']]","['lechon', 'kawali', 'knorr', 'shrimp', 'cube', 'sitaw', 'cut', 'into', 'inch', 'length', 'kalabasa', 'cubed', 'okra', 'chinese', 'eggplant', 'ampalaya', 'kamote', 'cubed', 'optional', 'tomato', 'cubed', 'thumbs', 'ginger', 'optional', 'onion', 'garlic', 'bagoong', 'alamang', 'water', 'cooking', 'oil', 'ground', 'black', 'pepper']"
+"Ginataang Hipon, Sitaw, at Kalabasa","10
+minutes","40
+minutes",Dinner,, 19g (6%, 13g (26%, 36g (55%, 22g (110%, 3g Monounsaturated Fat, 283mg (12%, 660mg (19%, 1g (4%, 2g (2%, 815IU (16%, 142mg (172%, 338mg (34%, 5mg (28%, 4g Calories,,,https://panlasangpinoy.com/ginataang-hipon-sitaw-at-kalabasa/,"▢
+1 lb shrimp cleaned
+▢
+10 strings beans sitaw, cut into 2 1/2 inch length
+▢
+2 cups kalabasa squash, cubed
+▢
+2 cups coconut milk
+▢
+1 medium yellow onion sliced
+▢
+2 tablespoons bagoong alamang shrimp paste
+▢
+1 cup malunggay leaves
+▢
+3 cloves garlic crushed
+▢
+Salt and pepper to taste
+▢
+3 tablespoons cooking oil
+▢
+Salt and pepper to taste","[[], ['1', 'lb', 'shrimp', 'cleaned'], [], ['10', 'strings', 'beans', 'sitaw', 'cut', 'into', '2', '12', 'inch', 'length'], [], ['2', 'cups', 'kalabasa', 'squash', 'cubed'], [], ['2', 'cups', 'coconut', 'milk'], [], ['1', 'medium', 'yellow', 'onion', 'sliced'], [], ['2', 'tablespoons', 'bagoong', 'alamang', 'shrimp', 'paste'], [], ['1', 'cup', 'malunggay', 'leaves'], [], ['3', 'cloves', 'garlic', 'crushed'], [], ['Salt', 'and', 'pepper', 'to', 'taste'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Salt', 'and', 'pepper', 'to', 'taste']]","['shrimp', 'cleaned', 'strings', 'beans', 'sitaw', 'cut', 'into', 'inch', 'length', 'kalabasa', 'squash', 'cubed', 'coconut', 'milk', 'yellow', 'onion', 'bagoong', 'alamang', 'shrimp', 'paste', 'malunggay', 'leaves', 'garlic', 'salt', 'and', 'pepper', 'to', 'taste', 'cooking', 'oil', 'salt', 'and', 'pepper', 'to', 'taste']"
+Adobong Kangkong Recipe,"5
+minutes","15
+minutes",Dinner,, 8g (3%, 4g (8%, 14g (22%, 1g (5%,,, 190mg (5%, 1g (4%, 2g (2%, 1178IU (24%, 16mg (19%, 45mg (5%, 1mg (6%, 4g Calories,, 1g Sodium,https://panlasangpinoy.com/adobong-kangkong/,"▢
+1 bunch kangkong leaves and stalks separated. Stalks cut in 1-inch pieces
+▢
+1 piece onion chopped
+▢
+1 head garlic crushed and chopped
+▢
+1/4 cup soy sauce
+▢
+1/8 cup vinegar
+▢
+1/2 cup water optional
+▢
+3 tablespoons cooking oil
+▢
+Ground black pepper","[[], ['1', 'bunch', 'kangkong', 'leaves', 'and', 'stalks', 'separated', 'Stalks', 'cut', 'in', '1inch', 'pieces'], [], ['1', 'piece', 'onion', 'chopped'], [], ['1', 'head', 'garlic', 'crushed', 'and', 'chopped'], [], ['14', 'cup', 'soy', 'sauce'], [], ['18', 'cup', 'vinegar'], [], ['12', 'cup', 'water', 'optional'], [], ['3', 'tablespoons', 'cooking', 'oil'], [], ['Ground', 'black', 'pepper']]","['kangkong', 'leaves', 'and', 'separated', 'cut', 'in', 'inch', 'onion', 'head', 'garlic', 'and', 'soy', 'sauce', 'vinegar', 'water', 'optional', 'cooking', 'oil', 'ground', 'black', 'pepper']"
+Air Fried Peach Mango Pie,"10
+minutes","25
+minutes",Dessert, 568kcal (28%, 112g (37%, 16g (32%, 8g (12%, 2g (10%, 2g Monounsaturated Fat, 554mg (23%, 493mg (14%, 7g (28%, 59g (66%, 1617IU (32%, 44mg (53%, 162mg (16%, 5mg (28%,,,,https://panlasangpinoy.com/peach-mango-pie-air-fryer/,"▢
+12 slices loaf bread
+▢
+1 cup Good Life breadcrumbs
+▢
+2 tablespoons all-purpose flour
+▢
+2 eggs beaten","[[], ['12', 'slices', 'loaf', 'bread'], [], ['1', 'cup', 'Good', 'Life', 'breadcrumbs'], [], ['2', 'tablespoons', 'allpurpose', 'flour'], [], ['2', 'eggs', 'beaten']]","['loaf', 'bread', 'good', 'life', 'breadcrumbs', 'all', 'purpose', 'flour', 'eggs']"
+Special Lunch Menu,"20
+minutes","45
+minutes",Dessert, 1636kcal (82%, 74g (25%, 61g (122%, 123g (189%, 48g (240%, 13g Monounsaturated Fat, 274mg (11%, 2487mg (71%, 16g (64%, 45g (50%, 1958IU (39%, 63mg (76%, 358mg (36%, 4mg (22%,,,,https://panlasangpinoy.com/special-lunch-menu/,"▢
+1 kg. pork belly
+▢
+Knorr Liquid Seasoning
+▢
+5 Calamansi
+▢
+8 cloves garlic","[[], ['1', 'kg', 'pork', 'belly'], [], ['Knorr', 'Liquid', 'Seasoning'], [], ['5', 'Calamansi'], [], ['8', 'cloves', 'garlic']]","['pork', 'belly', 'knorr', 'liquid', 'seasoning', 'calamansi', 'garlic']"
+Ginataang Mais at Malagkit (Sweet Corn and Glutinous Rice in Coconut Milk),"10
+minutes","20
+minutes",Dessert,, 63g (21%, 10g (20%, 67g (103%, 58g (290%, 1g Monounsaturated Fat,, 742mg (21%, 4g (16%, 27g (30%, 101IU (2%, 7mg (8%, 38mg (4%, 7mg (39%, 4g Calories,,,https://panlasangpinoy.com/ginataang-mais-at-malagkit-sweet-corn/,"▢
+2 cups coconut cream
+▢
+2 cups coconut milk
+▢
+1/2 cup glutinous rice malagkit
+▢
+1 cup sweet corn chopped
+▢
+1/2 to 3/4 cup granulated white sugar
+▢
+1 teaspoon vanilla extract
+▢
+a pinch of salt","[[], ['2', 'cups', 'coconut', 'cream'], [], ['2', 'cups', 'coconut', 'milk'], [], ['12', 'cup', 'glutinous', 'rice', 'malagkit'], [], ['1', 'cup', 'sweet', 'corn', 'chopped'], [], ['12', 'to', '34', 'cup', 'granulated', 'white', 'sugar'], [], ['1', 'teaspoon', 'vanilla', 'extract'], [], ['a', 'pinch', 'of', 'salt']]","['coconut', 'cream', 'coconut', 'milk', 'glutinous', 'rice', 'malagkit', 'sweet', 'corn', 'to', 'granulated', 'white', 'sugar', 'vanilla', 'extract', 'a', 'of', 'salt']"
+Cassava Cake Recipe Creamy and Cheesy Version,"10
+minutes",,Dessert, 973kcal (49%, 95g (32%, 21g (42%, 60g (92%, 45g (225%, 2g Monounsaturated Fat, 400mg (17%, 1047mg (30%, 4g (16%, 47g (52%, 923IU (18%, 29mg (35%, 512mg (51%, 3mg (17%,,,,https://panlasangpinoy.com/cassava-cake-recipe-creamy-and-cheesy-version/,"▢
+2 lbs. cassava grated
+▢
+2 cups coconut cream
+▢
+12 ounces evaporated milk
+▢
+3 eggs
+▢
+3 tablespoons butter melted
+▢
+1/2 cup quick-melt cheese shredded
+▢
+14 ounces condensed milk","[[], ['2', 'lbs', 'cassava', 'grated'], [], ['2', 'cups', 'coconut', 'cream'], [], ['12', 'ounces', 'evaporated', 'milk'], [], ['3', 'eggs'], [], ['3', 'tablespoons', 'butter', 'melted'], [], ['12', 'cup', 'quickmelt', 'cheese', 'shredded'], [], ['14', 'ounces', 'condensed', 'milk']]","['cassava', 'coconut', 'cream', 'evaporated', 'milk', 'eggs', 'butter', 'melted', 'quick', 'melt', 'cheese', 'condensed', 'milk']"
+How to Make Macaroni Salad for the Holidays,,,Dessert, 2041kcal (102%, 186g (62%, 32g (64%, 133g (205%, 68g (340%, 37g Monounsaturated Fat, 1253mg (52%, 1097mg (31%, 18g (72%, 103g (114%, 1509IU (30%, 4mg (5%, 517mg (52%, 4mg (22%,,,,https://panlasangpinoy.com/how-to-make-macaroni-salad-for-the-holidays/,"▢
+500 grams elbow macaroni
+▢
+470 ml Lady’s Choice real mayonnaise
+▢
+300 ml condensed milk
+▢
+250 ml all-purpose cream
+▢
+250 grams sharp cheddar cheese diced
+▢
+250 grams nata de coco red, drained
+▢
+250 grams nata de coco green, drained
+▢
+350 grams kaong (sugar palm) drained
+▢
+850 grams fruit cocktail drained","[[], ['500', 'grams', 'elbow', 'macaroni'], [], ['470', 'ml', 'Ladys', 'Choice', 'real', 'mayonnaise'], [], ['300', 'ml', 'condensed', 'milk'], [], ['250', 'ml', 'allpurpose', 'cream'], [], ['250', 'grams', 'sharp', 'cheddar', 'cheese', 'diced'], [], ['250', 'grams', 'nata', 'de', 'coco', 'red', 'drained'], [], ['250', 'grams', 'nata', 'de', 'coco', 'green', 'drained'], [], ['350', 'grams', 'kaong', 'sugar', 'palm', 'drained'], [], ['850', 'grams', 'fruit', 'cocktail', 'drained']]","['elbow', 'macaroni', 'lady', 's', 'choice', 'real', 'mayonnaise', 'condensed', 'milk', 'all', 'purpose', 'cream', 'sharp', 'cheddar', 'cheese', 'nata', 'de', 'coco', 'red', 'drained', 'nata', 'de', 'coco', 'green', 'drained', 'kaong', 'sugar', 'palm', 'drained', 'fruit', 'cocktail', 'drained']"
+Bibingka Recipe,"10
+minutes","35
+minutes",Dessert,, 83g (28%, 13g (26%, 41g (63%, 31g (155%, 1g Monounsaturated Fat, 361mg (15%, 652mg (19%, 3g (12%, 35g (39%, 656IU (13%, 1mg (1%, 336mg (34%, 4mg (22%, 3g Calories,,,https://panlasangpinoy.com/rice-cake-bibingka-recipe/,"▢
+1 cup rice flour
+▢
+1/8 teaspoon salt
+▢
+2 1/2 teaspoon baking powder
+▢
+3 tablespoons butter
+▢
+1/2 cup granulated sugar
+▢
+1 cup coconut milk
+▢
+1/4 cup fresh milk
+▢
+1 piece salted duck egg sliced
+▢
+1/2 cup grated cheese
+▢
+3 pieces raw eggs
+▢
+1/4 cup grated coconut
+▢
+Pre-cut banana leaf","[[], ['1', 'cup', 'rice', 'flour'], [], ['18', 'teaspoon', 'salt'], [], ['2', '12', 'teaspoon', 'baking', 'powder'], [], ['3', 'tablespoons', 'butter'], [], ['12', 'cup', 'granulated', 'sugar'], [], ['1', 'cup', 'coconut', 'milk'], [], ['14', 'cup', 'fresh', 'milk'], [], ['1', 'piece', 'salted', 'duck', 'egg', 'sliced'], [], ['12', 'cup', 'grated', 'cheese'], [], ['3', 'pieces', 'raw', 'eggs'], [], ['14', 'cup', 'grated', 'coconut'], [], ['Precut', 'banana', 'leaf']]","['rice', 'flour', 'salt', 'baking', 'powder', 'butter', 'granulated', 'sugar', 'coconut', 'milk', 'fresh', 'milk', 'salted', 'duck', 'egg', 'cheese', 'raw', 'eggs', 'coconut', 'pre', 'cut', 'banana', 'leaf']"
+Banana Bread Recipe,"5
+minutes",,Dessert,, 44g (15%, 3g (6%, 19g (29%, 1g (5%, 5g Monounsaturated Fat,, 37mg (1%, 1g (4%, 20g (22%, 2IU Vitamin C,, 5mg (1%, 1mg (6%, 4g Calories,,,https://panlasangpinoy.com/moist-banana-bread-recipe/,"▢
+2 pieces banana ,large and ripe
+▢
+10 tablespoons granulated white sugar
+▢
+1 1/2 cups all purpose flour
+▢
+2 pieces eggs
+▢
+1/2 cup cooking oil
+▢
+1 teaspoon salt
+▢
+1 teaspoon vanilla extract
+▢
+1/2 teaspoon baking soda","[[], ['2', 'pieces', 'banana', 'large', 'and', 'ripe'], [], ['10', 'tablespoons', 'granulated', 'white', 'sugar'], [], ['1', '12', 'cups', 'all', 'purpose', 'flour'], [], ['2', 'pieces', 'eggs'], [], ['12', 'cup', 'cooking', 'oil'], [], ['1', 'teaspoon', 'salt'], [], ['1', 'teaspoon', 'vanilla', 'extract'], [], ['12', 'teaspoon', 'baking', 'soda']]","['banana', 'and', 'ripe', 'granulated', 'white', 'sugar', 'all', 'purpose', 'flour', 'eggs', 'cooking', 'oil', 'salt', 'vanilla', 'extract', 'baking', 'soda']"
+Biko Recipe,"10
+minutes","40
+minutes",Dessert,, 95g (32%, 5g (10%, 24g (37%, 21g (105%, 0.4g Monounsaturated Fat,, 357mg (10%, 1g (4%, 53g (59%,, 1mg (1%, 72mg (7%, 5mg (28%, 8g Calories,,,https://panlasangpinoy.com/filipino-asian-food-dessert-rice-cake-biko-recipe/,"▢
+2 cups glutinous rice aka sticky rice or malagkit
+▢
+1 1/2 cups water
+▢
+2 cups brown sugar
+▢
+4 cups coconut milk
+▢
+1/2 tsp salt","[[], ['2', 'cups', 'glutinous', 'rice', 'aka', 'sticky', 'rice', 'or', 'malagkit'], [], ['1', '12', 'cups', 'water'], [], ['2', 'cups', 'brown', 'sugar'], [], ['4', 'cups', 'coconut', 'milk'], [], ['12', 'tsp', 'salt']]","['glutinous', 'rice', 'aka', 'sticky', 'rice', 'or', 'malagkit', 'water', 'brown', 'sugar', 'coconut', 'milk', 'salt']"
+Leche Flan,"10
+minutes","45
+minutes",Dessert,, 71g (24%, 6g (12%, 7g (11%, 4g (20%,, 104mg (4%, 298mg (9%,, 71g (79%, 250IU (5%, 1.7mg (2%, 233mg (23%, 0.1mg (1%, 6g Calories, 32mg (11%,,https://panlasangpinoy.com/leche-flan/,"▢
+10 pieces eggs
+▢
+1 can condensed milk (14 oz)
+▢
+1 cup fresh milk or evaporated milk
+▢
+1 cup granulated sugar
+▢
+1 teaspoon vanilla extract","[[], ['10', 'pieces', 'eggs'], [], ['1', 'can', 'condensed', 'milk', '14', 'oz'], [], ['1', 'cup', 'fresh', 'milk', 'or', 'evaporated', 'milk'], [], ['1', 'cup', 'granulated', 'sugar'], [], ['1', 'teaspoon', 'vanilla', 'extract']]","['eggs', 'condensed', 'milk', 'fresh', 'milk', 'or', 'evaporated', 'milk', 'granulated', 'sugar', 'vanilla', 'extract']"
+Yema Recipe,"10
+minutes","20
+minutes",Dessert, 544kcal (27%, 87g (29%, 14g (28%, 17g (26%, 9g (45%,, 203mg (8%, 634mg (18%, 1g (4%, 86g (96%, 424IU (8%, 4mg (5%, 457mg (46%, 1mg (6%,, 54mg (18%,,https://panlasangpinoy.com/yema-recipe/,"▢
+28 ounces condensed milk equivalent to 2 cans
+▢
+3 tablespoons peanuts roasted","[[], ['28', 'ounces', 'condensed', 'milk', 'equivalent', 'to', '2', 'cans'], [], ['3', 'tablespoons', 'peanuts', 'roasted']]","['condensed', 'milk', 'equivalent', 'to', 'peanuts', 'roasted']"
+No Steam Easy Flan,"10
+minutes","15
+minutes",Dessert, 472kcal (24%, 52g (17%, 10g (20%, 26g (40%, 16g (80%,, 115mg (5%, 286mg (8%,, 50g (56%, 986IU (20%, 2mg (2%, 247mg (25%, 1mg (6%,, 99mg (33%,,https://panlasangpinoy.com/no-steam-easy-flan/,"▢
+2 pieces eggs
+▢
+½ ounce unflavored gelatin powder uncolored
+▢
+7.6 ounces all-purpose cream
+▢
+6 tablespoons sugar
+▢
+1 1/4 cup evaporated milk
+▢
+1/4 cup water
+▢
+1 teaspoon vanilla extract","[[], ['2', 'pieces', 'eggs'], [], ['½', 'ounce', 'unflavored', 'gelatin', 'powder', 'uncolored'], [], ['76', 'ounces', 'allpurpose', 'cream'], [], ['6', 'tablespoons', 'sugar'], [], ['1', '14', 'cup', 'evaporated', 'milk'], [], ['14', 'cup', 'water'], [], ['1', 'teaspoon', 'vanilla', 'extract']]","['eggs', 'unflavored', 'gelatin', 'powder', 'uncolored', 'all', 'purpose', 'cream', 'sugar', 'evaporated', 'milk', 'water', 'vanilla', 'extract']"
+Biko with Latik,"5
+minutes","50
+minutes",Dessert, 952kcal (48%, 129g (43%, 9g (18%, 49g (75%, 43g (215%,, 251mg (10%, 642mg (18%, 2g (8%, 71g (79%,, 2mg (2%, 110mg (11%, 9mg (50%,,,,https://panlasangpinoy.com/how-to-make-biko-with-latik/,"▢
+2 cups glutinous rice washed
+▢
+1 ½ cups water
+▢
+2 cups brown sugar
+▢
+4 cups coconut milk
+▢
+½ teaspoon salt
+▢
+2 cups coconut milk","[[], ['2', 'cups', 'glutinous', 'rice', 'washed'], [], ['1', '½', 'cups', 'water'], [], ['2', 'cups', 'brown', 'sugar'], [], ['4', 'cups', 'coconut', 'milk'], [], ['½', 'teaspoon', 'salt'], [], ['2', 'cups', 'coconut', 'milk']]","['glutinous', 'rice', 'washed', 'water', 'brown', 'sugar', 'coconut', 'milk', 'salt', 'coconut', 'milk']"
+Peach Mango Nuggets,"10
+minutes","5
+minutes",Dessert, 329kcal (16%, 55g (18%, 6g (12%, 11g (17%, 1g (5%,, 241mg (10%, 393mg (11%, 5g (20%, 32g (36%, 1501IU (30%, 48mg (58%, 86mg (9%, 2mg (11%,, 2mg (1%,,https://panlasangpinoy.com/peach-mango-nuggets/,"▢
+3 pieces mango ripe
+▢
+7 ounces peaches canned
+▢
+3 tablespoons brown sugar
+▢
+1 teaspoon cornstarch
+▢
+¼ teaspoon cinnamon powder
+▢
+5 slices loaf bread
+▢
+2 pieces eggs
+▢
+½ cup Panko breadcrumbs
+▢
+1 ½ cups cooking oil","[[], ['3', 'pieces', 'mango', 'ripe'], [], ['7', 'ounces', 'peaches', 'canned'], [], ['3', 'tablespoons', 'brown', 'sugar'], [], ['1', 'teaspoon', 'cornstarch'], [], ['¼', 'teaspoon', 'cinnamon', 'powder'], [], ['5', 'slices', 'loaf', 'bread'], [], ['2', 'pieces', 'eggs'], [], ['½', 'cup', 'Panko', 'breadcrumbs'], [], ['1', '½', 'cups', 'cooking', 'oil']]","['mango', 'ripe', 'peaches', 'canned', 'brown', 'sugar', 'cornstarch', 'cinnamon', 'powder', 'loaf', 'bread', 'eggs', 'panko', 'breadcrumbs', 'cooking', 'oil']"
+Macaroni Fruit Salad,"5
+minutes","10
+minutes",Dessert, 1516kcal (76%, 144g (48%, 29g (58%, 91g (140%, 34g (170%,, 799mg (33%, 824mg (24%, 5g (20%, 84g (93%, 1607IU (32%, 4mg (5%, 600mg (60%, 2mg (11%,, 138mg (46%,,https://panlasangpinoy.com/macaroni-fruit-salad/,"▢
+2 cups elbow macaroni
+▢
+15 ounces fruit cocktail
+▢
+1/2 cup red kaong
+▢
+1/2 cup green kaong
+▢
+6 ounces cheese cubed","[[], ['2', 'cups', 'elbow', 'macaroni'], [], ['15', 'ounces', 'fruit', 'cocktail'], [], ['12', 'cup', 'red', 'kaong'], [], ['12', 'cup', 'green', 'kaong'], [], ['6', 'ounces', 'cheese', 'cubed']]","['elbow', 'macaroni', 'fruit', 'cocktail', 'red', 'kaong', 'green', 'kaong', 'cheese', 'cubed']"
+Mayo Brownies,"10
+minutes","20
+minutes",Dessert, 470kcal (24%, 56g (19%, 5g (10%, 25g (38%, 5g (25%,, 522mg (22%, 103mg (3%, 2g (8%, 35g (39%, 34IU (1%,, 33mg (3%, 2mg (11%,, 3mg (1%,,https://panlasangpinoy.com/mayo-brownies/,"▢
+1 cup all-purpose flour
+▢
+10 tablespoons Lady's Choice Mayonnaise
+▢
+3 tablespoons dark cocoa powder
+▢
+1/2 cup walnuts chopped
+▢
+3/4 cup granulated white sugar
+▢
+1/2 teaspoon salt
+▢
+1 teaspoon baking soda
+▢
+1/2 cup chocolate chips
+▢
+2 pieces eggs
+▢
+1 teaspoon vanilla extract","[[], ['1', 'cup', 'allpurpose', 'flour'], [], ['10', 'tablespoons', 'Ladys', 'Choice', 'Mayonnaise'], [], ['3', 'tablespoons', 'dark', 'cocoa', 'powder'], [], ['12', 'cup', 'walnuts', 'chopped'], [], ['34', 'cup', 'granulated', 'white', 'sugar'], [], ['12', 'teaspoon', 'salt'], [], ['1', 'teaspoon', 'baking', 'soda'], [], ['12', 'cup', 'chocolate', 'chips'], [], ['2', 'pieces', 'eggs'], [], ['1', 'teaspoon', 'vanilla', 'extract']]","['all', 'purpose', 'flour', 'lady', 's', 'choice', 'mayonnaise', 'dark', 'cocoa', 'powder', 'walnuts', 'granulated', 'white', 'sugar', 'salt', 'baking', 'soda', 'chocolate', 'chips', 'eggs', 'vanilla', 'extract']"
+Buko Pandan,"10
+minutes","10
+minutes",Dessert,, 60g (20%, 24g (48%, 31g (48%, 19g (95%,, 194mg (8%, 240mg (7%, 1g (4%, 35g (39%, 1067IU (21%, 2mg (2%, 229mg (23%, 1mg (6%, 2g Calories, 104mg (35%,,https://panlasangpinoy.com/buko-pandan-dessert-recipe/,"▢
+1 1/2 cup young coconut cut into strips
+▢
+5 ounces condensed milk
+▢
+8 ounces Table cream or all-purpose cream
+▢
+3 ounces powdered gelatin
+▢
+1 1/4 cups water
+▢
+6 drops Buko Pandan flavoring
+▢
+2 scoops vanilla ice cream optional
+▢
+1/2 cup sago pearls cooked (optional)","[[], ['1', '12', 'cup', 'young', 'coconut', 'cut', 'into', 'strips'], [], ['5', 'ounces', 'condensed', 'milk'], [], ['8', 'ounces', 'Table', 'cream', 'or', 'allpurpose', 'cream'], [], ['3', 'ounces', 'powdered', 'gelatin'], [], ['1', '14', 'cups', 'water'], [], ['6', 'drops', 'Buko', 'Pandan', 'flavoring'], [], ['2', 'scoops', 'vanilla', 'ice', 'cream', 'optional'], [], ['12', 'cup', 'sago', 'pearls', 'cooked', 'optional']]","['young', 'coconut', 'cut', 'into', 'strips', 'condensed', 'milk', 'table', 'cream', 'or', 'all', 'purpose', 'cream', 'powdered', 'gelatin', 'water', 'drops', 'buko', 'pandan', 'flavoring', 'scoops', 'vanilla', 'ice', 'cream', 'optional', 'sago', 'pearls', 'cooked', 'optional']"
+Ube Kalamay Recipe,"10
+minutes",,Dessert,, 108g (36%, 8g (16%, 39g (60%, 34g (170%,, 43mg (2%, 525mg (15%, 6g (24%, 51g (57%, 26IU (1%, 5mg (6%, 36mg (4%, 6mg (33%, 6g Calories,,,https://panlasangpinoy.com/ube-kalamay-recipe/,"▢
+4 cups coconut milk
+▢
+3/4 cup grated purple yam ube
+▢
+2 teaspoons purple ube flavoring
+▢
+2 cups glutinous rice flour
+▢
+1 ½ cup granulated white sugar
+▢
+½ cup latik
+▢
+2 tablespoons coconut oil","[[], ['4', 'cups', 'coconut', 'milk'], [], ['34', 'cup', 'grated', 'purple', 'yam', 'ube'], [], ['2', 'teaspoons', 'purple', 'ube', 'flavoring'], [], ['2', 'cups', 'glutinous', 'rice', 'flour'], [], ['1', '½', 'cup', 'granulated', 'white', 'sugar'], [], ['½', 'cup', 'latik'], [], ['2', 'tablespoons', 'coconut', 'oil']]","['coconut', 'milk', 'purple', 'yam', 'ube', 'purple', 'ube', 'flavoring', 'glutinous', 'rice', 'flour', 'granulated', 'white', 'sugar', 'latik', 'coconut', 'oil']"
+Suman sa Ibos Recipe,"15
+minutes",,Dessert,, 155g (52%, 15g (30%, 28g (43%, 24g (120%,, 2213mg (92%, 422mg (12%, 5g (20%,,, 1.2mg (1%, 43mg (4%, 7.2mg (40%, 4g Calories,,,https://panlasangpinoy.com/suman-sa-ibos-recipe/,"▢
+4 cups glutinous rice
+▢
+1 1/4 tablespoons sea salt
+▢
+2 1/4 cups coconut milk
+▢
+1 cup water","[[], ['4', 'cups', 'glutinous', 'rice'], [], ['1', '14', 'tablespoons', 'sea', 'salt'], [], ['2', '14', 'cups', 'coconut', 'milk'], [], ['1', 'cup', 'water']]","['glutinous', 'rice', 'sea', 'salt', 'coconut', 'milk', 'water']"
+Turon (Banana Lumpia with Caramel),"10
+minutes","12
+minutes",Dessert,, 58g (19%, 1g (2%, 8g (12%, 1g (5%,,, 123mg (4%, 1g (4%, 55g (61%, 30IU (1%, 3.8mg (5%, 7mg (1%, 0.1mg (1%, 6g Calories, 1mg Sodium,,https://panlasangpinoy.com/turon/,"▢
+6 pieces bananas saba or plantains, cut in half (lengthwise)
+▢
+1 cup jackfruit ripe, sliced
+▢
+1 1/2 cup sugar
+▢
+12 pieces lumpia wrapper
+▢
+2 cups cooking oil","[[], ['6', 'pieces', 'bananas', 'saba', 'or', 'plantains', 'cut', 'in', 'half', 'lengthwise'], [], ['1', 'cup', 'jackfruit', 'ripe', 'sliced'], [], ['1', '12', 'cup', 'sugar'], [], ['12', 'pieces', 'lumpia', 'wrapper'], [], ['2', 'cups', 'cooking', 'oil']]","['bananas', 'saba', 'or', 'plantains', 'cut', 'in', 'lengthwise', 'jackfruit', 'ripe', 'sugar', 'lumpia', 'wrapper', 'cooking', 'oil']"
+Homemade Taho,"5
+minutes","45
+minutes",Dessert,, 114g (38%, 18g (36%, 9g (14%, 1g (5%,, 86mg (4%, 121mg (3%, 3g (12%, 89g (99%,, 0.9mg (1%, 347mg (35%, 3.2mg (18%, 3g Calories,,,https://panlasangpinoy.com/filipino-street-food-homemade-taho-recipe/,"▢
+22 ounces soft silken tofu
+▢
+3/4 cup sago pearls Note 1
+▢
+4 1/2 cups water","[[], ['22', 'ounces', 'soft', 'silken', 'tofu'], [], ['34', 'cup', 'sago', 'pearls', 'Note', '1'], [], ['4', '12', 'cups', 'water']]","['soft', 'silken', 'tofu', 'sago', 'pearls', 'note', 'water']"
+Chocolate Crinkle Cookies,"15
+minutes","13
+minutes",Dessert, 620kcal (31%, 99g (33%, 7g (14%, 24g (37%, 8g (40%,, 193mg (8%, 469mg (13%, 5g (20%, 59g (66%,,, 132mg (13%, 3.7mg (21%,, 2mg (1%,,https://panlasangpinoy.com/chocolate-crinkle-cookies-recipe/,"▢
+2 cups all-purpose flour sifted
+▢
+1/2 cup canola oil
+▢
+1 1/4 cup granulated sugar
+▢
+4 pieces eggs
+▢
+1 tablespoon vanilla extract
+▢
+5 ounces bitter sweet chocolate chips
+▢
+1 cup unsweetened cocoa powder
+▢
+1/2 teaspoon salt
+▢
+2 teaspoons baking powder
+▢
+1 cup powdered sugar","[[], ['2', 'cups', 'allpurpose', 'flour', 'sifted'], [], ['12', 'cup', 'canola', 'oil'], [], ['1', '14', 'cup', 'granulated', 'sugar'], [], ['4', 'pieces', 'eggs'], [], ['1', 'tablespoon', 'vanilla', 'extract'], [], ['5', 'ounces', 'bitter', 'sweet', 'chocolate', 'chips'], [], ['1', 'cup', 'unsweetened', 'cocoa', 'powder'], [], ['12', 'teaspoon', 'salt'], [], ['2', 'teaspoons', 'baking', 'powder'], [], ['1', 'cup', 'powdered', 'sugar']]","['all', 'purpose', 'flour', 'sifted', 'canola', 'oil', 'granulated', 'sugar', 'eggs', 'vanilla', 'extract', 'bitter', 'sweet', 'chocolate', 'chips', 'unsweetened', 'cocoa', 'powder', 'salt', 'baking', 'powder', 'powdered', 'sugar']"
+Maja Blanca,"8
+minutes","35
+minutes",Dessert,, 68g (23%, 8g (16%, 31g (48%, 26g (130%,, 176mg (7%, 541mg (15%,, 47g (52%, 170IU (3%, 3.3mg (4%, 187mg (19%, 4.1mg (23%, 8g Calories, 19mg (6%,,https://panlasangpinoy.com/maja-blanca-recipe/,"▢
+4 cups coconut milk
+▢
+3/4 cup cornstarch
+▢
+14 ounces condensed milk
+▢
+3/4 cup fresh milk
+▢
+3/4 cup granulated sugar
+▢
+15 ounces whole sweet kernel corn
+▢
+5 tbsp toasted grated coconut","[[], ['4', 'cups', 'coconut', 'milk'], [], ['34', 'cup', 'cornstarch'], [], ['14', 'ounces', 'condensed', 'milk'], [], ['34', 'cup', 'fresh', 'milk'], [], ['34', 'cup', 'granulated', 'sugar'], [], ['15', 'ounces', 'whole', 'sweet', 'kernel', 'corn'], [], ['5', 'tbsp', 'toasted', 'grated', 'coconut']]","['coconut', 'milk', 'cornstarch', 'condensed', 'milk', 'fresh', 'milk', 'granulated', 'sugar', 'sweet', 'kernel', 'corn', 'toasted', 'coconut']"
+Filipino Sweet Macaroni Salad,"10
+minutes","10
+minutes",Dessert, 738kcal (37%, 124g (41%, 20g (40%, 19g (29%, 12g (60%,, 355mg (15%, 657mg (19%, 4g (16%, 62g (69%, 490IU (10%, 8mg (10%, 427mg (43%, 1.8mg (10%,, 52mg (17%,,https://panlasangpinoy.com/filipino-sweet-macaroni-salad-lc-mayo/,"▢
+3/4 lb. elbow macaroni
+▢
+1 pack Lady's Choice Mayonnaise 220 ml
+▢
+1 can fruit cocktail 15 oz.
+▢
+12 oz. pineapple chunks
+▢
+1 can condensed milk 14 oz.
+▢
+3/4 cup raisins
+▢
+3/4 cup kaong
+▢
+3/4 cup nata de coco
+▢
+6 oz. cheddar cheese cubed
+▢
+2 quarts water","[[], ['34', 'lb', 'elbow', 'macaroni'], [], ['1', 'pack', 'Ladys', 'Choice', 'Mayonnaise', '220', 'ml'], [], ['1', 'can', 'fruit', 'cocktail', '15', 'oz'], [], ['12', 'oz', 'pineapple', 'chunks'], [], ['1', 'can', 'condensed', 'milk', '14', 'oz'], [], ['34', 'cup', 'raisins'], [], ['34', 'cup', 'kaong'], [], ['34', 'cup', 'nata', 'de', 'coco'], [], ['6', 'oz', 'cheddar', 'cheese', 'cubed'], [], ['2', 'quarts', 'water']]","['elbow', 'macaroni', 'lady', 's', 'choice', 'mayonnaise', 'fruit', 'cocktail', 'pineapple', 'chunks', 'condensed', 'milk', 'raisins', 'kaong', 'nata', 'de', 'coco', 'cheddar', 'cheese', 'cubed', 'water']"
+Puto Bumbong Recipe,,"3
+minutes",Dessert,, 112g (37%, 8g (16%, 22g (34%, 15g (75%,, 165mg (7%, 210mg (6%, 3g (12%, 28g (31%, 475IU (10%, 0.7mg (1%, 59mg (6%, 1.8mg (10%, 6g Calories, 40mg (13%,,https://panlasangpinoy.com/puto-bumbong-recipe/,"▢
+1 1/3 cups sticky purple rice
+▢
+1 1/3 cups glutinous white rice malagkit
+▢
+2/3 cup long grain purple rice
+▢
+6 cups water for soaking the rice
+▢
+3/4 cups muscovado sugar
+▢
+1 1/2 cups freshly grated coconut
+▢
+1/2 cup softened butter","[[], ['1', '13', 'cups', 'sticky', 'purple', 'rice'], [], ['1', '13', 'cups', 'glutinous', 'white', 'rice', 'malagkit'], [], ['23', 'cup', 'long', 'grain', 'purple', 'rice'], [], ['6', 'cups', 'water', 'for', 'soaking', 'the', 'rice'], [], ['34', 'cups', 'muscovado', 'sugar'], [], ['1', '12', 'cups', 'freshly', 'grated', 'coconut'], [], ['12', 'cup', 'softened', 'butter']]","['sticky', 'purple', 'rice', 'glutinous', 'white', 'rice', 'malagkit', 'long', 'grain', 'purple', 'rice', 'water', 'for', 'soaking', 'the', 'rice', 'muscovado', 'sugar', 'freshly', 'coconut', 'softened', 'butter']"
+How to Make Yema,"10
+minutes","15
+minutes",Dessert,, 37g (12%, 6g (12%, 17g (26%, 7g (35%,, 134mg (6%, 281mg (8%,, 36g (40%, 370IU (7%, 1.7mg (2%, 197mg (20%, 0.4mg (2%, 6g Calories, 50mg (17%,,https://panlasangpinoy.com/how-to-make-yema/,"▢
+7 pieces egg yolks
+▢
+1 can condensed milk (14 oz.)
+▢
+3 tablespoons butter
+▢
+5 tablespoons chopped walnuts or peanuts","[[], ['7', 'pieces', 'egg', 'yolks'], [], ['1', 'can', 'condensed', 'milk', '14', 'oz'], [], ['3', 'tablespoons', 'butter'], [], ['5', 'tablespoons', 'chopped', 'walnuts', 'or', 'peanuts']]","['egg', 'yolks', 'condensed', 'milk', 'butter', 'walnuts', 'or', 'peanuts']"
+Oven Baked Leche Flan Recipe,"10
+minutes","50
+minutes",Dessert,, 96g (32%, 18g (36%, 25g (38%, 12g (60%,, 179mg (7%, 510mg (15%,, 95g (106%, 1142IU (23%, 3mg (4%, 421mg (42%, 2mg (11%, 4g Calories, 626mg (209%,,https://panlasangpinoy.com/oven-baked-leche-flan-recipe-dessert/,"▢
+12 egg yolks
+▢
+¾ cups granulated white sugar
+▢
+14 ounces condensed milk
+▢
+1 cup fresh milk
+▢
+1 teaspoon vanilla extract
+▢
+4 cups water hot","[[], ['12', 'egg', 'yolks'], [], ['¾', 'cups', 'granulated', 'white', 'sugar'], [], ['14', 'ounces', 'condensed', 'milk'], [], ['1', 'cup', 'fresh', 'milk'], [], ['1', 'teaspoon', 'vanilla', 'extract'], [], ['4', 'cups', 'water', 'hot']]","['egg', 'yolks', 'granulated', 'white', 'sugar', 'condensed', 'milk', 'fresh', 'milk', 'vanilla', 'extract', 'water', 'hot']"
+Cathedral Window Gelatin Recipe,,"3
+minutes",Dessert,, 53g (18%, 15g (30%, 28g (43%, 18g (90%,, 142mg (6%, 430mg (12%,, 50g (56%, 1085IU (22%, 9.5mg (12%, 277mg (28%, 0.5mg (3%, 5g Calories, 108mg (36%,,https://panlasangpinoy.com/cathedral-window-jelly-recipe/,"▢
+1 1/2 cup gelatin red, yellow, and green jelly cooked according to package instructions and cubed
+▢
+1 1/4 cups whipping cream
+▢
+1 1/2 cups pineapple juice
+▢
+1 can condensed milk 14 oz.
+▢
+4 packets unflavored gelatin colorless","[[], ['1', '12', 'cup', 'gelatin', 'red', 'yellow', 'and', 'green', 'jelly', 'cooked', 'according', 'to', 'package', 'instructions', 'and', 'cubed'], [], ['1', '14', 'cups', 'whipping', 'cream'], [], ['1', '12', 'cups', 'pineapple', 'juice'], [], ['1', 'can', 'condensed', 'milk', '14', 'oz'], [], ['4', 'packets', 'unflavored', 'gelatin', 'colorless']]","['gelatin', 'red', 'yellow', 'and', 'green', 'jelly', 'cooked', 'according', 'to', 'instructions', 'and', 'cubed', 'whipping', 'cream', 'pineapple', 'juice', 'condensed', 'milk', 'packets', 'unflavored', 'gelatin', 'colorless']"
+Fudge Brownies,"10
+minutes","20
+minutes",Dessert, 1906kcal (95%, 244g (81%, 25g (50%, 99g (152%, 56g (280%,, 432mg (18%, 1294mg (37%, 15g (60%, 188g (209%, 310IU (6%, 3mg (4%, 392mg (39%, 10.8mg (60%,, 42mg (14%,,https://panlasangpinoy.com/fudge-brownies-recipe/,"▢
+3/4 cup unsweetened baking cocoa powder
+▢
+1 1/4 cup all-purpose flour
+▢
+2 cups granulated white sugar
+▢
+4 pieces raw eggs
+▢
+10 tablespoons vegetable oil
+▢
+1 1/2 teaspoons vanilla extract
+▢
+1 cup chopped walnuts
+▢
+1/2 teaspoon salt
+▢
+2 cups semi-sweet chocolate chips
+▢
+1 can sweetened condensed milk (14 oz)
+▢
+1 teaspoon vanilla extract","[[], ['34', 'cup', 'unsweetened', 'baking', 'cocoa', 'powder'], [], ['1', '14', 'cup', 'allpurpose', 'flour'], [], ['2', 'cups', 'granulated', 'white', 'sugar'], [], ['4', 'pieces', 'raw', 'eggs'], [], ['10', 'tablespoons', 'vegetable', 'oil'], [], ['1', '12', 'teaspoons', 'vanilla', 'extract'], [], ['1', 'cup', 'chopped', 'walnuts'], [], ['12', 'teaspoon', 'salt'], [], ['2', 'cups', 'semisweet', 'chocolate', 'chips'], [], ['1', 'can', 'sweetened', 'condensed', 'milk', '14', 'oz'], [], ['1', 'teaspoon', 'vanilla', 'extract']]","['unsweetened', 'baking', 'cocoa', 'powder', 'all', 'purpose', 'flour', 'granulated', 'white', 'sugar', 'raw', 'eggs', 'vegetable', 'oil', 'vanilla', 'extract', 'walnuts', 'salt', 'semi', 'sweet', 'chocolate', 'chips', 'sweetened', 'condensed', 'milk', 'vanilla', 'extract']"
+Banana Nut Muffin,"10
+minutes","25
+minutes",Dessert, 2677kcal (134%, 313g (104%, 37g (74%, 151g (232%, 66g (330%,, 289mg (12%, 1322mg (38%, 12g (48%, 154g (171%,, 2.8mg (3%, 403mg (40%, 12.6mg (70%,, 7mg (2%,,https://panlasangpinoy.com/delicious-banana-nut-muffin-recipe/,"▢
+3 pieces medium ripe bananas mashed
+▢
+1 cup walnuts chopped
+▢
+1/4 teaspoon baking soda
+▢
+3/4 cup granulated white sugar
+▢
+1 1/2 cup all-purpose flour
+▢
+1 1/2 teaspoons baking powder
+▢
+1/3 cup vegetable oil
+▢
+2 pieces eggs whites only
+▢
+1/2 teaspoon lemon zest
+▢
+1 teaspoon vanilla extract
+▢
+a pinch salt","[[], ['3', 'pieces', 'medium', 'ripe', 'bananas', 'mashed'], [], ['1', 'cup', 'walnuts', 'chopped'], [], ['14', 'teaspoon', 'baking', 'soda'], [], ['34', 'cup', 'granulated', 'white', 'sugar'], [], ['1', '12', 'cup', 'allpurpose', 'flour'], [], ['1', '12', 'teaspoons', 'baking', 'powder'], [], ['13', 'cup', 'vegetable', 'oil'], [], ['2', 'pieces', 'eggs', 'whites', 'only'], [], ['12', 'teaspoon', 'lemon', 'zest'], [], ['1', 'teaspoon', 'vanilla', 'extract'], [], ['a', 'pinch', 'salt']]","['ripe', 'bananas', 'mashed', 'walnuts', 'baking', 'soda', 'granulated', 'white', 'sugar', 'all', 'purpose', 'flour', 'baking', 'powder', 'vegetable', 'oil', 'eggs', 'whites', 'only', 'lemon', 'zest', 'vanilla', 'extract', 'a', 'salt']"
