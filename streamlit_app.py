@@ -159,14 +159,15 @@ if selectedRecipe:
         if diabetesRestricted:
             output = output[output['diabetes_restricted'] == False]
 
+        print(lessSugar)
         if lessSugar:
-            output = output[recipe_df['Sugar(g)'] <= seed_data['Sugar(g)']]
+            output = output[output['Sugar(g)'] <= seed_data['Sugar(g)']]
 
         if lessCholesterol:
-            output = output[recipe_df['Cholesterol(mg)'] <= seed_data['Cholesterol(mg)']]
+            output = output[output['Cholesterol(mg)'] <= seed_data['Cholesterol(mg)']]
 
         if lessCalories:
-            output = output[recipe_df['Calories(kcal)'] <= seed_data['Calories(kcal)']]
+            output = output[output['Calories(kcal)'] <= seed_data['Calories(kcal)']]
 
         st.divider()
         st.markdown("<h5>Suggested recipes: </h5>", unsafe_allow_html = True)
