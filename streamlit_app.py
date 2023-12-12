@@ -89,7 +89,7 @@ def displayOutput(output, sortBy):
         output = output.style.applymap(highlight, subset=pd.IndexSlice[:, [sortBy]])
 
     st.dataframe(output,
-        height=750,
+        height=800,
         use_container_width = True,
         column_order = ('Recipe Name', 'Calories(kcal)', 'Cholesterol(mg)', 'Sugar(g)', 'Carbohydrates(g)', 'Protein(g)',
             'Fat(g)', 'Saturated Fat(g)', 'Polyunsaturated Fat(g)', 'Sodium(mg)', 'Potassium(mg)',
@@ -146,7 +146,7 @@ if selectedRecipe:
 
         seed_data = recipe_df[recipe_df['recipe_name'] == selectedRecipe].iloc[0]
         recipe_df['cosine_similarity_features'] = recipe_df.apply(lambda x: get_cosine_dist(x[selected_feature_cols],seed_data[selected_feature_cols]), axis=1)
-        output = recipe_df[(recipe_df['recipe_name']!=seed_data['recipe_name']) & (recipe_df['Cluster']==seed_data['Cluster'])].sort_values('cosine_similarity_features')[:20].reset_index(drop=True)
+        output = recipe_df[(recipe_df['recipe_name']!=seed_data['recipe_name']) & (recipe_df['Cluster']==seed_data['Cluster'])].sort_values('cosine_similarity_features')[:50].reset_index(drop=True)
         if (sortBy != "Similarity Score"):
             output = output.sort_values(sortBy)
         else:
