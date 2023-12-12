@@ -131,6 +131,13 @@ if selectedRecipe:
             'Fat(g)', 'Saturated Fat(g)', 'Polyunsaturated Fat(g)', 'Sodium(mg)', 'Potassium(mg)',
             'Fiber(g)',  'Vitamin A(IU)', 'Vitamin C(mg)', 'Calcium(mg)', 'Iron(mg)'])
 
+    with st.expander("Other Filters"):
+        cholesterolRestricted = st.checkbox("Cholesterol Restricted")
+        diabetesRestricted = st.checkbox("Diabestes Restricted")
+        lessCalories = st.checkbox("Less Calories")
+        lessSugar = st.checkbox("Less Sugar")
+        lessCholesterol = st.checkbox("Less Cholesterol")
+
     if st.button("Submit", type="primary"):
         selected_feature_cols = []
         setFeatureCols(selected_feature_cols)
@@ -138,14 +145,29 @@ if selectedRecipe:
             selected_feature_cols = feature_cols
 
         seed_data = recipe_df[recipe_df['recipe_name'] == selectedRecipe].iloc[0]
-        print(selected_feature_cols)
         recipe_df['cosine_similarity_features'] = recipe_df.apply(lambda x: get_cosine_dist(x[selected_feature_cols],seed_data[selected_feature_cols]), axis=1)
         output = recipe_df[(recipe_df['recipe_name']!=seed_data['recipe_name']) & (recipe_df['Cluster']==seed_data['Cluster'])].sort_values('cosine_similarity_features')[:20].reset_index(drop=True)
         if (sortBy != "Similarity Score"):
             output = output.sort_values(sortBy)
         else:
             sortBy = ""
-        
+
+        print(output)
+        if cholesterolRestricted:
+            output = output[output['cholesterol_restricted'] == False]
+
+        if diabetesRestricted:
+            output = output[output['diabetes_restricted'] == False]
+
+        if lessSugar:
+            output = output[recipe_df['Sugar(g)'] < seed_data['Sugar(g)']]
+
+        if lessCholesterol:
+            output = output[recipe_df['Cholesterol(mg)'] < seed_data['Cholesterol(mg)']]
+
+        if lessCalories:
+            output = output[recipe_df['Calories(kcal)'] > seed_data['Calories(kcal)']]
+
         st.divider()
         st.markdown("<h5>Suggested recipes: </h5>", unsafe_allow_html = True)
         displayOutput(output, sortBy)
