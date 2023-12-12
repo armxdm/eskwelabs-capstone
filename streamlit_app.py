@@ -151,15 +151,11 @@ if selectedRecipe:
             output = output.sort_values(sortBy)
         else:
             sortBy = ""
-
-        print(output)
         if cholesterolRestricted:
             output = output[output['cholesterol_restricted'] == False]
 
         if diabetesRestricted:
             output = output[output['diabetes_restricted'] == False]
-
-        print(lessSugar)
         if lessSugar:
             output = output[output['Sugar(g)'] <= seed_data['Sugar(g)']]
 
